@@ -1,17 +1,20 @@
 # Object files
 *.o
+*.out
 
 # Executable files
 *.pyc
 *.exe
 
 # Latex auxiliary files
+*.bcf
 *.aux
 *.log
 *.toc
 *.gz
 *.bbl
 *.blg
+*.run.xml
 
 # VS code files
 *.json
