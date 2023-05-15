@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net" modified="2023-05-15T20:07:27.643Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="dsIGvEY0lLri2jkKXOqv" version="21.3.0" type="device">
+  <diagram name="Страница 1" id="OPrfuYBIi6eHKCeP3E8L">
+    <mxGraphModel dx="978" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="500" pageHeight="300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EPUu1w6SwDRT0T6ihXzy-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="50" y="50" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="EPUu1w6SwDRT0T6ihXzy-2" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="300" y="75" width="110" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="EPUu1w6SwDRT0T6ihXzy-3" value="Оперативная память" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="50" y="50" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EPUu1w6SwDRT0T6ihXzy-4" value="&lt;i&gt;X&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="150" y="125" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EPUu1w6SwDRT0T6ihXzy-5" value="/dev/zram0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="315" y="185" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EPUu1w6SwDRT0T6ihXzy-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="205" y="149.5" as="sourcePoint" />
+            <mxPoint x="285" y="149.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EPUu1w6SwDRT0T6ihXzy-8" value="&lt;i&gt;Xсж&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="335" y="125" width="40" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
