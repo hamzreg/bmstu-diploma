@@ -15,6 +15,7 @@
 *.bbl
 *.blg
 *.run.xml
+*.tex.bak
 
 # VS code files
 *.json
