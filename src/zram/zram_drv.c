@@ -1323,7 +1323,7 @@ out:
 
 static inline u32 ilog2_w(u64 n)
 {
-        return ilog2(n * n * n * n);
+	return ilog2(n * n * n * n);
 }
 
 #define BYTES_NUM 256
@@ -1331,36 +1331,35 @@ static inline u32 ilog2_w(u64 n)
 
 static inline s32 get_sw_entropy(const u8 *src)
 {
-        u16 bytes_frequency[BYTES_NUM] = { 0 };
-        u32 i;
+	u16 bytes_frequency[BYTES_NUM] = { 0 };
+	u32 i;
 
-        ktime_t start, end;
-        s64 delta;
-        start = ktime_get();
-
-        for (i = 0; i < PAGE_SIZE; ++i) {
-                bytes_frequency[src[i]]++;
-        }
-
-        u32 a = ilog2_w(PAGE_SIZE);
-        s32 entropy = 0;
-
-        for (i = 0; i < BYTES_NUM; ++i) {
-                s32 probability = bytes_frequency[i];
-
-                if (probability > 0) {
-                        entropy += probability * (a - ilog2_w((u64)probability));
-                }
-        }
-
-        end = ktime_get();
-        delta = ktime_to_ns(ktime_sub(end, start));
-
-        printk(KERN_INFO "zram: sw_entropy time: %lld nsn", delta);
-        //printk(KERN_INFO "zram: sw_entropy sum: %d", entropy);
-        //printk(KERN_INFO "zram: sw_entropy: %d", entropy / PAGE_SIZE);
-
-        return entropy;
+	ktime_t start, end;
+	s64 delta;
+	start = ktime_get();
+	
+	for (i = 0; i < PAGE_SIZE; ++i) {
+		bytes_frequency[src[i]]++;
+	}
+	
+	u32 a = ilog2_w(PAGE_SIZE);
+	s32 entropy = 0;
+	
+	for (i = 0; i < BYTES_NUM; ++i) {
+		s32 probability = bytes_frequency[i];
+		
+		if (probability > 0) {
+			entropy += probability * (a - ilog2_w((u64)probability));
+		}
+	}
+	
+	end = ktime_get();
+	delta = ktime_to_ns(ktime_sub(end, start));
+	
+	printk(KERN_INFO "zram: sw_entropy: %d", entropy);
+	printk(KERN_INFO "zram: sw_entropy time: %lld nsn", delta);
+	
+	return entropy;
 }
 
 static int __zram_bvec_write(struct zram *zram, struct bio_vec *bvec,
@@ -1376,9 +1375,9 @@ static int __zram_bvec_write(struct zram *zram, struct bio_vec *bvec,
 	unsigned long element = 0;
 	enum zram_pageflags flags = 0;
 	
-        ktime_t start, end;
-        s64 delta;
-        start = ktime_get();
+	ktime_t start, end, compression_start;
+	s64 delta;
+	start = ktime_get();
 
 	mem = kmap_atomic(page);
 	if (page_same_filled(mem, &element)) {
@@ -1393,11 +1392,21 @@ static int __zram_bvec_write(struct zram *zram, struct bio_vec *bvec,
 compress_again:
 	zstrm = zcomp_stream_get(zram->comp);
 	src = kmap_atomic(page);
+	
+	if (get_sw_entropy((const u8 *)src) < ENTROPY_THRESHOLD) {
+		compression_start = ktime_get();
 
-        if (get_sw_entropy((const u8 *)src) < ENTROPY_THRESHOLD)
-                ret = zcomp_compress(zstrm, src, &comp_len);
-        else
-                comp_len = PAGE_SIZE;
+		ret = zcomp_compress(zstrm, src, &comp_len);
+
+		end = ktime_get();
+		delta = ktime_to_ns(ktime_sub(end, compression_start));
+
+		printk(KERN_INFO "zram: compression time: %lld nsn", delta);
+	}
+	else
+		comp_len = PAGE_SIZE;
+
+	printk(KERN_INFO "zram: compressed size: %u B", comp_len);
 
 	kunmap_atomic(src);
 
@@ -1484,10 +1493,10 @@ out:
 	}
 	zram_slot_unlock(zram, index);
 	
-        end = ktime_get();
-        delta = ktime_to_ns(ktime_sub(end, start));
-
-        printk(KERN_INFO "zram: handling time: %lld nsn", delta);
+	end = ktime_get();
+	delta = ktime_to_ns(ktime_sub(end, start));
+	
+	printk(KERN_INFO "zram: handling time: %lld nsn", delta);
 
 	/* Update stats */
 	atomic64_inc(&zram->stats.pages_stored);

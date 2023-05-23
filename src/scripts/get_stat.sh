@@ -11,8 +11,8 @@ RESET_PATH=/sys/block/zram0/reset
 SIZE_PATH=/sys/block/zram0/disksize
 STAT_PATH=/sys/block/zram0/mm_stat
 
-VM1_STAT=/home/regina/bmstu/bmstu-diploma/src/scripts/vm1
-VM2_STAT=/home/regina/bmstu/bmstu-diploma/src/scripts/vm2
+VM1_STAT=/home/regina/bmstu/bmstu-diploma/src/scripts/stat/vm1
+VM2_STAT=/home/regina/bmstu/bmstu-diploma/src/scripts/stat/vm2
 
 
 ssh user@$VM1 "rm -rf data && mkdir data"
@@ -24,10 +24,9 @@ ssh root@$VM1 "dmesg -c"
 ssh root@$VM1 "dd if=$DST/$DATA of=/dev/zram0"
 
 ssh user@$VM1 "cat $STAT_PATH" > $VM1_STAT/mm_stat.txt
-ssh root@$VM1 "dmesg | grep zram" > $VM1_STAT/time.txt
+ssh root@$VM1 "dmesg | grep zram" > $VM1_STAT/logfile.txt
 
-python3 get_stat.py 1 memory $VM1_STAT/mm_stat.txt > stat/vm1_memory.txt
-python3 get_stat.py 1 time $VM1_STAT/time.txt > stat/vm1_time.txt
+python3 table.py n $VM1_STAT/logfile.txt csv
 
 
 ssh user@$VM2 "rm -rf data && mkdir data"
@@ -39,7 +38,6 @@ ssh root@$VM2 "dmesg -c"
 ssh root@$VM2 "dd if=$DST/$DATA of=/dev/zram0"
 
 ssh user@$VM2 "cat $STAT_PATH" > $VM2_STAT/mm_stat.txt
-ssh root@$VM2 "dmesg | grep zram" > $VM2_STAT/time.txt
+ssh root@$VM2 "dmesg | grep zram" > $VM2_STAT/logfile.txt
 
-python3 get_stat.py 2 memory $VM2_STAT/mm_stat.txt > stat/vm2_memory.txt
-python3 get_stat.py 2 time $VM2_STAT/time.txt > stat/vm2_time.txt
+python3 table.py y $VM2_STAT/logfile.txt csv
