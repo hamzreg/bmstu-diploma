@@ -1,0 +1,239 @@
+[33274.616715] zram: sw_entropy: 131169
+[33274.616723] zram: sw_entropy time: 3547 nsn
+[33274.616852] zram: compression time: 123549 nsn
+[33274.616857] zram: compressed size: 4003 B
+[33274.616927] zram: handling time: 216706 nsn
+[33274.616954] zram: sw_entropy: 131816
+[33274.616959] zram: sw_entropy time: 3427 nsn
+[33274.617021] zram: compression time: 57536 nsn
+[33274.617027] zram: compressed size: 4105 B
+[33274.617035] zram: handling time: 85281 nsn
+[33274.617063] zram: sw_entropy: 131808
+[33274.617067] zram: sw_entropy time: 3427 nsn
+[33274.617120] zram: compression time: 47997 nsn
+[33274.617125] zram: compressed size: 4105 B
+[33274.617133] zram: handling time: 74399 nsn
+[33274.617156] zram: sw_entropy: 131805
+[33274.617161] zram: sw_entropy time: 3477 nsn
+[33274.617204] zram: compression time: 33738 nsn
+[33274.617209] zram: compressed size: 4105 B
+[33274.617217] zram: handling time: 64910 nsn
+[33274.617244] zram: sw_entropy: 131738
+[33274.617249] zram: sw_entropy time: 3477 nsn
+[33274.617264] zram: compression time: 10531 nsn
+[33274.617269] zram: compressed size: 4105 B
+[33274.617278] zram: handling time: 37285 nsn
+[33274.617304] zram: sw_entropy: 131513
+[33274.617309] zram: sw_entropy time: 3497 nsn
+[33274.617345] zram: compression time: 31193 nsn
+[33274.617354] zram: compressed size: 4105 B
+[33274.617363] zram: handling time: 62055 nsn
+[33274.617385] zram: sw_entropy: 131882
+[33274.617390] zram: sw_entropy time: 3447 nsn
+[33274.617415] zram: compression time: 20581 nsn
+[33274.617420] zram: compressed size: 4105 B
+[33274.617429] zram: handling time: 47506 nsn
+[33274.617452] zram: sw_entropy: 132095
+[33274.617457] zram: sw_entropy time: 4048 nsn
+[33274.617476] zram: compression time: 14790 nsn
+[33274.617481] zram: compressed size: 4105 B
+[33274.617489] zram: handling time: 42105 nsn
+[33274.617512] zram: sw_entropy: 131849
+[33274.617517] zram: sw_entropy time: 3978 nsn
+[33274.617536] zram: compression time: 14930 nsn
+[33274.617541] zram: compressed size: 4105 B
+[33274.617549] zram: handling time: 41624 nsn
+[33274.617573] zram: sw_entropy: 131924
+[33274.617577] zram: sw_entropy time: 3908 nsn
+[33274.617597] zram: compression time: 14670 nsn
+[33274.617601] zram: compressed size: 4105 B
+[33274.617610] zram: handling time: 41744 nsn
+[33274.617633] zram: sw_entropy: 131976
+[33274.617637] zram: sw_entropy time: 3858 nsn
+[33274.617666] zram: compression time: 24309 nsn
+[33274.617671] zram: compressed size: 4105 B
+[33274.617680] zram: handling time: 51603 nsn
+[33274.617703] zram: sw_entropy: 131794
+[33274.617708] zram: sw_entropy time: 3537 nsn
+[33274.617748] zram: compression time: 35392 nsn
+[33274.617752] zram: compressed size: 4105 B
+[33274.617761] zram: handling time: 62225 nsn
+[33274.617788] zram: sw_entropy: 131707
+[33274.617793] zram: sw_entropy time: 3397 nsn
+[33274.617808] zram: compression time: 10321 nsn
+[33274.617813] zram: compressed size: 4105 B
+[33274.617821] zram: handling time: 37065 nsn
+[33274.617848] zram: sw_entropy: 131642
+[33274.617853] zram: sw_entropy time: 3406 nsn
+[33274.617880] zram: compression time: 22284 nsn
+[33274.617885] zram: compressed size: 4105 B
+[33274.617893] zram: handling time: 48898 nsn
+[33274.617920] zram: sw_entropy: 131950
+[33274.617925] zram: sw_entropy time: 3437 nsn
+[33274.617961] zram: compression time: 26844 nsn
+[33274.617966] zram: compressed size: 4105 B
+[33274.617975] zram: handling time: 57927 nsn
+[33274.618013] zram: sw_entropy: 131884
+[33274.618022] zram: sw_entropy time: 3517 nsn
+[33274.618059] zram: compression time: 32345 nsn
+[33274.618064] zram: compressed size: 4105 B
+[33274.618073] zram: handling time: 63888 nsn
+[33274.618100] zram: sw_entropy: 131458
+[33274.618105] zram: sw_entropy time: 3497 nsn
+[33274.618146] zram: compression time: 36283 nsn
+[33274.618150] zram: compressed size: 4105 B
+[33274.618159] zram: handling time: 63187 nsn
+[33274.618182] zram: sw_entropy: 131778
+[33274.618187] zram: sw_entropy time: 3738 nsn
+[33274.618228] zram: compression time: 36143 nsn
+[33274.618232] zram: compressed size: 4105 B
+[33274.618241] zram: handling time: 62797 nsn
+[33274.618268] zram: sw_entropy: 132145
+[33274.618272] zram: sw_entropy time: 7545 nsn
+[33274.618298] zram: compression time: 20522 nsn
+[33274.618303] zram: compressed size: 4105 B
+[33274.618311] zram: handling time: 51664 nsn
+[33274.618339] zram: sw_entropy: 131978
+[33274.618343] zram: sw_entropy time: 3517 nsn
+[33274.618369] zram: compression time: 20902 nsn
+[33274.618374] zram: compressed size: 4105 B
+[33274.618382] zram: handling time: 47465 nsn
+[33274.618458] zram: sw_entropy: 131997
+[33274.618464] zram: sw_entropy time: 4619 nsn
+[33274.618532] zram: compression time: 61444 nsn
+[33274.618538] zram: compressed size: 4105 B
+[33274.618549] zram: handling time: 96254 nsn
+[33274.618584] zram: sw_entropy: 131945
+[33274.618590] zram: sw_entropy time: 5181 nsn
+[33274.618634] zram: compression time: 37856 nsn
+[33274.618640] zram: compressed size: 4105 B
+[33274.618650] zram: handling time: 72346 nsn
+[33274.618679] zram: sw_entropy: 132009
+[33274.618685] zram: sw_entropy time: 5241 nsn
+[33274.618709] zram: compression time: 12505 nsn
+[33274.618715] zram: compressed size: 4105 B
+[33274.618725] zram: handling time: 51834 nsn
+[33274.618758] zram: sw_entropy: 132247
+[33274.618783] zram: sw_entropy time: 10090 nsn
+[33274.618819] zram: compression time: 29750 nsn
+[33274.618824] zram: compressed size: 4105 B
+[33274.618834] zram: handling time: 85582 nsn
+[33274.618863] zram: sw_entropy: 132062
+[33274.618869] zram: sw_entropy time: 5201 nsn
+[33274.618902] zram: compression time: 21223 nsn
+[33274.618908] zram: compressed size: 4105 B
+[33274.618919] zram: handling time: 61825 nsn
+[33274.618954] zram: sw_entropy: 132055
+[33274.618960] zram: sw_entropy time: 5151 nsn
+[33274.618986] zram: compression time: 19239 nsn
+[33274.618992] zram: compressed size: 4105 B
+[33274.619008] zram: handling time: 58949 nsn
+[33274.619035] zram: sw_entropy: 131978
+[33274.619041] zram: sw_entropy time: 3968 nsn
+[33274.619108] zram: compression time: 60893 nsn
+[33274.619114] zram: compressed size: 4105 B
+[33274.619129] zram: handling time: 97977 nsn
+[33274.619158] zram: sw_entropy: 131939
+[33274.619163] zram: sw_entropy time: 4699 nsn
+[33274.619198] zram: compression time: 29018 nsn
+[33274.619204] zram: compressed size: 4105 B
+[33274.619215] zram: handling time: 62706 nsn
+[33274.619249] zram: sw_entropy: 132074
+[33274.619255] zram: sw_entropy time: 5121 nsn
+[33274.619274] zram: compression time: 12886 nsn
+[33274.619280] zram: compressed size: 4105 B
+[33274.619290] zram: handling time: 51764 nsn
+[33274.619325] zram: sw_entropy: 131512
+[33274.619331] zram: sw_entropy time: 4629 nsn
+[33274.619436] zram: compression time: 99721 nsn
+[33274.619443] zram: compressed size: 4033 B
+[33274.619453] zram: handling time: 133639 nsn
+[33274.619487] zram: sw_entropy: 131621
+[33274.619493] zram: sw_entropy time: 4258 nsn
+[33274.619511] zram: compression time: 12115 nsn
+[33274.619516] zram: compressed size: 4105 B
+[33274.619526] zram: handling time: 48447 nsn
+[33274.619560] zram: sw_entropy: 131914
+[33274.619566] zram: sw_entropy time: 4269 nsn
+[33274.619640] zram: compression time: 68478 nsn
+[33274.619647] zram: compressed size: 4105 B
+[33274.619660] zram: handling time: 105132 nsn
+[33274.619698] zram: sw_entropy: 131851
+[33274.619704] zram: sw_entropy time: 4970 nsn
+[33274.619742] zram: compression time: 32976 nsn
+[33274.619748] zram: compressed size: 4105 B
+[33274.619759] zram: handling time: 67054 nsn
+[33274.619796] zram: sw_entropy: 131791
+[33274.619804] zram: sw_entropy time: 11162 nsn
+[33274.619875] zram: compression time: 63458 nsn
+[33274.619881] zram: compressed size: 4105 B
+[33274.619892] zram: handling time: 107596 nsn
+[33274.619928] zram: sw_entropy: 131945
+[33274.619934] zram: sw_entropy time: 5200 nsn
+[33274.619981] zram: compression time: 40862 nsn
+[33274.619987] zram: compressed size: 4105 B
+[33274.619997] zram: handling time: 74920 nsn
+[33274.620026] zram: sw_entropy: 131912
+[33274.620037] zram: sw_entropy time: 4940 nsn
+[33274.620066] zram: compression time: 22215 nsn
+[33274.620072] zram: compressed size: 4105 B
+[33274.620082] zram: handling time: 61434 nsn
+[33274.620118] zram: sw_entropy: 132083
+[33274.620124] zram: sw_entropy time: 5191 nsn
+[33274.620144] zram: compression time: 13557 nsn
+[33274.620150] zram: compressed size: 4105 B
+[33274.620166] zram: handling time: 53878 nsn
+[33274.620195] zram: sw_entropy: 132000
+[33274.620200] zram: sw_entropy time: 4489 nsn
+[33274.620257] zram: compression time: 50762 nsn
+[33274.620263] zram: compressed size: 4105 B
+[33274.620275] zram: handling time: 84561 nsn
+[33274.620310] zram: sw_entropy: 131945
+[33274.620315] zram: sw_entropy time: 4980 nsn
+[33274.620351] zram: compression time: 30231 nsn
+[33274.620358] zram: compressed size: 4105 B
+[33274.620368] zram: handling time: 64109 nsn
+[33274.620397] zram: sw_entropy: 131943
+[33274.620409] zram: sw_entropy time: 4940 nsn
+[33274.620472] zram: compression time: 57365 nsn
+[33274.620479] zram: compressed size: 4105 B
+[33274.620489] zram: handling time: 97476 nsn
+[33274.620519] zram: sw_entropy: 132204
+[33274.620530] zram: sw_entropy time: 4810 nsn
+[33274.620550] zram: compression time: 13106 nsn
+[33274.620556] zram: compressed size: 4105 B
+[33274.620567] zram: handling time: 53027 nsn
+[33274.620602] zram: sw_entropy: 131831
+[33274.620607] zram: sw_entropy time: 4800 nsn
+[33274.620626] zram: compression time: 12806 nsn
+[33274.620632] zram: compressed size: 4105 B
+[33274.620647] zram: handling time: 51423 nsn
+[33274.620678] zram: sw_entropy: 132072
+[33274.620684] zram: sw_entropy time: 5100 nsn
+[33274.620728] zram: compression time: 38257 nsn
+[33274.620734] zram: compressed size: 4105 B
+[33274.620745] zram: handling time: 72737 nsn
+[33274.620780] zram: sw_entropy: 132021
+[33274.620786] zram: sw_entropy time: 4680 nsn
+[33274.620842] zram: compression time: 49379 nsn
+[33274.620848] zram: compressed size: 4105 B
+[33274.620859] zram: handling time: 84690 nsn
+[33274.620894] zram: sw_entropy: 131916
+[33274.620900] zram: sw_entropy time: 9800 nsn
+[33274.620919] zram: compression time: 12976 nsn
+[33274.620925] zram: compressed size: 4105 B
+[33274.620935] zram: handling time: 51724 nsn
+[33274.620973] zram: sw_entropy: 132007
+[33274.620979] zram: sw_entropy time: 5180 nsn
+[33274.620997] zram: compression time: 12996 nsn
+[33274.621003] zram: compressed size: 4105 B
+[33274.621019] zram: handling time: 51925 nsn
+[33274.621048] zram: sw_entropy: 132126
+[33274.621053] zram: sw_entropy time: 4869 nsn
+[33274.621084] zram: compression time: 24890 nsn
+[33274.621090] zram: compressed size: 4105 B
+[33274.621101] zram: handling time: 58438 nsn
+[33274.621138] zram: sw_entropy: 48197
+[33274.621144] zram: sw_entropy time: 13187 nsn
+[33274.621188] zram: compression time: 38086 nsn
+[33274.621199] zram: compressed size: 1108 B

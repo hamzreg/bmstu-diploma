@@ -3,6 +3,7 @@ import pandas as pd
 
 from dataclasses import dataclass
 from prettytable import PrettyTable
+from math import log, e
 
 
 @dataclass
@@ -13,8 +14,6 @@ class Format:
 OUTPUT_PATH = '/home/regina/bmstu/bmstu-diploma/src/scripts/stat/'
 
 COLUMNS_NUM = 5
-COLUMNS = {'entropy': 0, 'entropy_time': 1, 
-           'compression_time': 0, 'compressed_size': 1, 'handling_time': 2}
 PAGE_SIZE = 4096
 
 SEPARATOR = ': '
@@ -53,7 +52,16 @@ def parse_lines(optimization, lines):
 
         data[i][-2], data[i][-1] = data[i][-1], data[i][-2]
         data[i].insert(columns_num, PAGE_SIZE)
-        data[i].append(float(data[i][-2]) / float(data[i][-1]))
+
+        compression_ratio = float(data[i][-2]) / float(data[i][-1])
+        compression_factor = 1 / compression_ratio
+        space_savings = 1 - compression_factor
+        compression_gain = 100 * log(e, compression_ratio)
+    
+        data[i].append(compression_ratio)
+        data[i].append(compression_factor)
+        data[i].append(space_savings)
+        data[i].append(compression_gain)
 
     return data
 
@@ -70,14 +78,15 @@ def get_data(optimization, logfile):
     return data
 
 
-# | ID | ENTROPY | ENTROPY_TIME | COMPRESSION_TIME | HANDLING_TIME | SIZE | COMPRESSED_SIZE | COMPRESSION_RATIO | ... |
-# | -- | ------- | ------------ | ---------------- | ------------- | ---- | --------------- | ----------------- | ... |
+# | ID | ENTROPY | ENTROPY_TIME | COMPRESSION_TIME | HANDLING_TIME | SIZE | COMPRESSED_SIZE | COMPRESSION_RATIO | COMPRESSION_FACTOR | SPACE_SAVINGS | COMPRESSION_GAIN |
+# | -- | ------- | ------------ | ---------------- | ------------- | ---- | --------------- | ----------------- | ------------------ | ------------- | ---------------- |
 
 def get_table(optimization, logfile, format):
     fields = ['ID', 
               'COMPRESSION_TIME', 'HANDLING_TIME', 
               'SIZE', 'COMPRESSED_SIZE',
-              'COMPRESSION_RATIO']
+              'COMPRESSION_RATIO', 'COMPRESSION_FACTOR',
+              'SPACE_SAVINGS', 'COMPRESSION_GAIN']
 
     if optimization:
         fields.insert(1, 'ENTROPY')

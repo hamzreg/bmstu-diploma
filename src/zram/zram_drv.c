@@ -1392,20 +1392,18 @@ static int __zram_bvec_write(struct zram *zram, struct bio_vec *bvec,
 compress_again:
 	zstrm = zcomp_stream_get(zram->comp);
 	src = kmap_atomic(page);
+
+	// получаем энтропию и ее время подсчета
+	get_sw_entropy((const u8 *)src);
 	
-	if (get_sw_entropy((const u8 *)src) < ENTROPY_THRESHOLD) {
-		compression_start = ktime_get();
+	// получаем время сжатия и размер сжатых данных
+	compression_start = ktime_get();
+	ret = zcomp_compress(zstrm, src, &comp_len);
 
-		ret = zcomp_compress(zstrm, src, &comp_len);
+	end = ktime_get();
+	delta = ktime_to_ns(ktime_sub(end, compression_start));
 
-		end = ktime_get();
-		delta = ktime_to_ns(ktime_sub(end, compression_start));
-
-		printk(KERN_INFO "zram: compression time: %lld nsn", delta);
-	}
-	else
-		comp_len = PAGE_SIZE;
-
+	printk(KERN_INFO "zram: compression time: %lld nsn", delta);
 	printk(KERN_INFO "zram: compressed size: %u B", comp_len);
 
 	kunmap_atomic(src);
@@ -1493,6 +1491,7 @@ out:
 	}
 	zram_slot_unlock(zram, index);
 	
+	// получаем время обработки страницы
 	end = ktime_get();
 	delta = ktime_to_ns(ktime_sub(end, start));
 	
