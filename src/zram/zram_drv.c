@@ -1327,37 +1327,26 @@ static inline u32 ilog2_w(u64 n)
 }
 
 #define BYTES_NUM 256
-#define ENTROPY_THRESHOLD 100000
 
 static inline s32 get_sw_entropy(const u8 *src)
 {
 	u16 bytes_frequency[BYTES_NUM] = { 0 };
 	u32 i;
 
-	ktime_t start, end;
-	s64 delta;
-	start = ktime_get();
-	
 	for (i = 0; i < PAGE_SIZE; ++i) {
 		bytes_frequency[src[i]]++;
 	}
-	
+
 	u32 a = ilog2_w(PAGE_SIZE);
 	s32 entropy = 0;
-	
+
 	for (i = 0; i < BYTES_NUM; ++i) {
 		s32 probability = bytes_frequency[i];
-		
+
 		if (probability > 0) {
 			entropy += probability * (a - ilog2_w((u64)probability));
 		}
 	}
-	
-	end = ktime_get();
-	delta = ktime_to_ns(ktime_sub(end, start));
-	
-	printk(KERN_INFO "zram: sw_entropy: %d", entropy);
-	printk(KERN_INFO "zram: sw_entropy time: %lld nsn", delta);
 	
 	return entropy;
 }
@@ -1375,8 +1364,10 @@ static int __zram_bvec_write(struct zram *zram, struct bio_vec *bvec,
 	unsigned long element = 0;
 	enum zram_pageflags flags = 0;
 	
-	ktime_t start, end, compression_start;
-	s64 delta;
+	ktime_t entropy_start, compression_start, start;
+	ktime_t end;
+	s64 entropy_delta, compression_delta, delta;
+
 	start = ktime_get();
 
 	mem = kmap_atomic(page);
@@ -1394,17 +1385,22 @@ compress_again:
 	src = kmap_atomic(page);
 
 	// получаем энтропию и ее время подсчета
-	get_sw_entropy((const u8 *)src);
-	
+	entropy_start = ktime_get();
+
+	s32 entropy = get_sw_entropy((const u8 *)src);
+
+	end = ktime_get();
+	entropy_delta = ktime_to_ns(ktime_sub(end, entropy_start));
+
 	// получаем время сжатия и размер сжатых данных
 	compression_start = ktime_get();
+
 	ret = zcomp_compress(zstrm, src, &comp_len);
 
 	end = ktime_get();
-	delta = ktime_to_ns(ktime_sub(end, compression_start));
+	compression_delta = ktime_to_ns(ktime_sub(end, compression_start));
 
-	printk(KERN_INFO "zram: compression time: %lld nsn", delta);
-	printk(KERN_INFO "zram: compressed size: %u B", comp_len);
+	unsigned int my_comp_len = comp_len;
 
 	kunmap_atomic(src);
 
@@ -1494,8 +1490,10 @@ out:
 	// получаем время обработки страницы
 	end = ktime_get();
 	delta = ktime_to_ns(ktime_sub(end, start));
-	
-	printk(KERN_INFO "zram: handling time: %lld nsn", delta);
+
+	printk(KERN_INFO "zram: %d, %lld, %lld, %u, %lld", entropy, entropy_delta,
+													   compression_delta, my_comp_len,
+													   delta);
 
 	/* Update stats */
 	atomic64_inc(&zram->stats.pages_stored);
