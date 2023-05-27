@@ -38,26 +38,24 @@ def parse_lines(optimization, lines):
     columns_num = COLUMNS_NUM if optimization else COLUMNS_NUM - 2
     data = []
 
-    page_num = len(lines) // columns_num
-    
-    for i in range(page_num):
+    for i, line in enumerate(lines):
         data.append([i + 1])
 
-        for j in range(columns_num):
-            line = lines[i * columns_num + j]
-            value = line.split(SEPARATOR)[2]
-            value = value.split()[0]
+        values = line.split(SEPARATOR)[1]
+        values = values.split()
+
+        for value in values:
+            value = value[:-1] if value[-1] == ',' else value
 
             data[i].append(value)
 
-        data[i][-2], data[i][-1] = data[i][-1], data[i][-2]
         data[i].insert(columns_num, PAGE_SIZE)
 
-        compression_ratio = float(data[i][-2]) / float(data[i][-1])
+        compression_ratio = float(PAGE_SIZE) / float(data[i][-1])
         compression_factor = 1 / compression_ratio
         space_savings = 1 - compression_factor
         compression_gain = 100 * log(e, compression_ratio)
-    
+
         data[i].append(compression_ratio)
         data[i].append(compression_factor)
         data[i].append(space_savings)

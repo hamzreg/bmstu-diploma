@@ -24,7 +24,7 @@ ssh root@$VM1 "dmesg -c"
 ssh root@$VM1 "dd if=$DST/$DATA of=/dev/zram0"
 
 ssh user@$VM1 "cat $STAT_PATH" > $VM1_STAT/mm_stat.txt
-ssh root@$VM1 "dmesg | grep zram" > $VM1_STAT/logfile.txt
+ssh root@$VM1 "dmesg -s 32768 | grep zram" > $VM1_STAT/logfile.txt
 
 python3 table.py n $VM1_STAT/logfile.txt csv
 
