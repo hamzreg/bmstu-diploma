@@ -39,10 +39,13 @@ def parse_lines(optimization, lines):
     data = []
 
     for i, line in enumerate(lines):
-        data.append([i + 1])
-
         values = line.split(SEPARATOR)[1]
         values = values.split()
+
+        if float(values[-1]) == 0:
+            continue
+
+        data.append([i + 1])
 
         for value in values:
             value = value[:-1] if value[-1] == ',' else value
