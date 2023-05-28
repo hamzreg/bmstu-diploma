@@ -16,7 +16,7 @@
 int get_sw_entropy(const unsigned char *const src,
                    const int type_log);
 
-int get_binomial_entropy(const unsigned char *const src,
+long long get_binomial_entropy(const unsigned char *const src,
                          const int type_log);
 
 #endif

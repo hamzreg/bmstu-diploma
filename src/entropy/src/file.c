@@ -70,7 +70,7 @@ int analyze_file(const char *const file_name, const int entropy_method,
         }
         else
         {
-            unsigned long long entropy_sum = get_binomial_entropy(data + page_size * (i + 1), type_log);
+            long long entropy_sum = get_binomial_entropy(data + page_size * (i + 1), type_log);
             printf("суммарная энтропия: %lld\n", entropy_sum);
         }
     }

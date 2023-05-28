@@ -1,6 +1,6 @@
 #include "../inc/entropy.h"
 
-int log2_w(const int value, const int type_log)
+unsigned long long log2_w(const unsigned long long value, const int type_log)
 {
     /* 
      * это дает неправильные результаты
@@ -10,7 +10,7 @@ int log2_w(const int value, const int type_log)
     if (type_log == LOG4)
         return log2(value * value * value * value);
 
-    return log2(value);
+    return log2l(value);
 }
 
 int get_sw_entropy(const unsigned char *const src,
@@ -36,7 +36,7 @@ int get_sw_entropy(const unsigned char *const src,
     return entropy_sum;
 }
 
-int get_binomial_entropy(const unsigned char *const src,
+long long get_binomial_entropy(const unsigned char *const src,
                          const int type_log)
 {
     long page_size = sysconf(_SC_PAGESIZE);
@@ -51,12 +51,14 @@ int get_binomial_entropy(const unsigned char *const src,
     int zero_number = 100 - units_number;
     printf("p = %d, 1 - p = %d\n", units_number, zero_number);
 
-    int binomial_factors[MSG_LEN + 1] = {1, 4, 6, 1};
+    //int binomial_factors[MSG_LEN + 1] = {1, 8, 28, 56, 70, 56, 28, 8, 1};
+    int binomial_factors[MSG_LEN + 1] = {1, 4, 6, 4, 1};
+    //int binomial_factors[MSG_LEN + 1] = {1, 2, 1};
 
     unsigned long long size = pow(100, MSG_LEN);
-    //printf("size = %llu\n", size);
+    printf("size = %llu\n", size);
     unsigned long long a = log2_w(size, type_log);
-    //printf("a = %llu\n", a);
+    printf("a = %llu\n", a);
     long long entropy_sum = 0;
 
     if (units_number == 0 || zero_number == 0)
@@ -78,7 +80,7 @@ int get_binomial_entropy(const unsigned char *const src,
             //printf("p = %llu\n", p);
         }
 
-        //printf("%d\n", log2_w(p, type_log));
+        //printf("%lld\n", log2_w(p, type_log));
 
         entropy_sum += binomial_factors[i] * p * (a - log2_w(p, type_log));
         //printf("entropy = %lld\n", entropy_sum);
