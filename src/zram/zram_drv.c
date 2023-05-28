@@ -1495,8 +1495,8 @@ out:
 	delta = ktime_to_ns(ktime_sub(end, start));
 
 	printk(KERN_INFO "zram: %d, %lld, %lld, %lld, %u", entropy, entropy_delta,
-													   compression_delta, delta,
-													   my_comp_len);
+	                                                   compression_delta, delta,
+	                                                   my_comp_len);
 
 	/* Update stats */
 	atomic64_inc(&zram->stats.pages_stored);
