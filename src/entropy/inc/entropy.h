@@ -7,6 +7,7 @@
 
 #define BYTES_NUM 256
 #define BITS_NUM 8
+#define MSG_LEN 4
 
 #define LOG 0
 #define LOG4 1

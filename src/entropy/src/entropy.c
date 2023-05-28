@@ -45,31 +45,43 @@ int get_binomial_entropy(const unsigned char *const src,
     for (int i = 0; i < page_size; ++i) 
         for (int j = 0; j < BITS_NUM; ++j) 
             units_number += (src[i] >> (BITS_NUM - j - 1)) & 0x01;
+    
+    int max_bits_num = page_size * BITS_NUM;
+    units_number = units_number * 100 / max_bits_num;
+    int zero_number = 100 - units_number;
+    printf("p = %d, 1 - p = %d\n", units_number, zero_number);
 
-    // непонятно, как получать вероятности появления единицы и нуля
-    int zero_number = (page_size * BITS_NUM - units_number) / page_size;
-    units_number /= page_size;
+    int binomial_factors[MSG_LEN + 1] = {1, 4, 6, 1};
 
-    int binomial_factors[BITS_NUM + 1] = {1, 8, 28, 56, 70, 56, 28, 8, 1};
-
-    // значения p и size большие
-    unsigned long long size = pow(page_size, BITS_NUM);
+    unsigned long long size = pow(100, MSG_LEN);
+    //printf("size = %llu\n", size);
     unsigned long long a = log2_w(size, type_log);
-    unsigned long long entropy_sum = 0;
+    //printf("a = %llu\n", a);
+    long long entropy_sum = 0;
 
-    for (int i = 0; i < BITS_NUM + 1; ++i) 
+    if (units_number == 0 || zero_number == 0)
+        return entropy_sum;
+
+    for (int i = 0; i < MSG_LEN + 1; ++i) 
     {
-        int p = 1;
+        unsigned long long p = 1;
 
         for  (int j = 0; j < i; ++j)
+        {
             p *= units_number;
+            //printf("p = %llu\n", p);
+        }
 
-        for  (int j = 0; j < BITS_NUM - i; ++j)
+        for  (int j = 0; j < MSG_LEN - i; ++j)
+        {
             p *= zero_number;
+            //printf("p = %llu\n", p);
+        }
 
-        // если p = 0, log2 возвращает -inf
+        //printf("%d\n", log2_w(p, type_log));
 
-        entropy_sum += binomial_factors[i] * p * (a - log2_w(p, type_log)); 
+        entropy_sum += binomial_factors[i] * p * (a - log2_w(p, type_log));
+        //printf("entropy = %lld\n", entropy_sum);
     }
 
     return entropy_sum;

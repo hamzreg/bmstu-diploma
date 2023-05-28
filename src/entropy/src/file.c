@@ -60,25 +60,19 @@ int analyze_file(const char *const file_name, const int entropy_method,
         return DATA_ERROR;
     }
 
-    long size = pow(page_size, BITS_NUM);
-
     for (int i = 0; i < data_size / page_size; ++i)
     {
         printf("Страница %d:\n", i + 1);
-        int entropy_sum = 0;
-        
-
         if (entropy_method == SW_ENTROPY)
-            entropy_sum = get_sw_entropy(data + page_size * (i + 1), type_log);
+        {
+            int entropy_sum = get_sw_entropy(data + page_size * (i + 1), type_log);
+            printf("суммарная энтропия: %d\n", entropy_sum);
+        }
         else
-            entropy_sum = get_binomial_entropy(data + page_size * (i + 1), type_log);
-
-        printf("- /PAGE_SIZE: %d\n", entropy_sum);
-
-        if (entropy_method == SW_ENTROPY)
-            printf("+ /PAGE_SIZE: %ld\n\n", entropy_sum / page_size);
-        else
-            printf("+ /PAGE_SIZE: %ld\n\n", entropy_sum / size);
+        {
+            unsigned long long entropy_sum = get_binomial_entropy(data + page_size * (i + 1), type_log);
+            printf("суммарная энтропия: %lld\n", entropy_sum);
+        }
     }
 
     free(data);

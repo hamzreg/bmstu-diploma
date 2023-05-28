@@ -1,0 +1,9200 @@
+Размер файла: 18831360 байтов.
+Размер данных: 18833408 байтов.
+Число страниц: 4598.
+
+Страница 1:
+entropy sum: 21356
+Страница 2:
+entropy sum: 21643
+Страница 3:
+entropy sum: 21779
+Страница 4:
+entropy sum: 23350
+Страница 5:
+entropy sum: 23772
+Страница 6:
+entropy sum: 23792
+Страница 7:
+entropy sum: 22879
+Страница 8:
+entropy sum: 23489
+Страница 9:
+entropy sum: 23192
+Страница 10:
+entropy sum: 23173
+Страница 11:
+entropy sum: 22860
+Страница 12:
+entropy sum: 21177
+Страница 13:
+entropy sum: 21837
+Страница 14:
+entropy sum: 22005
+Страница 15:
+entropy sum: 24280
+Страница 16:
+entropy sum: 23455
+Страница 17:
+entropy sum: 22804
+Страница 18:
+entropy sum: 22821
+Страница 19:
+entropy sum: 22304
+Страница 20:
+entropy sum: 23818
+Страница 21:
+entropy sum: 23466
+Страница 22:
+entropy sum: 24053
+Страница 23:
+entropy sum: 23702
+Страница 24:
+entropy sum: 23262
+Страница 25:
+entropy sum: 23894
+Страница 26:
+entropy sum: 23263
+Страница 27:
+entropy sum: 21311
+Страница 28:
+entropy sum: 21085
+Страница 29:
+entropy sum: 21090
+Страница 30:
+entropy sum: 21090
+Страница 31:
+entropy sum: 21123
+Страница 32:
+entropy sum: 20386
+Страница 33:
+entropy sum: 24682
+Страница 34:
+entropy sum: 23141
+Страница 35:
+entropy sum: 22282
+Страница 36:
+entropy sum: 21951
+Страница 37:
+entropy sum: 23441
+Страница 38:
+entropy sum: 23020
+Страница 39:
+entropy sum: 22551
+Страница 40:
+entropy sum: 22813
+Страница 41:
+entropy sum: 23799
+Страница 42:
+entropy sum: 21983
+Страница 43:
+entropy sum: 21569
+Страница 44:
+entropy sum: 22838
+Страница 45:
+entropy sum: 23419
+Страница 46:
+entropy sum: 22682
+Страница 47:
+entropy sum: 22663
+Страница 48:
+entropy sum: 21307
+Страница 49:
+entropy sum: 22207
+Страница 50:
+entropy sum: 21577
+Страница 51:
+entropy sum: 22302
+Страница 52:
+entropy sum: 22637
+Страница 53:
+entropy sum: 23965
+Страница 54:
+entropy sum: 22657
+Страница 55:
+entropy sum: 20139
+Страница 56:
+entropy sum: 21861
+Страница 57:
+entropy sum: 22065
+Страница 58:
+entropy sum: 23398
+Страница 59:
+entropy sum: 23368
+Страница 60:
+entropy sum: 23479
+Страница 61:
+entropy sum: 23386
+Страница 62:
+entropy sum: 21758
+Страница 63:
+entropy sum: 22567
+Страница 64:
+entropy sum: 22672
+Страница 65:
+entropy sum: 22462
+Страница 66:
+entropy sum: 22382
+Страница 67:
+entropy sum: 22215
+Страница 68:
+entropy sum: 22348
+Страница 69:
+entropy sum: 22363
+Страница 70:
+entropy sum: 22683
+Страница 71:
+entropy sum: 22338
+Страница 72:
+entropy sum: 22331
+Страница 73:
+entropy sum: 21389
+Страница 74:
+entropy sum: 21152
+Страница 75:
+entropy sum: 22396
+Страница 76:
+entropy sum: 22547
+Страница 77:
+entropy sum: 22033
+Страница 78:
+entropy sum: 22657
+Страница 79:
+entropy sum: 21937
+Страница 80:
+entropy sum: 21850
+Страница 81:
+entropy sum: 22943
+Страница 82:
+entropy sum: 22492
+Страница 83:
+entropy sum: 22686
+Страница 84:
+entropy sum: 22565
+Страница 85:
+entropy sum: 21684
+Страница 86:
+entropy sum: 22818
+Страница 87:
+entropy sum: 22364
+Страница 88:
+entropy sum: 21847
+Страница 89:
+entropy sum: 22121
+Страница 90:
+entropy sum: 22513
+Страница 91:
+entropy sum: 22452
+Страница 92:
+entropy sum: 22860
+Страница 93:
+entropy sum: 22856
+Страница 94:
+entropy sum: 24002
+Страница 95:
+entropy sum: 24448
+Страница 96:
+entropy sum: 23484
+Страница 97:
+entropy sum: 22861
+Страница 98:
+entropy sum: 22673
+Страница 99:
+entropy sum: 22701
+Страница 100:
+entropy sum: 21551
+Страница 101:
+entropy sum: 24322
+Страница 102:
+entropy sum: 21291
+Страница 103:
+entropy sum: 23373
+Страница 104:
+entropy sum: 23058
+Страница 105:
+entropy sum: 21977
+Страница 106:
+entropy sum: 20636
+Страница 107:
+entropy sum: 22527
+Страница 108:
+entropy sum: 22711
+Страница 109:
+entropy sum: 22789
+Страница 110:
+entropy sum: 21972
+Страница 111:
+entropy sum: 21085
+Страница 112:
+entropy sum: 21109
+Страница 113:
+entropy sum: 22108
+Страница 114:
+entropy sum: 22813
+Страница 115:
+entropy sum: 23220
+Страница 116:
+entropy sum: 22268
+Страница 117:
+entropy sum: 23554
+Страница 118:
+entropy sum: 20132
+Страница 119:
+entropy sum: 20711
+Страница 120:
+entropy sum: 23259
+Страница 121:
+entropy sum: 22528
+Страница 122:
+entropy sum: 21852
+Страница 123:
+entropy sum: 21725
+Страница 124:
+entropy sum: 22946
+Страница 125:
+entropy sum: 22315
+Страница 126:
+entropy sum: 24568
+Страница 127:
+entropy sum: 23854
+Страница 128:
+entropy sum: 23808
+Страница 129:
+entropy sum: 22874
+Страница 130:
+entropy sum: 21497
+Страница 131:
+entropy sum: 22535
+Страница 132:
+entropy sum: 21709
+Страница 133:
+entropy sum: 22638
+Страница 134:
+entropy sum: 21820
+Страница 135:
+entropy sum: 21829
+Страница 136:
+entropy sum: 22781
+Страница 137:
+entropy sum: 22075
+Страница 138:
+entropy sum: 22077
+Страница 139:
+entropy sum: 21275
+Страница 140:
+entropy sum: 22512
+Страница 141:
+entropy sum: 19899
+Страница 142:
+entropy sum: 23197
+Страница 143:
+entropy sum: 22914
+Страница 144:
+entropy sum: 19826
+Страница 145:
+entropy sum: 23204
+Страница 146:
+entropy sum: 21469
+Страница 147:
+entropy sum: 19262
+Страница 148:
+entropy sum: 18864
+Страница 149:
+entropy sum: 22083
+Страница 150:
+entropy sum: 21448
+Страница 151:
+entropy sum: 22088
+Страница 152:
+entropy sum: 22708
+Страница 153:
+entropy sum: 22741
+Страница 154:
+entropy sum: 22164
+Страница 155:
+entropy sum: 22096
+Страница 156:
+entropy sum: 20822
+Страница 157:
+entropy sum: 23690
+Страница 158:
+entropy sum: 20824
+Страница 159:
+entropy sum: 21129
+Страница 160:
+entropy sum: 22624
+Страница 161:
+entropy sum: 19150
+Страница 162:
+entropy sum: 21528
+Страница 163:
+entropy sum: 22932
+Страница 164:
+entropy sum: 23097
+Страница 165:
+entropy sum: 23214
+Страница 166:
+entropy sum: 21959
+Страница 167:
+entropy sum: 22033
+Страница 168:
+entropy sum: 21621
+Страница 169:
+entropy sum: 21882
+Страница 170:
+entropy sum: 21462
+Страница 171:
+entropy sum: 21423
+Страница 172:
+entropy sum: 21514
+Страница 173:
+entropy sum: 23950
+Страница 174:
+entropy sum: 21502
+Страница 175:
+entropy sum: 21120
+Страница 176:
+entropy sum: 22158
+Страница 177:
+entropy sum: 22050
+Страница 178:
+entropy sum: 22361
+Страница 179:
+entropy sum: 21562
+Страница 180:
+entropy sum: 22767
+Страница 181:
+entropy sum: 22321
+Страница 182:
+entropy sum: 23827
+Страница 183:
+entropy sum: 23193
+Страница 184:
+entropy sum: 23010
+Страница 185:
+entropy sum: 24044
+Страница 186:
+entropy sum: 22622
+Страница 187:
+entropy sum: 21224
+Страница 188:
+entropy sum: 21450
+Страница 189:
+entropy sum: 21520
+Страница 190:
+entropy sum: 20637
+Страница 191:
+entropy sum: 20070
+Страница 192:
+entropy sum: 21496
+Страница 193:
+entropy sum: 20605
+Страница 194:
+entropy sum: 23437
+Страница 195:
+entropy sum: 19875
+Страница 196:
+entropy sum: 22188
+Страница 197:
+entropy sum: 22815
+Страница 198:
+entropy sum: 21899
+Страница 199:
+entropy sum: 21997
+Страница 200:
+entropy sum: 21904
+Страница 201:
+entropy sum: 22747
+Страница 202:
+entropy sum: 22441
+Страница 203:
+entropy sum: 20265
+Страница 204:
+entropy sum: 22447
+Страница 205:
+entropy sum: 21703
+Страница 206:
+entropy sum: 21649
+Страница 207:
+entropy sum: 22220
+Страница 208:
+entropy sum: 22211
+Страница 209:
+entropy sum: 22047
+Страница 210:
+entropy sum: 21187
+Страница 211:
+entropy sum: 21968
+Страница 212:
+entropy sum: 22331
+Страница 213:
+entropy sum: 22911
+Страница 214:
+entropy sum: 22786
+Страница 215:
+entropy sum: 23340
+Страница 216:
+entropy sum: 21796
+Страница 217:
+entropy sum: 22391
+Страница 218:
+entropy sum: 22571
+Страница 219:
+entropy sum: 21225
+Страница 220:
+entropy sum: 22469
+Страница 221:
+entropy sum: 22424
+Страница 222:
+entropy sum: 20262
+Страница 223:
+entropy sum: 21783
+Страница 224:
+entropy sum: 21589
+Страница 225:
+entropy sum: 21088
+Страница 226:
+entropy sum: 21563
+Страница 227:
+entropy sum: 19540
+Страница 228:
+entropy sum: 23183
+Страница 229:
+entropy sum: 20566
+Страница 230:
+entropy sum: 24430
+Страница 231:
+entropy sum: 23814
+Страница 232:
+entropy sum: 23339
+Страница 233:
+entropy sum: 19603
+Страница 234:
+entropy sum: 15536
+Страница 235:
+entropy sum: 23798
+Страница 236:
+entropy sum: 23421
+Страница 237:
+entropy sum: 21863
+Страница 238:
+entropy sum: 21674
+Страница 239:
+entropy sum: 22975
+Страница 240:
+entropy sum: 21867
+Страница 241:
+entropy sum: 22098
+Страница 242:
+entropy sum: 21226
+Страница 243:
+entropy sum: 22620
+Страница 244:
+entropy sum: 20908
+Страница 245:
+entropy sum: 20795
+Страница 246:
+entropy sum: 21448
+Страница 247:
+entropy sum: 22834
+Страница 248:
+entropy sum: 20539
+Страница 249:
+entropy sum: 22782
+Страница 250:
+entropy sum: 20508
+Страница 251:
+entropy sum: 20068
+Страница 252:
+entropy sum: 21627
+Страница 253:
+entropy sum: 21550
+Страница 254:
+entropy sum: 19141
+Страница 255:
+entropy sum: 23597
+Страница 256:
+entropy sum: 23215
+Страница 257:
+entropy sum: 23654
+Страница 258:
+entropy sum: 21138
+Страница 259:
+entropy sum: 22810
+Страница 260:
+entropy sum: 22383
+Страница 261:
+entropy sum: 22315
+Страница 262:
+entropy sum: 23645
+Страница 263:
+entropy sum: 22707
+Страница 264:
+entropy sum: 21499
+Страница 265:
+entropy sum: 22844
+Страница 266:
+entropy sum: 23320
+Страница 267:
+entropy sum: 24169
+Страница 268:
+entropy sum: 19250
+Страница 269:
+entropy sum: 19046
+Страница 270:
+entropy sum: 22482
+Страница 271:
+entropy sum: 19806
+Страница 272:
+entropy sum: 21234
+Страница 273:
+entropy sum: 22764
+Страница 274:
+entropy sum: 22015
+Страница 275:
+entropy sum: 22747
+Страница 276:
+entropy sum: 22787
+Страница 277:
+entropy sum: 21283
+Страница 278:
+entropy sum: 19724
+Страница 279:
+entropy sum: 21436
+Страница 280:
+entropy sum: 22359
+Страница 281:
+entropy sum: 23265
+Страница 282:
+entropy sum: 22776
+Страница 283:
+entropy sum: 21900
+Страница 284:
+entropy sum: 23146
+Страница 285:
+entropy sum: 23767
+Страница 286:
+entropy sum: 23976
+Страница 287:
+entropy sum: 24079
+Страница 288:
+entropy sum: 20844
+Страница 289:
+entropy sum: 22456
+Страница 290:
+entropy sum: 21796
+Страница 291:
+entropy sum: 22762
+Страница 292:
+entropy sum: 23812
+Страница 293:
+entropy sum: 21566
+Страница 294:
+entropy sum: 21365
+Страница 295:
+entropy sum: 23437
+Страница 296:
+entropy sum: 23589
+Страница 297:
+entropy sum: 21507
+Страница 298:
+entropy sum: 20581
+Страница 299:
+entropy sum: 22029
+Страница 300:
+entropy sum: 15922
+Страница 301:
+entropy sum: 23137
+Страница 302:
+entropy sum: 22241
+Страница 303:
+entropy sum: 22150
+Страница 304:
+entropy sum: 22211
+Страница 305:
+entropy sum: 23267
+Страница 306:
+entropy sum: 21555
+Страница 307:
+entropy sum: 21658
+Страница 308:
+entropy sum: 22720
+Страница 309:
+entropy sum: 22065
+Страница 310:
+entropy sum: 21670
+Страница 311:
+entropy sum: 21319
+Страница 312:
+entropy sum: 22976
+Страница 313:
+entropy sum: 22401
+Страница 314:
+entropy sum: 21764
+Страница 315:
+entropy sum: 18807
+Страница 316:
+entropy sum: 22382
+Страница 317:
+entropy sum: 23070
+Страница 318:
+entropy sum: 23091
+Страница 319:
+entropy sum: 23093
+Страница 320:
+entropy sum: 23634
+Страница 321:
+entropy sum: 24197
+Страница 322:
+entropy sum: 24224
+Страница 323:
+entropy sum: 20809
+Страница 324:
+entropy sum: 20950
+Страница 325:
+entropy sum: 20854
+Страница 326:
+entropy sum: 22071
+Страница 327:
+entropy sum: 22302
+Страница 328:
+entropy sum: 23691
+Страница 329:
+entropy sum: 23887
+Страница 330:
+entropy sum: 23541
+Страница 331:
+entropy sum: 22620
+Страница 332:
+entropy sum: 24307
+Страница 333:
+entropy sum: 19024
+Страница 334:
+entropy sum: 22362
+Страница 335:
+entropy sum: 22012
+Страница 336:
+entropy sum: 19506
+Страница 337:
+entropy sum: 23177
+Страница 338:
+entropy sum: 22190
+Страница 339:
+entropy sum: 22005
+Страница 340:
+entropy sum: 23175
+Страница 341:
+entropy sum: 18996
+Страница 342:
+entropy sum: 22587
+Страница 343:
+entropy sum: 24229
+Страница 344:
+entropy sum: 14238
+Страница 345:
+entropy sum: 20024
+Страница 346:
+entropy sum: 19260
+Страница 347:
+entropy sum: 21583
+Страница 348:
+entropy sum: 19104
+Страница 349:
+entropy sum: 20512
+Страница 350:
+entropy sum: 23274
+Страница 351:
+entropy sum: 23117
+Страница 352:
+entropy sum: 22931
+Страница 353:
+entropy sum: 21934
+Страница 354:
+entropy sum: 20069
+Страница 355:
+entropy sum: 20376
+Страница 356:
+entropy sum: 19954
+Страница 357:
+entropy sum: 23228
+Страница 358:
+entropy sum: 20892
+Страница 359:
+entropy sum: 19693
+Страница 360:
+entropy sum: 16141
+Страница 361:
+entropy sum: 22909
+Страница 362:
+entropy sum: 23616
+Страница 363:
+entropy sum: 24273
+Страница 364:
+entropy sum: 24322
+Страница 365:
+entropy sum: 23760
+Страница 366:
+entropy sum: 24815
+Страница 367:
+entropy sum: 22871
+Страница 368:
+entropy sum: 23387
+Страница 369:
+entropy sum: 24421
+Страница 370:
+entropy sum: 23043
+Страница 371:
+entropy sum: 23108
+Страница 372:
+entropy sum: 23576
+Страница 373:
+entropy sum: 23630
+Страница 374:
+entropy sum: 22812
+Страница 375:
+entropy sum: 21696
+Страница 376:
+entropy sum: 22979
+Страница 377:
+entropy sum: 22981
+Страница 378:
+entropy sum: 22848
+Страница 379:
+entropy sum: 23850
+Страница 380:
+entropy sum: 24381
+Страница 381:
+entropy sum: 22786
+Страница 382:
+entropy sum: 24063
+Страница 383:
+entropy sum: 22386
+Страница 384:
+entropy sum: 21959
+Страница 385:
+entropy sum: 22198
+Страница 386:
+entropy sum: 21438
+Страница 387:
+entropy sum: 21768
+Страница 388:
+entropy sum: 21524
+Страница 389:
+entropy sum: 21700
+Страница 390:
+entropy sum: 22050
+Страница 391:
+entropy sum: 22640
+Страница 392:
+entropy sum: 21851
+Страница 393:
+entropy sum: 22734
+Страница 394:
+entropy sum: 23148
+Страница 395:
+entropy sum: 23600
+Страница 396:
+entropy sum: 23449
+Страница 397:
+entropy sum: 21750
+Страница 398:
+entropy sum: 22891
+Страница 399:
+entropy sum: 22666
+Страница 400:
+entropy sum: 23002
+Страница 401:
+entropy sum: 18984
+Страница 402:
+entropy sum: 21669
+Страница 403:
+entropy sum: 22675
+Страница 404:
+entropy sum: 23093
+Страница 405:
+entropy sum: 23195
+Страница 406:
+entropy sum: 22926
+Страница 407:
+entropy sum: 21423
+Страница 408:
+entropy sum: 20933
+Страница 409:
+entropy sum: 21505
+Страница 410:
+entropy sum: 22363
+Страница 411:
+entropy sum: 21669
+Страница 412:
+entropy sum: 22575
+Страница 413:
+entropy sum: 23022
+Страница 414:
+entropy sum: 21497
+Страница 415:
+entropy sum: 21865
+Страница 416:
+entropy sum: 22568
+Страница 417:
+entropy sum: 22467
+Страница 418:
+entropy sum: 21781
+Страница 419:
+entropy sum: 22490
+Страница 420:
+entropy sum: 23173
+Страница 421:
+entropy sum: 21224
+Страница 422:
+entropy sum: 21594
+Страница 423:
+entropy sum: 19698
+Страница 424:
+entropy sum: 19597
+Страница 425:
+entropy sum: 21747
+Страница 426:
+entropy sum: 23728
+Страница 427:
+entropy sum: 21755
+Страница 428:
+entropy sum: 22369
+Страница 429:
+entropy sum: 24372
+Страница 430:
+entropy sum: 23832
+Страница 431:
+entropy sum: 21928
+Страница 432:
+entropy sum: 21335
+Страница 433:
+entropy sum: 20513
+Страница 434:
+entropy sum: 20983
+Страница 435:
+entropy sum: 21649
+Страница 436:
+entropy sum: 20947
+Страница 437:
+entropy sum: 22211
+Страница 438:
+entropy sum: 23531
+Страница 439:
+entropy sum: 22095
+Страница 440:
+entropy sum: 15711
+Страница 441:
+entropy sum: 20688
+Страница 442:
+entropy sum: 23518
+Страница 443:
+entropy sum: 24278
+Страница 444:
+entropy sum: 23310
+Страница 445:
+entropy sum: 21507
+Страница 446:
+entropy sum: 19600
+Страница 447:
+entropy sum: 22137
+Страница 448:
+entropy sum: 23811
+Страница 449:
+entropy sum: 21246
+Страница 450:
+entropy sum: 22935
+Страница 451:
+entropy sum: 21005
+Страница 452:
+entropy sum: 15339
+Страница 453:
+entropy sum: 22850
+Страница 454:
+entropy sum: 21112
+Страница 455:
+entropy sum: 24120
+Страница 456:
+entropy sum: 22624
+Страница 457:
+entropy sum: 23606
+Страница 458:
+entropy sum: 22332
+Страница 459:
+entropy sum: 23582
+Страница 460:
+entropy sum: 23266
+Страница 461:
+entropy sum: 24261
+Страница 462:
+entropy sum: 20486
+Страница 463:
+entropy sum: 14463
+Страница 464:
+entropy sum: 19542
+Страница 465:
+entropy sum: 15556
+Страница 466:
+entropy sum: 22834
+Страница 467:
+entropy sum: 21714
+Страница 468:
+entropy sum: 20190
+Страница 469:
+entropy sum: 22823
+Страница 470:
+entropy sum: 21375
+Страница 471:
+entropy sum: 21667
+Страница 472:
+entropy sum: 21852
+Страница 473:
+entropy sum: 21781
+Страница 474:
+entropy sum: 20992
+Страница 475:
+entropy sum: 21932
+Страница 476:
+entropy sum: 21744
+Страница 477:
+entropy sum: 22255
+Страница 478:
+entropy sum: 22544
+Страница 479:
+entropy sum: 21753
+Страница 480:
+entropy sum: 22802
+Страница 481:
+entropy sum: 22861
+Страница 482:
+entropy sum: 22263
+Страница 483:
+entropy sum: 24623
+Страница 484:
+entropy sum: 22640
+Страница 485:
+entropy sum: 21580
+Страница 486:
+entropy sum: 22296
+Страница 487:
+entropy sum: 22151
+Страница 488:
+entropy sum: 21364
+Страница 489:
+entropy sum: 22211
+Страница 490:
+entropy sum: 23364
+Страница 491:
+entropy sum: 21472
+Страница 492:
+entropy sum: 22428
+Страница 493:
+entropy sum: 20581
+Страница 494:
+entropy sum: 23835
+Страница 495:
+entropy sum: 24673
+Страница 496:
+entropy sum: 22460
+Страница 497:
+entropy sum: 21772
+Страница 498:
+entropy sum: 21815
+Страница 499:
+entropy sum: 22379
+Страница 500:
+entropy sum: 22322
+Страница 501:
+entropy sum: 23869
+Страница 502:
+entropy sum: 22551
+Страница 503:
+entropy sum: 22732
+Страница 504:
+entropy sum: 22002
+Страница 505:
+entropy sum: 20688
+Страница 506:
+entropy sum: 23205
+Страница 507:
+entropy sum: 22780
+Страница 508:
+entropy sum: 22396
+Страница 509:
+entropy sum: 20065
+Страница 510:
+entropy sum: 22260
+Страница 511:
+entropy sum: 23469
+Страница 512:
+entropy sum: 22321
+Страница 513:
+entropy sum: 22440
+Страница 514:
+entropy sum: 22249
+Страница 515:
+entropy sum: 23345
+Страница 516:
+entropy sum: 23520
+Страница 517:
+entropy sum: 21315
+Страница 518:
+entropy sum: 24311
+Страница 519:
+entropy sum: 24360
+Страница 520:
+entropy sum: 23919
+Страница 521:
+entropy sum: 23014
+Страница 522:
+entropy sum: 23432
+Страница 523:
+entropy sum: 21818
+Страница 524:
+entropy sum: 21996
+Страница 525:
+entropy sum: 23014
+Страница 526:
+entropy sum: 24281
+Страница 527:
+entropy sum: 24615
+Страница 528:
+entropy sum: 21705
+Страница 529:
+entropy sum: 21846
+Страница 530:
+entropy sum: 21664
+Страница 531:
+entropy sum: 20361
+Страница 532:
+entropy sum: 21599
+Страница 533:
+entropy sum: 19995
+Страница 534:
+entropy sum: 22975
+Страница 535:
+entropy sum: 22158
+Страница 536:
+entropy sum: 21661
+Страница 537:
+entropy sum: 22684
+Страница 538:
+entropy sum: 21842
+Страница 539:
+entropy sum: 21465
+Страница 540:
+entropy sum: 22411
+Страница 541:
+entropy sum: 18514
+Страница 542:
+entropy sum: 22837
+Страница 543:
+entropy sum: 22568
+Страница 544:
+entropy sum: 21144
+Страница 545:
+entropy sum: 22884
+Страница 546:
+entropy sum: 22791
+Страница 547:
+entropy sum: 21082
+Страница 548:
+entropy sum: 21001
+Страница 549:
+entropy sum: 23554
+Страница 550:
+entropy sum: 22027
+Страница 551:
+entropy sum: 21117
+Страница 552:
+entropy sum: 21333
+Страница 553:
+entropy sum: 22945
+Страница 554:
+entropy sum: 22727
+Страница 555:
+entropy sum: 21859
+Страница 556:
+entropy sum: 24519
+Страница 557:
+entropy sum: 22192
+Страница 558:
+entropy sum: 22005
+Страница 559:
+entropy sum: 22223
+Страница 560:
+entropy sum: 23987
+Страница 561:
+entropy sum: 21538
+Страница 562:
+entropy sum: 22009
+Страница 563:
+entropy sum: 23787
+Страница 564:
+entropy sum: 20725
+Страница 565:
+entropy sum: 23656
+Страница 566:
+entropy sum: 22251
+Страница 567:
+entropy sum: 22409
+Страница 568:
+entropy sum: 20917
+Страница 569:
+entropy sum: 24582
+Страница 570:
+entropy sum: 24097
+Страница 571:
+entropy sum: 22341
+Страница 572:
+entropy sum: 21970
+Страница 573:
+entropy sum: 21855
+Страница 574:
+entropy sum: 18630
+Страница 575:
+entropy sum: 19419
+Страница 576:
+entropy sum: 20886
+Страница 577:
+entropy sum: 22145
+Страница 578:
+entropy sum: 18944
+Страница 579:
+entropy sum: 21239
+Страница 580:
+entropy sum: 21851
+Страница 581:
+entropy sum: 22982
+Страница 582:
+entropy sum: 16506
+Страница 583:
+entropy sum: 22404
+Страница 584:
+entropy sum: 21444
+Страница 585:
+entropy sum: 22492
+Страница 586:
+entropy sum: 23245
+Страница 587:
+entropy sum: 22324
+Страница 588:
+entropy sum: 22208
+Страница 589:
+entropy sum: 21457
+Страница 590:
+entropy sum: 23066
+Страница 591:
+entropy sum: 22071
+Страница 592:
+entropy sum: 23558
+Страница 593:
+entropy sum: 23139
+Страница 594:
+entropy sum: 23617
+Страница 595:
+entropy sum: 23535
+Страница 596:
+entropy sum: 23406
+Страница 597:
+entropy sum: 22300
+Страница 598:
+entropy sum: 22237
+Страница 599:
+entropy sum: 21884
+Страница 600:
+entropy sum: 21066
+Страница 601:
+entropy sum: 20780
+Страница 602:
+entropy sum: 21171
+Страница 603:
+entropy sum: 21474
+Страница 604:
+entropy sum: 21094
+Страница 605:
+entropy sum: 20900
+Страница 606:
+entropy sum: 21671
+Страница 607:
+entropy sum: 21302
+Страница 608:
+entropy sum: 21594
+Страница 609:
+entropy sum: 18654
+Страница 610:
+entropy sum: 20272
+Страница 611:
+entropy sum: 22574
+Страница 612:
+entropy sum: 22670
+Страница 613:
+entropy sum: 20621
+Страница 614:
+entropy sum: 22014
+Страница 615:
+entropy sum: 22701
+Страница 616:
+entropy sum: 21809
+Страница 617:
+entropy sum: 21623
+Страница 618:
+entropy sum: 22855
+Страница 619:
+entropy sum: 23269
+Страница 620:
+entropy sum: 22649
+Страница 621:
+entropy sum: 23395
+Страница 622:
+entropy sum: 19411
+Страница 623:
+entropy sum: 18855
+Страница 624:
+entropy sum: 23077
+Страница 625:
+entropy sum: 23699
+Страница 626:
+entropy sum: 20916
+Страница 627:
+entropy sum: 22937
+Страница 628:
+entropy sum: 21613
+Страница 629:
+entropy sum: 23699
+Страница 630:
+entropy sum: 23097
+Страница 631:
+entropy sum: 23596
+Страница 632:
+entropy sum: 23446
+Страница 633:
+entropy sum: 24041
+Страница 634:
+entropy sum: 23141
+Страница 635:
+entropy sum: 22945
+Страница 636:
+entropy sum: 23830
+Страница 637:
+entropy sum: 24173
+Страница 638:
+entropy sum: 22974
+Страница 639:
+entropy sum: 23513
+Страница 640:
+entropy sum: 24508
+Страница 641:
+entropy sum: 23384
+Страница 642:
+entropy sum: 23077
+Страница 643:
+entropy sum: 21966
+Страница 644:
+entropy sum: 23623
+Страница 645:
+entropy sum: 23840
+Страница 646:
+entropy sum: 20375
+Страница 647:
+entropy sum: 23314
+Страница 648:
+entropy sum: 22973
+Страница 649:
+entropy sum: 22131
+Страница 650:
+entropy sum: 24875
+Страница 651:
+entropy sum: 22095
+Страница 652:
+entropy sum: 23892
+Страница 653:
+entropy sum: 23344
+Страница 654:
+entropy sum: 23976
+Страница 655:
+entropy sum: 23427
+Страница 656:
+entropy sum: 21946
+Страница 657:
+entropy sum: 25144
+Страница 658:
+entropy sum: 23450
+Страница 659:
+entropy sum: 24108
+Страница 660:
+entropy sum: 23536
+Страница 661:
+entropy sum: 19535
+Страница 662:
+entropy sum: 23012
+Страница 663:
+entropy sum: 22661
+Страница 664:
+entropy sum: 22704
+Страница 665:
+entropy sum: 18738
+Страница 666:
+entropy sum: 18929
+Страница 667:
+entropy sum: 19241
+Страница 668:
+entropy sum: 19294
+Страница 669:
+entropy sum: 18609
+Страница 670:
+entropy sum: 18462
+Страница 671:
+entropy sum: 18776
+Страница 672:
+entropy sum: 18757
+Страница 673:
+entropy sum: 18901
+Страница 674:
+entropy sum: 18720
+Страница 675:
+entropy sum: 18793
+Страница 676:
+entropy sum: 19993
+Страница 677:
+entropy sum: 19463
+Страница 678:
+entropy sum: 19956
+Страница 679:
+entropy sum: 19346
+Страница 680:
+entropy sum: 20040
+Страница 681:
+entropy sum: 19227
+Страница 682:
+entropy sum: 19873
+Страница 683:
+entropy sum: 19941
+Страница 684:
+entropy sum: 21512
+Страница 685:
+entropy sum: 20094
+Страница 686:
+entropy sum: 19672
+Страница 687:
+entropy sum: 20091
+Страница 688:
+entropy sum: 19864
+Страница 689:
+entropy sum: 21638
+Страница 690:
+entropy sum: 21502
+Страница 691:
+entropy sum: 21232
+Страница 692:
+entropy sum: 20273
+Страница 693:
+entropy sum: 19603
+Страница 694:
+entropy sum: 19588
+Страница 695:
+entropy sum: 20871
+Страница 696:
+entropy sum: 20459
+Страница 697:
+entropy sum: 19883
+Страница 698:
+entropy sum: 20393
+Страница 699:
+entropy sum: 20062
+Страница 700:
+entropy sum: 20326
+Страница 701:
+entropy sum: 20305
+Страница 702:
+entropy sum: 19829
+Страница 703:
+entropy sum: 19560
+Страница 704:
+entropy sum: 19866
+Страница 705:
+entropy sum: 19848
+Страница 706:
+entropy sum: 20350
+Страница 707:
+entropy sum: 20286
+Страница 708:
+entropy sum: 20135
+Страница 709:
+entropy sum: 20237
+Страница 710:
+entropy sum: 20335
+Страница 711:
+entropy sum: 21211
+Страница 712:
+entropy sum: 21704
+Страница 713:
+entropy sum: 21294
+Страница 714:
+entropy sum: 21901
+Страница 715:
+entropy sum: 21489
+Страница 716:
+entropy sum: 21602
+Страница 717:
+entropy sum: 21656
+Страница 718:
+entropy sum: 20557
+Страница 719:
+entropy sum: 20486
+Страница 720:
+entropy sum: 20135
+Страница 721:
+entropy sum: 21943
+Страница 722:
+entropy sum: 21650
+Страница 723:
+entropy sum: 20659
+Страница 724:
+entropy sum: 19830
+Страница 725:
+entropy sum: 20546
+Страница 726:
+entropy sum: 19729
+Страница 727:
+entropy sum: 19484
+Страница 728:
+entropy sum: 19570
+Страница 729:
+entropy sum: 18969
+Страница 730:
+entropy sum: 19757
+Страница 731:
+entropy sum: 19415
+Страница 732:
+entropy sum: 19214
+Страница 733:
+entropy sum: 20726
+Страница 734:
+entropy sum: 20167
+Страница 735:
+entropy sum: 20419
+Страница 736:
+entropy sum: 20035
+Страница 737:
+entropy sum: 18648
+Страница 738:
+entropy sum: 19316
+Страница 739:
+entropy sum: 19473
+Страница 740:
+entropy sum: 19237
+Страница 741:
+entropy sum: 19569
+Страница 742:
+entropy sum: 19469
+Страница 743:
+entropy sum: 19279
+Страница 744:
+entropy sum: 18867
+Страница 745:
+entropy sum: 19311
+Страница 746:
+entropy sum: 18814
+Страница 747:
+entropy sum: 18579
+Страница 748:
+entropy sum: 18194
+Страница 749:
+entropy sum: 18938
+Страница 750:
+entropy sum: 18325
+Страница 751:
+entropy sum: 18651
+Страница 752:
+entropy sum: 19149
+Страница 753:
+entropy sum: 22459
+Страница 754:
+entropy sum: 23098
+Страница 755:
+entropy sum: 19200
+Страница 756:
+entropy sum: 20957
+Страница 757:
+entropy sum: 20329
+Страница 758:
+entropy sum: 21437
+Страница 759:
+entropy sum: 20365
+Страница 760:
+entropy sum: 23302
+Страница 761:
+entropy sum: 22430
+Страница 762:
+entropy sum: 24150
+Страница 763:
+entropy sum: 23783
+Страница 764:
+entropy sum: 23755
+Страница 765:
+entropy sum: 24160
+Страница 766:
+entropy sum: 23676
+Страница 767:
+entropy sum: 24502
+Страница 768:
+entropy sum: 23860
+Страница 769:
+entropy sum: 24204
+Страница 770:
+entropy sum: 23507
+Страница 771:
+entropy sum: 24550
+Страница 772:
+entropy sum: 16339
+Страница 773:
+entropy sum: 22159
+Страница 774:
+entropy sum: 23467
+Страница 775:
+entropy sum: 22742
+Страница 776:
+entropy sum: 22047
+Страница 777:
+entropy sum: 23536
+Страница 778:
+entropy sum: 20882
+Страница 779:
+entropy sum: 24911
+Страница 780:
+entropy sum: 20066
+Страница 781:
+entropy sum: 19527
+Страница 782:
+entropy sum: 19399
+Страница 783:
+entropy sum: 19440
+Страница 784:
+entropy sum: 19396
+Страница 785:
+entropy sum: 19379
+Страница 786:
+entropy sum: 19246
+Страница 787:
+entropy sum: 19438
+Страница 788:
+entropy sum: 19440
+Страница 789:
+entropy sum: 19751
+Страница 790:
+entropy sum: 19326
+Страница 791:
+entropy sum: 19323
+Страница 792:
+entropy sum: 19232
+Страница 793:
+entropy sum: 19061
+Страница 794:
+entropy sum: 21361
+Страница 795:
+entropy sum: 23379
+Страница 796:
+entropy sum: 21133
+Страница 797:
+entropy sum: 24295
+Страница 798:
+entropy sum: 23464
+Страница 799:
+entropy sum: 22760
+Страница 800:
+entropy sum: 22713
+Страница 801:
+entropy sum: 22135
+Страница 802:
+entropy sum: 22257
+Страница 803:
+entropy sum: 24140
+Страница 804:
+entropy sum: 19036
+Страница 805:
+entropy sum: 23105
+Страница 806:
+entropy sum: 23333
+Страница 807:
+entropy sum: 23337
+Страница 808:
+entropy sum: 23044
+Страница 809:
+entropy sum: 23312
+Страница 810:
+entropy sum: 20259
+Страница 811:
+entropy sum: 24251
+Страница 812:
+entropy sum: 23620
+Страница 813:
+entropy sum: 23457
+Страница 814:
+entropy sum: 22844
+Страница 815:
+entropy sum: 22732
+Страница 816:
+entropy sum: 22912
+Страница 817:
+entropy sum: 23328
+Страница 818:
+entropy sum: 23499
+Страница 819:
+entropy sum: 23816
+Страница 820:
+entropy sum: 24356
+Страница 821:
+entropy sum: 19250
+Страница 822:
+entropy sum: 23977
+Страница 823:
+entropy sum: 21326
+Страница 824:
+entropy sum: 23759
+Страница 825:
+entropy sum: 23261
+Страница 826:
+entropy sum: 23916
+Страница 827:
+entropy sum: 22831
+Страница 828:
+entropy sum: 24676
+Страница 829:
+entropy sum: 19373
+Страница 830:
+entropy sum: 21156
+Страница 831:
+entropy sum: 22451
+Страница 832:
+entropy sum: 23442
+Страница 833:
+entropy sum: 19713
+Страница 834:
+entropy sum: 19423
+Страница 835:
+entropy sum: 19877
+Страница 836:
+entropy sum: 20357
+Страница 837:
+entropy sum: 19923
+Страница 838:
+entropy sum: 20950
+Страница 839:
+entropy sum: 21021
+Страница 840:
+entropy sum: 21224
+Страница 841:
+entropy sum: 19791
+Страница 842:
+entropy sum: 19056
+Страница 843:
+entropy sum: 20157
+Страница 844:
+entropy sum: 19529
+Страница 845:
+entropy sum: 19292
+Страница 846:
+entropy sum: 18711
+Страница 847:
+entropy sum: 18911
+Страница 848:
+entropy sum: 19284
+Страница 849:
+entropy sum: 21284
+Страница 850:
+entropy sum: 20062
+Страница 851:
+entropy sum: 19658
+Страница 852:
+entropy sum: 19023
+Страница 853:
+entropy sum: 20808
+Страница 854:
+entropy sum: 18522
+Страница 855:
+entropy sum: 19361
+Страница 856:
+entropy sum: 19974
+Страница 857:
+entropy sum: 21722
+Страница 858:
+entropy sum: 22035
+Страница 859:
+entropy sum: 19456
+Страница 860:
+entropy sum: 18939
+Страница 861:
+entropy sum: 18383
+Страница 862:
+entropy sum: 18978
+Страница 863:
+entropy sum: 19524
+Страница 864:
+entropy sum: 19794
+Страница 865:
+entropy sum: 19809
+Страница 866:
+entropy sum: 19750
+Страница 867:
+entropy sum: 19834
+Страница 868:
+entropy sum: 19781
+Страница 869:
+entropy sum: 19686
+Страница 870:
+entropy sum: 19760
+Страница 871:
+entropy sum: 19935
+Страница 872:
+entropy sum: 19957
+Страница 873:
+entropy sum: 19733
+Страница 874:
+entropy sum: 19789
+Страница 875:
+entropy sum: 19786
+Страница 876:
+entropy sum: 19378
+Страница 877:
+entropy sum: 20799
+Страница 878:
+entropy sum: 23418
+Страница 879:
+entropy sum: 23366
+Страница 880:
+entropy sum: 24455
+Страница 881:
+entropy sum: 23485
+Страница 882:
+entropy sum: 23564
+Страница 883:
+entropy sum: 23541
+Страница 884:
+entropy sum: 24378
+Страница 885:
+entropy sum: 23608
+Страница 886:
+entropy sum: 22639
+Страница 887:
+entropy sum: 22831
+Страница 888:
+entropy sum: 23805
+Страница 889:
+entropy sum: 23273
+Страница 890:
+entropy sum: 24075
+Страница 891:
+entropy sum: 23315
+Страница 892:
+entropy sum: 20593
+Страница 893:
+entropy sum: 24296
+Страница 894:
+entropy sum: 22430
+Страница 895:
+entropy sum: 24507
+Страница 896:
+entropy sum: 24189
+Страница 897:
+entropy sum: 23226
+Страница 898:
+entropy sum: 23930
+Страница 899:
+entropy sum: 24160
+Страница 900:
+entropy sum: 22651
+Страница 901:
+entropy sum: 23338
+Страница 902:
+entropy sum: 22645
+Страница 903:
+entropy sum: 21512
+Страница 904:
+entropy sum: 21458
+Страница 905:
+entropy sum: 23241
+Страница 906:
+entropy sum: 19134
+Страница 907:
+entropy sum: 19384
+Страница 908:
+entropy sum: 20065
+Страница 909:
+entropy sum: 21276
+Страница 910:
+entropy sum: 20871
+Страница 911:
+entropy sum: 21024
+Страница 912:
+entropy sum: 20699
+Страница 913:
+entropy sum: 24365
+Страница 914:
+entropy sum: 21461
+Страница 915:
+entropy sum: 23383
+Страница 916:
+entropy sum: 22579
+Страница 917:
+entropy sum: 22045
+Страница 918:
+entropy sum: 23723
+Страница 919:
+entropy sum: 23940
+Страница 920:
+entropy sum: 20372
+Страница 921:
+entropy sum: 19834
+Страница 922:
+entropy sum: 23106
+Страница 923:
+entropy sum: 22685
+Страница 924:
+entropy sum: 22912
+Страница 925:
+entropy sum: 23540
+Страница 926:
+entropy sum: 23539
+Страница 927:
+entropy sum: 22597
+Страница 928:
+entropy sum: 21381
+Страница 929:
+entropy sum: 23320
+Страница 930:
+entropy sum: 23077
+Страница 931:
+entropy sum: 21219
+Страница 932:
+entropy sum: 21080
+Страница 933:
+entropy sum: 22355
+Страница 934:
+entropy sum: 23416
+Страница 935:
+entropy sum: 23723
+Страница 936:
+entropy sum: 19290
+Страница 937:
+entropy sum: 18900
+Страница 938:
+entropy sum: 19270
+Страница 939:
+entropy sum: 19258
+Страница 940:
+entropy sum: 19628
+Страница 941:
+entropy sum: 19860
+Страница 942:
+entropy sum: 24449
+Страница 943:
+entropy sum: 22775
+Страница 944:
+entropy sum: 21764
+Страница 945:
+entropy sum: 17029
+Страница 946:
+entropy sum: 19520
+Страница 947:
+entropy sum: 18339
+Страница 948:
+entropy sum: 18028
+Страница 949:
+entropy sum: 18821
+Страница 950:
+entropy sum: 19350
+Страница 951:
+entropy sum: 18981
+Страница 952:
+entropy sum: 19456
+Страница 953:
+entropy sum: 18830
+Страница 954:
+entropy sum: 24264
+Страница 955:
+entropy sum: 21812
+Страница 956:
+entropy sum: 18038
+Страница 957:
+entropy sum: 17553
+Страница 958:
+entropy sum: 18908
+Страница 959:
+entropy sum: 18907
+Страница 960:
+entropy sum: 22196
+Страница 961:
+entropy sum: 23104
+Страница 962:
+entropy sum: 22120
+Страница 963:
+entropy sum: 23455
+Страница 964:
+entropy sum: 22871
+Страница 965:
+entropy sum: 24685
+Страница 966:
+entropy sum: 21984
+Страница 967:
+entropy sum: 23237
+Страница 968:
+entropy sum: 20949
+Страница 969:
+entropy sum: 23552
+Страница 970:
+entropy sum: 23163
+Страница 971:
+entropy sum: 20236
+Страница 972:
+entropy sum: 22733
+Страница 973:
+entropy sum: 23856
+Страница 974:
+entropy sum: 22477
+Страница 975:
+entropy sum: 22730
+Страница 976:
+entropy sum: 23839
+Страница 977:
+entropy sum: 24223
+Страница 978:
+entropy sum: 15607
+Страница 979:
+entropy sum: 23849
+Страница 980:
+entropy sum: 23878
+Страница 981:
+entropy sum: 24397
+Страница 982:
+entropy sum: 24083
+Страница 983:
+entropy sum: 22200
+Страница 984:
+entropy sum: 22046
+Страница 985:
+entropy sum: 22182
+Страница 986:
+entropy sum: 22104
+Страница 987:
+entropy sum: 22224
+Страница 988:
+entropy sum: 22035
+Страница 989:
+entropy sum: 22115
+Страница 990:
+entropy sum: 22271
+Страница 991:
+entropy sum: 22535
+Страница 992:
+entropy sum: 22763
+Страница 993:
+entropy sum: 22179
+Страница 994:
+entropy sum: 21847
+Страница 995:
+entropy sum: 21828
+Страница 996:
+entropy sum: 21966
+Страница 997:
+entropy sum: 22464
+Страница 998:
+entropy sum: 21452
+Страница 999:
+entropy sum: 21701
+Страница 1000:
+entropy sum: 22232
+Страница 1001:
+entropy sum: 21258
+Страница 1002:
+entropy sum: 20746
+Страница 1003:
+entropy sum: 20973
+Страница 1004:
+entropy sum: 22069
+Страница 1005:
+entropy sum: 20828
+Страница 1006:
+entropy sum: 22379
+Страница 1007:
+entropy sum: 22261
+Страница 1008:
+entropy sum: 22534
+Страница 1009:
+entropy sum: 22697
+Страница 1010:
+entropy sum: 22633
+Страница 1011:
+entropy sum: 22717
+Страница 1012:
+entropy sum: 22791
+Страница 1013:
+entropy sum: 22776
+Страница 1014:
+entropy sum: 22423
+Страница 1015:
+entropy sum: 24652
+Страница 1016:
+entropy sum: 20278
+Страница 1017:
+entropy sum: 23203
+Страница 1018:
+entropy sum: 22521
+Страница 1019:
+entropy sum: 23472
+Страница 1020:
+entropy sum: 23873
+Страница 1021:
+entropy sum: 24276
+Страница 1022:
+entropy sum: 25126
+Страница 1023:
+entropy sum: 22951
+Страница 1024:
+entropy sum: 20830
+Страница 1025:
+entropy sum: 23331
+Страница 1026:
+entropy sum: 21194
+Страница 1027:
+entropy sum: 23307
+Страница 1028:
+entropy sum: 20499
+Страница 1029:
+entropy sum: 21332
+Страница 1030:
+entropy sum: 23176
+Страница 1031:
+entropy sum: 23901
+Страница 1032:
+entropy sum: 25117
+Страница 1033:
+entropy sum: 19564
+Страница 1034:
+entropy sum: 22788
+Страница 1035:
+entropy sum: 23102
+Страница 1036:
+entropy sum: 23021
+Страница 1037:
+entropy sum: 23591
+Страница 1038:
+entropy sum: 21515
+Страница 1039:
+entropy sum: 20892
+Страница 1040:
+entropy sum: 22992
+Страница 1041:
+entropy sum: 23510
+Страница 1042:
+entropy sum: 20241
+Страница 1043:
+entropy sum: 19801
+Страница 1044:
+entropy sum: 24248
+Страница 1045:
+entropy sum: 21076
+Страница 1046:
+entropy sum: 22227
+Страница 1047:
+entropy sum: 22075
+Страница 1048:
+entropy sum: 21992
+Страница 1049:
+entropy sum: 19472
+Страница 1050:
+entropy sum: 19119
+Страница 1051:
+entropy sum: 18973
+Страница 1052:
+entropy sum: 18780
+Страница 1053:
+entropy sum: 20640
+Страница 1054:
+entropy sum: 20865
+Страница 1055:
+entropy sum: 20677
+Страница 1056:
+entropy sum: 20654
+Страница 1057:
+entropy sum: 20797
+Страница 1058:
+entropy sum: 20775
+Страница 1059:
+entropy sum: 20793
+Страница 1060:
+entropy sum: 19106
+Страница 1061:
+entropy sum: 14230
+Страница 1062:
+entropy sum: 17893
+Страница 1063:
+entropy sum: 19002
+Страница 1064:
+entropy sum: 20390
+Страница 1065:
+entropy sum: 19876
+Страница 1066:
+entropy sum: 19924
+Страница 1067:
+entropy sum: 20394
+Страница 1068:
+entropy sum: 19975
+Страница 1069:
+entropy sum: 22063
+Страница 1070:
+entropy sum: 21027
+Страница 1071:
+entropy sum: 21674
+Страница 1072:
+entropy sum: 20848
+Страница 1073:
+entropy sum: 20512
+Страница 1074:
+entropy sum: 20291
+Страница 1075:
+entropy sum: 20616
+Страница 1076:
+entropy sum: 20681
+Страница 1077:
+entropy sum: 19514
+Страница 1078:
+entropy sum: 19654
+Страница 1079:
+entropy sum: 19515
+Страница 1080:
+entropy sum: 19671
+Страница 1081:
+entropy sum: 19760
+Страница 1082:
+entropy sum: 19518
+Страница 1083:
+entropy sum: 19829
+Страница 1084:
+entropy sum: 20071
+Страница 1085:
+entropy sum: 19909
+Страница 1086:
+entropy sum: 20093
+Страница 1087:
+entropy sum: 19788
+Страница 1088:
+entropy sum: 19279
+Страница 1089:
+entropy sum: 20018
+Страница 1090:
+entropy sum: 19806
+Страница 1091:
+entropy sum: 20184
+Страница 1092:
+entropy sum: 19974
+Страница 1093:
+entropy sum: 20083
+Страница 1094:
+entropy sum: 20376
+Страница 1095:
+entropy sum: 20075
+Страница 1096:
+entropy sum: 20031
+Страница 1097:
+entropy sum: 19966
+Страница 1098:
+entropy sum: 20097
+Страница 1099:
+entropy sum: 20125
+Страница 1100:
+entropy sum: 20111
+Страница 1101:
+entropy sum: 20297
+Страница 1102:
+entropy sum: 19358
+Страница 1103:
+entropy sum: 19470
+Страница 1104:
+entropy sum: 20270
+Страница 1105:
+entropy sum: 20393
+Страница 1106:
+entropy sum: 18807
+Страница 1107:
+entropy sum: 19874
+Страница 1108:
+entropy sum: 20274
+Страница 1109:
+entropy sum: 19834
+Страница 1110:
+entropy sum: 20374
+Страница 1111:
+entropy sum: 19929
+Страница 1112:
+entropy sum: 19529
+Страница 1113:
+entropy sum: 19150
+Страница 1114:
+entropy sum: 19706
+Страница 1115:
+entropy sum: 19582
+Страница 1116:
+entropy sum: 19994
+Страница 1117:
+entropy sum: 19625
+Страница 1118:
+entropy sum: 20638
+Страница 1119:
+entropy sum: 20857
+Страница 1120:
+entropy sum: 21430
+Страница 1121:
+entropy sum: 21329
+Страница 1122:
+entropy sum: 20820
+Страница 1123:
+entropy sum: 20482
+Страница 1124:
+entropy sum: 20633
+Страница 1125:
+entropy sum: 20586
+Страница 1126:
+entropy sum: 21330
+Страница 1127:
+entropy sum: 21598
+Страница 1128:
+entropy sum: 20770
+Страница 1129:
+entropy sum: 19520
+Страница 1130:
+entropy sum: 20788
+Страница 1131:
+entropy sum: 21143
+Страница 1132:
+entropy sum: 21112
+Страница 1133:
+entropy sum: 21372
+Страница 1134:
+entropy sum: 19639
+Страница 1135:
+entropy sum: 20757
+Страница 1136:
+entropy sum: 21000
+Страница 1137:
+entropy sum: 21160
+Страница 1138:
+entropy sum: 20997
+Страница 1139:
+entropy sum: 21732
+Страница 1140:
+entropy sum: 21204
+Страница 1141:
+entropy sum: 19298
+Страница 1142:
+entropy sum: 19621
+Страница 1143:
+entropy sum: 20795
+Страница 1144:
+entropy sum: 21307
+Страница 1145:
+entropy sum: 21176
+Страница 1146:
+entropy sum: 20735
+Страница 1147:
+entropy sum: 19120
+Страница 1148:
+entropy sum: 19799
+Страница 1149:
+entropy sum: 19739
+Страница 1150:
+entropy sum: 20651
+Страница 1151:
+entropy sum: 19729
+Страница 1152:
+entropy sum: 19369
+Страница 1153:
+entropy sum: 19641
+Страница 1154:
+entropy sum: 19582
+Страница 1155:
+entropy sum: 19700
+Страница 1156:
+entropy sum: 19544
+Страница 1157:
+entropy sum: 19714
+Страница 1158:
+entropy sum: 19930
+Страница 1159:
+entropy sum: 19334
+Страница 1160:
+entropy sum: 20196
+Страница 1161:
+entropy sum: 19639
+Страница 1162:
+entropy sum: 19803
+Страница 1163:
+entropy sum: 19304
+Страница 1164:
+entropy sum: 19218
+Страница 1165:
+entropy sum: 19242
+Страница 1166:
+entropy sum: 19545
+Страница 1167:
+entropy sum: 20606
+Страница 1168:
+entropy sum: 24328
+Страница 1169:
+entropy sum: 23111
+Страница 1170:
+entropy sum: 23961
+Страница 1171:
+entropy sum: 23980
+Страница 1172:
+entropy sum: 23582
+Страница 1173:
+entropy sum: 23020
+Страница 1174:
+entropy sum: 22811
+Страница 1175:
+entropy sum: 22270
+Страница 1176:
+entropy sum: 23283
+Страница 1177:
+entropy sum: 23014
+Страница 1178:
+entropy sum: 23709
+Страница 1179:
+entropy sum: 19979
+Страница 1180:
+entropy sum: 23073
+Страница 1181:
+entropy sum: 22749
+Страница 1182:
+entropy sum: 21369
+Страница 1183:
+entropy sum: 17460
+Страница 1184:
+entropy sum: 17781
+Страница 1185:
+entropy sum: 19052
+Страница 1186:
+entropy sum: 19526
+Страница 1187:
+entropy sum: 18769
+Страница 1188:
+entropy sum: 22682
+Страница 1189:
+entropy sum: 20343
+Страница 1190:
+entropy sum: 24219
+Страница 1191:
+entropy sum: 24045
+Страница 1192:
+entropy sum: 24735
+Страница 1193:
+entropy sum: 19501
+Страница 1194:
+entropy sum: 20851
+Страница 1195:
+entropy sum: 21904
+Страница 1196:
+entropy sum: 22485
+Страница 1197:
+entropy sum: 22975
+Страница 1198:
+entropy sum: 22947
+Страница 1199:
+entropy sum: 22920
+Страница 1200:
+entropy sum: 22831
+Страница 1201:
+entropy sum: 22653
+Страница 1202:
+entropy sum: 23006
+Страница 1203:
+entropy sum: 22051
+Страница 1204:
+entropy sum: 22866
+Страница 1205:
+entropy sum: 23541
+Страница 1206:
+entropy sum: 23265
+Страница 1207:
+entropy sum: 23580
+Страница 1208:
+entropy sum: 23526
+Страница 1209:
+entropy sum: 24409
+Страница 1210:
+entropy sum: 22802
+Страница 1211:
+entropy sum: 23009
+Страница 1212:
+entropy sum: 24387
+Страница 1213:
+entropy sum: 20059
+Страница 1214:
+entropy sum: 19630
+Страница 1215:
+entropy sum: 21256
+Страница 1216:
+entropy sum: 21590
+Страница 1217:
+entropy sum: 20249
+Страница 1218:
+entropy sum: 22962
+Страница 1219:
+entropy sum: 22401
+Страница 1220:
+entropy sum: 23143
+Страница 1221:
+entropy sum: 22581
+Страница 1222:
+entropy sum: 23359
+Страница 1223:
+entropy sum: 23161
+Страница 1224:
+entropy sum: 22680
+Страница 1225:
+entropy sum: 23356
+Страница 1226:
+entropy sum: 23182
+Страница 1227:
+entropy sum: 22751
+Страница 1228:
+entropy sum: 21373
+Страница 1229:
+entropy sum: 24324
+Страница 1230:
+entropy sum: 22675
+Страница 1231:
+entropy sum: 22358
+Страница 1232:
+entropy sum: 22444
+Страница 1233:
+entropy sum: 22097
+Страница 1234:
+entropy sum: 21688
+Страница 1235:
+entropy sum: 23204
+Страница 1236:
+entropy sum: 23048
+Страница 1237:
+entropy sum: 21931
+Страница 1238:
+entropy sum: 24273
+Страница 1239:
+entropy sum: 20651
+Страница 1240:
+entropy sum: 23230
+Страница 1241:
+entropy sum: 19863
+Страница 1242:
+entropy sum: 19301
+Страница 1243:
+entropy sum: 19490
+Страница 1244:
+entropy sum: 18672
+Страница 1245:
+entropy sum: 23450
+Страница 1246:
+entropy sum: 23905
+Страница 1247:
+entropy sum: 23294
+Страница 1248:
+entropy sum: 23116
+Страница 1249:
+entropy sum: 20251
+Страница 1250:
+entropy sum: 24032
+Страница 1251:
+entropy sum: 23538
+Страница 1252:
+entropy sum: 22679
+Страница 1253:
+entropy sum: 21958
+Страница 1254:
+entropy sum: 22003
+Страница 1255:
+entropy sum: 21718
+Страница 1256:
+entropy sum: 22220
+Страница 1257:
+entropy sum: 22515
+Страница 1258:
+entropy sum: 22014
+Страница 1259:
+entropy sum: 22470
+Страница 1260:
+entropy sum: 22294
+Страница 1261:
+entropy sum: 22430
+Страница 1262:
+entropy sum: 22379
+Страница 1263:
+entropy sum: 22096
+Страница 1264:
+entropy sum: 21916
+Страница 1265:
+entropy sum: 22574
+Страница 1266:
+entropy sum: 22519
+Страница 1267:
+entropy sum: 22122
+Страница 1268:
+entropy sum: 21719
+Страница 1269:
+entropy sum: 22050
+Страница 1270:
+entropy sum: 22106
+Страница 1271:
+entropy sum: 22656
+Страница 1272:
+entropy sum: 22349
+Страница 1273:
+entropy sum: 22761
+Страница 1274:
+entropy sum: 22022
+Страница 1275:
+entropy sum: 21330
+Страница 1276:
+entropy sum: 21521
+Страница 1277:
+entropy sum: 22035
+Страница 1278:
+entropy sum: 21782
+Страница 1279:
+entropy sum: 21426
+Страница 1280:
+entropy sum: 21700
+Страница 1281:
+entropy sum: 22150
+Страница 1282:
+entropy sum: 22024
+Страница 1283:
+entropy sum: 21929
+Страница 1284:
+entropy sum: 21233
+Страница 1285:
+entropy sum: 23462
+Страница 1286:
+entropy sum: 22561
+Страница 1287:
+entropy sum: 19440
+Страница 1288:
+entropy sum: 23281
+Страница 1289:
+entropy sum: 23360
+Страница 1290:
+entropy sum: 22701
+Страница 1291:
+entropy sum: 22617
+Страница 1292:
+entropy sum: 22539
+Страница 1293:
+entropy sum: 22482
+Страница 1294:
+entropy sum: 22827
+Страница 1295:
+entropy sum: 22981
+Страница 1296:
+entropy sum: 23413
+Страница 1297:
+entropy sum: 21441
+Страница 1298:
+entropy sum: 23437
+Страница 1299:
+entropy sum: 23607
+Страница 1300:
+entropy sum: 23711
+Страница 1301:
+entropy sum: 22854
+Страница 1302:
+entropy sum: 22569
+Страница 1303:
+entropy sum: 22007
+Страница 1304:
+entropy sum: 24598
+Страница 1305:
+entropy sum: 23947
+Страница 1306:
+entropy sum: 23229
+Страница 1307:
+entropy sum: 23274
+Страница 1308:
+entropy sum: 23235
+Страница 1309:
+entropy sum: 24142
+Страница 1310:
+entropy sum: 23138
+Страница 1311:
+entropy sum: 23125
+Страница 1312:
+entropy sum: 23377
+Страница 1313:
+entropy sum: 23458
+Страница 1314:
+entropy sum: 21488
+Страница 1315:
+entropy sum: 23030
+Страница 1316:
+entropy sum: 22775
+Страница 1317:
+entropy sum: 22804
+Страница 1318:
+entropy sum: 23216
+Страница 1319:
+entropy sum: 22779
+Страница 1320:
+entropy sum: 21015
+Страница 1321:
+entropy sum: 23391
+Страница 1322:
+entropy sum: 21245
+Страница 1323:
+entropy sum: 23404
+Страница 1324:
+entropy sum: 23033
+Страница 1325:
+entropy sum: 22749
+Страница 1326:
+entropy sum: 22652
+Страница 1327:
+entropy sum: 21931
+Страница 1328:
+entropy sum: 22380
+Страница 1329:
+entropy sum: 23561
+Страница 1330:
+entropy sum: 22762
+Страница 1331:
+entropy sum: 18692
+Страница 1332:
+entropy sum: 18568
+Страница 1333:
+entropy sum: 19676
+Страница 1334:
+entropy sum: 21842
+Страница 1335:
+entropy sum: 22303
+Страница 1336:
+entropy sum: 22358
+Страница 1337:
+entropy sum: 20262
+Страница 1338:
+entropy sum: 24066
+Страница 1339:
+entropy sum: 23350
+Страница 1340:
+entropy sum: 23324
+Страница 1341:
+entropy sum: 23704
+Страница 1342:
+entropy sum: 23245
+Страница 1343:
+entropy sum: 21488
+Страница 1344:
+entropy sum: 21991
+Страница 1345:
+entropy sum: 21268
+Страница 1346:
+entropy sum: 21400
+Страница 1347:
+entropy sum: 21389
+Страница 1348:
+entropy sum: 21789
+Страница 1349:
+entropy sum: 21954
+Страница 1350:
+entropy sum: 21611
+Страница 1351:
+entropy sum: 21370
+Страница 1352:
+entropy sum: 22348
+Страница 1353:
+entropy sum: 22237
+Страница 1354:
+entropy sum: 20016
+Страница 1355:
+entropy sum: 21778
+Страница 1356:
+entropy sum: 22288
+Страница 1357:
+entropy sum: 19798
+Страница 1358:
+entropy sum: 22169
+Страница 1359:
+entropy sum: 20643
+Страница 1360:
+entropy sum: 21429
+Страница 1361:
+entropy sum: 22034
+Страница 1362:
+entropy sum: 22580
+Страница 1363:
+entropy sum: 21743
+Страница 1364:
+entropy sum: 22125
+Страница 1365:
+entropy sum: 22009
+Страница 1366:
+entropy sum: 23142
+Страница 1367:
+entropy sum: 22963
+Страница 1368:
+entropy sum: 20910
+Страница 1369:
+entropy sum: 21309
+Страница 1370:
+entropy sum: 23598
+Страница 1371:
+entropy sum: 21003
+Страница 1372:
+entropy sum: 20659
+Страница 1373:
+entropy sum: 21337
+Страница 1374:
+entropy sum: 21626
+Страница 1375:
+entropy sum: 22174
+Страница 1376:
+entropy sum: 23193
+Страница 1377:
+entropy sum: 23153
+Страница 1378:
+entropy sum: 22393
+Страница 1379:
+entropy sum: 21720
+Страница 1380:
+entropy sum: 21684
+Страница 1381:
+entropy sum: 21674
+Страница 1382:
+entropy sum: 23531
+Страница 1383:
+entropy sum: 21853
+Страница 1384:
+entropy sum: 22322
+Страница 1385:
+entropy sum: 21675
+Страница 1386:
+entropy sum: 23600
+Страница 1387:
+entropy sum: 21355
+Страница 1388:
+entropy sum: 21540
+Страница 1389:
+entropy sum: 22438
+Страница 1390:
+entropy sum: 21850
+Страница 1391:
+entropy sum: 22387
+Страница 1392:
+entropy sum: 21875
+Страница 1393:
+entropy sum: 22808
+Страница 1394:
+entropy sum: 21410
+Страница 1395:
+entropy sum: 21737
+Страница 1396:
+entropy sum: 22071
+Страница 1397:
+entropy sum: 20246
+Страница 1398:
+entropy sum: 23810
+Страница 1399:
+entropy sum: 24230
+Страница 1400:
+entropy sum: 24791
+Страница 1401:
+entropy sum: 20735
+Страница 1402:
+entropy sum: 21343
+Страница 1403:
+entropy sum: 13580
+Страница 1404:
+entropy sum: 19065
+Страница 1405:
+entropy sum: 20279
+Страница 1406:
+entropy sum: 23769
+Страница 1407:
+entropy sum: 19808
+Страница 1408:
+entropy sum: 20567
+Страница 1409:
+entropy sum: 15268
+Страница 1410:
+entropy sum: 24263
+Страница 1411:
+entropy sum: 19371
+Страница 1412:
+entropy sum: 19497
+Страница 1413:
+entropy sum: 19146
+Страница 1414:
+entropy sum: 20456
+Страница 1415:
+entropy sum: 18193
+Страница 1416:
+entropy sum: 19740
+Страница 1417:
+entropy sum: 15714
+Страница 1418:
+entropy sum: 22798
+Страница 1419:
+entropy sum: 22065
+Страница 1420:
+entropy sum: 20220
+Страница 1421:
+entropy sum: 18648
+Страница 1422:
+entropy sum: 15795
+Страница 1423:
+entropy sum: 21122
+Страница 1424:
+entropy sum: 19673
+Страница 1425:
+entropy sum: 22560
+Страница 1426:
+entropy sum: 21457
+Страница 1427:
+entropy sum: 21835
+Страница 1428:
+entropy sum: 22328
+Страница 1429:
+entropy sum: 19441
+Страница 1430:
+entropy sum: 21788
+Страница 1431:
+entropy sum: 18956
+Страница 1432:
+entropy sum: 19399
+Страница 1433:
+entropy sum: 21629
+Страница 1434:
+entropy sum: 22324
+Страница 1435:
+entropy sum: 19039
+Страница 1436:
+entropy sum: 23808
+Страница 1437:
+entropy sum: 22990
+Страница 1438:
+entropy sum: 20223
+Страница 1439:
+entropy sum: 22305
+Страница 1440:
+entropy sum: 21177
+Страница 1441:
+entropy sum: 20502
+Страница 1442:
+entropy sum: 21725
+Страница 1443:
+entropy sum: 23151
+Страница 1444:
+entropy sum: 15954
+Страница 1445:
+entropy sum: 23936
+Страница 1446:
+entropy sum: 21569
+Страница 1447:
+entropy sum: 20235
+Страница 1448:
+entropy sum: 19180
+Страница 1449:
+entropy sum: 15796
+Страница 1450:
+entropy sum: 19507
+Страница 1451:
+entropy sum: 19880
+Страница 1452:
+entropy sum: 15618
+Страница 1453:
+entropy sum: 20302
+Страница 1454:
+entropy sum: 19270
+Страница 1455:
+entropy sum: 20227
+Страница 1456:
+entropy sum: 19932
+Страница 1457:
+entropy sum: 19912
+Страница 1458:
+entropy sum: 19309
+Страница 1459:
+entropy sum: 20059
+Страница 1460:
+entropy sum: 18667
+Страница 1461:
+entropy sum: 21380
+Страница 1462:
+entropy sum: 18649
+Страница 1463:
+entropy sum: 20774
+Страница 1464:
+entropy sum: 19330
+Страница 1465:
+entropy sum: 20172
+Страница 1466:
+entropy sum: 18745
+Страница 1467:
+entropy sum: 22505
+Страница 1468:
+entropy sum: 19232
+Страница 1469:
+entropy sum: 19982
+Страница 1470:
+entropy sum: 14582
+Страница 1471:
+entropy sum: 19175
+Страница 1472:
+entropy sum: 14208
+Страница 1473:
+entropy sum: 21093
+Страница 1474:
+entropy sum: 22785
+Страница 1475:
+entropy sum: 23225
+Страница 1476:
+entropy sum: 22716
+Страница 1477:
+entropy sum: 22978
+Страница 1478:
+entropy sum: 23319
+Страница 1479:
+entropy sum: 22567
+Страница 1480:
+entropy sum: 22898
+Страница 1481:
+entropy sum: 22754
+Страница 1482:
+entropy sum: 22470
+Страница 1483:
+entropy sum: 23607
+Страница 1484:
+entropy sum: 22867
+Страница 1485:
+entropy sum: 22712
+Страница 1486:
+entropy sum: 22826
+Страница 1487:
+entropy sum: 23891
+Страница 1488:
+entropy sum: 22664
+Страница 1489:
+entropy sum: 23692
+Страница 1490:
+entropy sum: 22907
+Страница 1491:
+entropy sum: 23448
+Страница 1492:
+entropy sum: 24136
+Страница 1493:
+entropy sum: 23212
+Страница 1494:
+entropy sum: 22959
+Страница 1495:
+entropy sum: 23264
+Страница 1496:
+entropy sum: 23076
+Страница 1497:
+entropy sum: 24196
+Страница 1498:
+entropy sum: 23810
+Страница 1499:
+entropy sum: 22663
+Страница 1500:
+entropy sum: 23518
+Страница 1501:
+entropy sum: 22772
+Страница 1502:
+entropy sum: 23781
+Страница 1503:
+entropy sum: 23067
+Страница 1504:
+entropy sum: 23888
+Страница 1505:
+entropy sum: 23482
+Страница 1506:
+entropy sum: 23847
+Страница 1507:
+entropy sum: 22877
+Страница 1508:
+entropy sum: 24084
+Страница 1509:
+entropy sum: 23869
+Страница 1510:
+entropy sum: 23332
+Страница 1511:
+entropy sum: 22302
+Страница 1512:
+entropy sum: 23768
+Страница 1513:
+entropy sum: 22702
+Страница 1514:
+entropy sum: 23946
+Страница 1515:
+entropy sum: 23940
+Страница 1516:
+entropy sum: 23337
+Страница 1517:
+entropy sum: 22772
+Страница 1518:
+entropy sum: 20135
+Страница 1519:
+entropy sum: 20657
+Страница 1520:
+entropy sum: 24430
+Страница 1521:
+entropy sum: 22606
+Страница 1522:
+entropy sum: 20938
+Страница 1523:
+entropy sum: 23724
+Страница 1524:
+entropy sum: 18638
+Страница 1525:
+entropy sum: 21721
+Страница 1526:
+entropy sum: 21282
+Страница 1527:
+entropy sum: 20928
+Страница 1528:
+entropy sum: 18757
+Страница 1529:
+entropy sum: 22135
+Страница 1530:
+entropy sum: 20765
+Страница 1531:
+entropy sum: 22967
+Страница 1532:
+entropy sum: 21774
+Страница 1533:
+entropy sum: 14543
+Страница 1534:
+entropy sum: 21642
+Страница 1535:
+entropy sum: 20623
+Страница 1536:
+entropy sum: 23795
+Страница 1537:
+entropy sum: 23488
+Страница 1538:
+entropy sum: 19876
+Страница 1539:
+entropy sum: 19365
+Страница 1540:
+entropy sum: 18607
+Страница 1541:
+entropy sum: 23944
+Страница 1542:
+entropy sum: 23251
+Страница 1543:
+entropy sum: 18598
+Страница 1544:
+entropy sum: 22661
+Страница 1545:
+entropy sum: 22610
+Страница 1546:
+entropy sum: 20941
+Страница 1547:
+entropy sum: 23027
+Страница 1548:
+entropy sum: 16227
+Страница 1549:
+entropy sum: 22150
+Страница 1550:
+entropy sum: 20932
+Страница 1551:
+entropy sum: 21130
+Страница 1552:
+entropy sum: 19123
+Страница 1553:
+entropy sum: 19161
+Страница 1554:
+entropy sum: 21076
+Страница 1555:
+entropy sum: 19904
+Страница 1556:
+entropy sum: 22118
+Страница 1557:
+entropy sum: 23138
+Страница 1558:
+entropy sum: 18841
+Страница 1559:
+entropy sum: 19874
+Страница 1560:
+entropy sum: 20541
+Страница 1561:
+entropy sum: 22529
+Страница 1562:
+entropy sum: 20231
+Страница 1563:
+entropy sum: 24165
+Страница 1564:
+entropy sum: 14126
+Страница 1565:
+entropy sum: 20318
+Страница 1566:
+entropy sum: 22990
+Страница 1567:
+entropy sum: 22510
+Страница 1568:
+entropy sum: 18520
+Страница 1569:
+entropy sum: 20468
+Страница 1570:
+entropy sum: 18919
+Страница 1571:
+entropy sum: 22888
+Страница 1572:
+entropy sum: 21838
+Страница 1573:
+entropy sum: 21536
+Страница 1574:
+entropy sum: 22071
+Страница 1575:
+entropy sum: 20966
+Страница 1576:
+entropy sum: 21433
+Страница 1577:
+entropy sum: 20787
+Страница 1578:
+entropy sum: 22449
+Страница 1579:
+entropy sum: 23170
+Страница 1580:
+entropy sum: 21240
+Страница 1581:
+entropy sum: 23161
+Страница 1582:
+entropy sum: 23857
+Страница 1583:
+entropy sum: 21456
+Страница 1584:
+entropy sum: 21007
+Страница 1585:
+entropy sum: 19265
+Страница 1586:
+entropy sum: 20265
+Страница 1587:
+entropy sum: 21192
+Страница 1588:
+entropy sum: 23281
+Страница 1589:
+entropy sum: 23398
+Страница 1590:
+entropy sum: 24515
+Страница 1591:
+entropy sum: 23487
+Страница 1592:
+entropy sum: 23510
+Страница 1593:
+entropy sum: 23901
+Страница 1594:
+entropy sum: 23625
+Страница 1595:
+entropy sum: 24557
+Страница 1596:
+entropy sum: 23958
+Страница 1597:
+entropy sum: 22792
+Страница 1598:
+entropy sum: 24559
+Страница 1599:
+entropy sum: 24011
+Страница 1600:
+entropy sum: 24330
+Страница 1601:
+entropy sum: 23401
+Страница 1602:
+entropy sum: 23581
+Страница 1603:
+entropy sum: 23444
+Страница 1604:
+entropy sum: 22752
+Страница 1605:
+entropy sum: 23646
+Страница 1606:
+entropy sum: 24546
+Страница 1607:
+entropy sum: 24459
+Страница 1608:
+entropy sum: 23960
+Страница 1609:
+entropy sum: 22308
+Страница 1610:
+entropy sum: 22116
+Страница 1611:
+entropy sum: 22547
+Страница 1612:
+entropy sum: 23762
+Страница 1613:
+entropy sum: 24506
+Страница 1614:
+entropy sum: 23424
+Страница 1615:
+entropy sum: 24814
+Страница 1616:
+entropy sum: 23865
+Страница 1617:
+entropy sum: 23862
+Страница 1618:
+entropy sum: 23938
+Страница 1619:
+entropy sum: 22659
+Страница 1620:
+entropy sum: 20317
+Страница 1621:
+entropy sum: 23154
+Страница 1622:
+entropy sum: 22426
+Страница 1623:
+entropy sum: 22008
+Страница 1624:
+entropy sum: 21270
+Страница 1625:
+entropy sum: 21296
+Страница 1626:
+entropy sum: 21257
+Страница 1627:
+entropy sum: 21527
+Страница 1628:
+entropy sum: 21417
+Страница 1629:
+entropy sum: 21971
+Страница 1630:
+entropy sum: 22400
+Страница 1631:
+entropy sum: 19416
+Страница 1632:
+entropy sum: 20481
+Страница 1633:
+entropy sum: 20956
+Страница 1634:
+entropy sum: 21593
+Страница 1635:
+entropy sum: 21414
+Страница 1636:
+entropy sum: 22444
+Страница 1637:
+entropy sum: 22252
+Страница 1638:
+entropy sum: 21577
+Страница 1639:
+entropy sum: 23376
+Страница 1640:
+entropy sum: 22016
+Страница 1641:
+entropy sum: 21735
+Страница 1642:
+entropy sum: 21921
+Страница 1643:
+entropy sum: 23231
+Страница 1644:
+entropy sum: 22638
+Страница 1645:
+entropy sum: 20982
+Страница 1646:
+entropy sum: 21319
+Страница 1647:
+entropy sum: 24171
+Страница 1648:
+entropy sum: 23235
+Страница 1649:
+entropy sum: 20373
+Страница 1650:
+entropy sum: 24142
+Страница 1651:
+entropy sum: 22485
+Страница 1652:
+entropy sum: 20514
+Страница 1653:
+entropy sum: 24027
+Страница 1654:
+entropy sum: 21777
+Страница 1655:
+entropy sum: 21804
+Страница 1656:
+entropy sum: 20330
+Страница 1657:
+entropy sum: 21989
+Страница 1658:
+entropy sum: 19266
+Страница 1659:
+entropy sum: 23920
+Страница 1660:
+entropy sum: 23210
+Страница 1661:
+entropy sum: 20901
+Страница 1662:
+entropy sum: 20833
+Страница 1663:
+entropy sum: 20644
+Страница 1664:
+entropy sum: 21193
+Страница 1665:
+entropy sum: 22149
+Страница 1666:
+entropy sum: 21338
+Страница 1667:
+entropy sum: 22266
+Страница 1668:
+entropy sum: 20996
+Страница 1669:
+entropy sum: 22458
+Страница 1670:
+entropy sum: 20961
+Страница 1671:
+entropy sum: 22007
+Страница 1672:
+entropy sum: 22919
+Страница 1673:
+entropy sum: 23832
+Страница 1674:
+entropy sum: 23025
+Страница 1675:
+entropy sum: 22052
+Страница 1676:
+entropy sum: 21862
+Страница 1677:
+entropy sum: 19836
+Страница 1678:
+entropy sum: 23879
+Страница 1679:
+entropy sum: 19201
+Страница 1680:
+entropy sum: 21739
+Страница 1681:
+entropy sum: 22057
+Страница 1682:
+entropy sum: 23513
+Страница 1683:
+entropy sum: 22162
+Страница 1684:
+entropy sum: 22729
+Страница 1685:
+entropy sum: 21948
+Страница 1686:
+entropy sum: 22855
+Страница 1687:
+entropy sum: 22629
+Страница 1688:
+entropy sum: 22559
+Страница 1689:
+entropy sum: 24214
+Страница 1690:
+entropy sum: 23068
+Страница 1691:
+entropy sum: 22319
+Страница 1692:
+entropy sum: 19013
+Страница 1693:
+entropy sum: 23566
+Страница 1694:
+entropy sum: 22288
+Страница 1695:
+entropy sum: 22410
+Страница 1696:
+entropy sum: 19526
+Страница 1697:
+entropy sum: 19692
+Страница 1698:
+entropy sum: 22140
+Страница 1699:
+entropy sum: 22849
+Страница 1700:
+entropy sum: 21526
+Страница 1701:
+entropy sum: 20121
+Страница 1702:
+entropy sum: 22616
+Страница 1703:
+entropy sum: 23204
+Страница 1704:
+entropy sum: 22441
+Страница 1705:
+entropy sum: 23013
+Страница 1706:
+entropy sum: 23065
+Страница 1707:
+entropy sum: 21976
+Страница 1708:
+entropy sum: 21496
+Страница 1709:
+entropy sum: 22881
+Страница 1710:
+entropy sum: 22230
+Страница 1711:
+entropy sum: 23620
+Страница 1712:
+entropy sum: 22638
+Страница 1713:
+entropy sum: 22749
+Страница 1714:
+entropy sum: 22032
+Страница 1715:
+entropy sum: 19483
+Страница 1716:
+entropy sum: 21829
+Страница 1717:
+entropy sum: 21968
+Страница 1718:
+entropy sum: 22906
+Страница 1719:
+entropy sum: 18209
+Страница 1720:
+entropy sum: 22388
+Страница 1721:
+entropy sum: 20869
+Страница 1722:
+entropy sum: 21269
+Страница 1723:
+entropy sum: 22058
+Страница 1724:
+entropy sum: 21767
+Страница 1725:
+entropy sum: 21118
+Страница 1726:
+entropy sum: 24452
+Страница 1727:
+entropy sum: 24236
+Страница 1728:
+entropy sum: 22806
+Страница 1729:
+entropy sum: 22888
+Страница 1730:
+entropy sum: 23966
+Страница 1731:
+entropy sum: 23744
+Страница 1732:
+entropy sum: 23864
+Страница 1733:
+entropy sum: 23986
+Страница 1734:
+entropy sum: 23523
+Страница 1735:
+entropy sum: 22606
+Страница 1736:
+entropy sum: 22298
+Страница 1737:
+entropy sum: 22662
+Страница 1738:
+entropy sum: 22156
+Страница 1739:
+entropy sum: 22356
+Страница 1740:
+entropy sum: 15779
+Страница 1741:
+entropy sum: 22014
+Страница 1742:
+entropy sum: 20458
+Страница 1743:
+entropy sum: 20795
+Страница 1744:
+entropy sum: 21910
+Страница 1745:
+entropy sum: 22250
+Страница 1746:
+entropy sum: 23734
+Страница 1747:
+entropy sum: 23029
+Страница 1748:
+entropy sum: 22161
+Страница 1749:
+entropy sum: 23377
+Страница 1750:
+entropy sum: 23197
+Страница 1751:
+entropy sum: 23187
+Страница 1752:
+entropy sum: 21327
+Страница 1753:
+entropy sum: 21593
+Страница 1754:
+entropy sum: 21916
+Страница 1755:
+entropy sum: 22113
+Страница 1756:
+entropy sum: 22903
+Страница 1757:
+entropy sum: 24199
+Страница 1758:
+entropy sum: 22632
+Страница 1759:
+entropy sum: 23145
+Страница 1760:
+entropy sum: 19465
+Страница 1761:
+entropy sum: 22778
+Страница 1762:
+entropy sum: 22685
+Страница 1763:
+entropy sum: 21734
+Страница 1764:
+entropy sum: 22201
+Страница 1765:
+entropy sum: 22760
+Страница 1766:
+entropy sum: 21877
+Страница 1767:
+entropy sum: 21354
+Страница 1768:
+entropy sum: 22837
+Страница 1769:
+entropy sum: 22499
+Страница 1770:
+entropy sum: 22377
+Страница 1771:
+entropy sum: 21541
+Страница 1772:
+entropy sum: 21707
+Страница 1773:
+entropy sum: 23313
+Страница 1774:
+entropy sum: 20251
+Страница 1775:
+entropy sum: 21939
+Страница 1776:
+entropy sum: 20154
+Страница 1777:
+entropy sum: 23375
+Страница 1778:
+entropy sum: 23858
+Страница 1779:
+entropy sum: 21678
+Страница 1780:
+entropy sum: 21558
+Страница 1781:
+entropy sum: 21873
+Страница 1782:
+entropy sum: 21901
+Страница 1783:
+entropy sum: 21929
+Страница 1784:
+entropy sum: 20259
+Страница 1785:
+entropy sum: 23354
+Страница 1786:
+entropy sum: 23450
+Страница 1787:
+entropy sum: 23005
+Страница 1788:
+entropy sum: 22410
+Страница 1789:
+entropy sum: 21694
+Страница 1790:
+entropy sum: 22726
+Страница 1791:
+entropy sum: 22939
+Страница 1792:
+entropy sum: 22865
+Страница 1793:
+entropy sum: 22217
+Страница 1794:
+entropy sum: 22613
+Страница 1795:
+entropy sum: 22599
+Страница 1796:
+entropy sum: 23669
+Страница 1797:
+entropy sum: 23457
+Страница 1798:
+entropy sum: 22168
+Страница 1799:
+entropy sum: 22394
+Страница 1800:
+entropy sum: 23438
+Страница 1801:
+entropy sum: 19820
+Страница 1802:
+entropy sum: 22345
+Страница 1803:
+entropy sum: 22735
+Страница 1804:
+entropy sum: 21341
+Страница 1805:
+entropy sum: 22308
+Страница 1806:
+entropy sum: 22612
+Страница 1807:
+entropy sum: 23024
+Страница 1808:
+entropy sum: 22923
+Страница 1809:
+entropy sum: 23174
+Страница 1810:
+entropy sum: 23406
+Страница 1811:
+entropy sum: 23376
+Страница 1812:
+entropy sum: 22324
+Страница 1813:
+entropy sum: 22239
+Страница 1814:
+entropy sum: 22569
+Страница 1815:
+entropy sum: 22423
+Страница 1816:
+entropy sum: 22110
+Страница 1817:
+entropy sum: 19740
+Страница 1818:
+entropy sum: 20580
+Страница 1819:
+entropy sum: 21716
+Страница 1820:
+entropy sum: 23892
+Страница 1821:
+entropy sum: 16008
+Страница 1822:
+entropy sum: 22936
+Страница 1823:
+entropy sum: 22710
+Страница 1824:
+entropy sum: 19911
+Страница 1825:
+entropy sum: 21738
+Страница 1826:
+entropy sum: 21403
+Страница 1827:
+entropy sum: 18300
+Страница 1828:
+entropy sum: 21178
+Страница 1829:
+entropy sum: 22756
+Страница 1830:
+entropy sum: 20821
+Страница 1831:
+entropy sum: 17830
+Страница 1832:
+entropy sum: 23442
+Страница 1833:
+entropy sum: 20246
+Страница 1834:
+entropy sum: 22078
+Страница 1835:
+entropy sum: 15416
+Страница 1836:
+entropy sum: 19511
+Страница 1837:
+entropy sum: 15608
+Страница 1838:
+entropy sum: 19147
+Страница 1839:
+entropy sum: 12313
+Страница 1840:
+entropy sum: 23552
+Страница 1841:
+entropy sum: 20586
+Страница 1842:
+entropy sum: 18465
+Страница 1843:
+entropy sum: 22731
+Страница 1844:
+entropy sum: 21764
+Страница 1845:
+entropy sum: 21321
+Страница 1846:
+entropy sum: 23266
+Страница 1847:
+entropy sum: 24179
+Страница 1848:
+entropy sum: 24149
+Страница 1849:
+entropy sum: 22057
+Страница 1850:
+entropy sum: 23268
+Страница 1851:
+entropy sum: 22329
+Страница 1852:
+entropy sum: 21248
+Страница 1853:
+entropy sum: 22460
+Страница 1854:
+entropy sum: 22345
+Страница 1855:
+entropy sum: 21937
+Страница 1856:
+entropy sum: 19701
+Страница 1857:
+entropy sum: 21624
+Страница 1858:
+entropy sum: 18115
+Страница 1859:
+entropy sum: 21972
+Страница 1860:
+entropy sum: 21340
+Страница 1861:
+entropy sum: 22942
+Страница 1862:
+entropy sum: 23626
+Страница 1863:
+entropy sum: 19896
+Страница 1864:
+entropy sum: 20720
+Страница 1865:
+entropy sum: 22876
+Страница 1866:
+entropy sum: 22516
+Страница 1867:
+entropy sum: 19437
+Страница 1868:
+entropy sum: 21174
+Страница 1869:
+entropy sum: 19218
+Страница 1870:
+entropy sum: 20507
+Страница 1871:
+entropy sum: 21161
+Страница 1872:
+entropy sum: 22252
+Страница 1873:
+entropy sum: 22685
+Страница 1874:
+entropy sum: 22364
+Страница 1875:
+entropy sum: 22496
+Страница 1876:
+entropy sum: 20859
+Страница 1877:
+entropy sum: 21782
+Страница 1878:
+entropy sum: 21034
+Страница 1879:
+entropy sum: 21975
+Страница 1880:
+entropy sum: 23271
+Страница 1881:
+entropy sum: 22856
+Страница 1882:
+entropy sum: 22531
+Страница 1883:
+entropy sum: 22418
+Страница 1884:
+entropy sum: 21569
+Страница 1885:
+entropy sum: 21970
+Страница 1886:
+entropy sum: 21584
+Страница 1887:
+entropy sum: 19481
+Страница 1888:
+entropy sum: 22750
+Страница 1889:
+entropy sum: 21003
+Страница 1890:
+entropy sum: 22101
+Страница 1891:
+entropy sum: 21448
+Страница 1892:
+entropy sum: 22286
+Страница 1893:
+entropy sum: 21905
+Страница 1894:
+entropy sum: 19682
+Страница 1895:
+entropy sum: 22549
+Страница 1896:
+entropy sum: 21836
+Страница 1897:
+entropy sum: 19464
+Страница 1898:
+entropy sum: 22412
+Страница 1899:
+entropy sum: 23065
+Страница 1900:
+entropy sum: 22571
+Страница 1901:
+entropy sum: 23652
+Страница 1902:
+entropy sum: 22166
+Страница 1903:
+entropy sum: 24282
+Страница 1904:
+entropy sum: 22664
+Страница 1905:
+entropy sum: 23179
+Страница 1906:
+entropy sum: 21928
+Страница 1907:
+entropy sum: 22257
+Страница 1908:
+entropy sum: 21962
+Страница 1909:
+entropy sum: 23119
+Страница 1910:
+entropy sum: 23560
+Страница 1911:
+entropy sum: 24318
+Страница 1912:
+entropy sum: 24340
+Страница 1913:
+entropy sum: 18669
+Страница 1914:
+entropy sum: 22985
+Страница 1915:
+entropy sum: 21541
+Страница 1916:
+entropy sum: 21514
+Страница 1917:
+entropy sum: 22416
+Страница 1918:
+entropy sum: 22827
+Страница 1919:
+entropy sum: 21964
+Страница 1920:
+entropy sum: 15278
+Страница 1921:
+entropy sum: 22034
+Страница 1922:
+entropy sum: 21557
+Страница 1923:
+entropy sum: 21532
+Страница 1924:
+entropy sum: 15339
+Страница 1925:
+entropy sum: 21253
+Страница 1926:
+entropy sum: 22475
+Страница 1927:
+entropy sum: 21404
+Страница 1928:
+entropy sum: 20376
+Страница 1929:
+entropy sum: 23454
+Страница 1930:
+entropy sum: 22402
+Страница 1931:
+entropy sum: 20851
+Страница 1932:
+entropy sum: 18787
+Страница 1933:
+entropy sum: 21548
+Страница 1934:
+entropy sum: 22149
+Страница 1935:
+entropy sum: 23687
+Страница 1936:
+entropy sum: 22255
+Страница 1937:
+entropy sum: 20730
+Страница 1938:
+entropy sum: 23812
+Страница 1939:
+entropy sum: 23724
+Страница 1940:
+entropy sum: 23069
+Страница 1941:
+entropy sum: 21718
+Страница 1942:
+entropy sum: 21786
+Страница 1943:
+entropy sum: 24508
+Страница 1944:
+entropy sum: 23447
+Страница 1945:
+entropy sum: 20047
+Страница 1946:
+entropy sum: 22472
+Страница 1947:
+entropy sum: 22794
+Страница 1948:
+entropy sum: 22573
+Страница 1949:
+entropy sum: 21949
+Страница 1950:
+entropy sum: 22007
+Страница 1951:
+entropy sum: 21236
+Страница 1952:
+entropy sum: 21310
+Страница 1953:
+entropy sum: 20947
+Страница 1954:
+entropy sum: 22954
+Страница 1955:
+entropy sum: 23274
+Страница 1956:
+entropy sum: 23536
+Страница 1957:
+entropy sum: 23050
+Страница 1958:
+entropy sum: 20411
+Страница 1959:
+entropy sum: 21484
+Страница 1960:
+entropy sum: 21920
+Страница 1961:
+entropy sum: 21750
+Страница 1962:
+entropy sum: 22486
+Страница 1963:
+entropy sum: 22674
+Страница 1964:
+entropy sum: 22393
+Страница 1965:
+entropy sum: 23845
+Страница 1966:
+entropy sum: 24259
+Страница 1967:
+entropy sum: 23922
+Страница 1968:
+entropy sum: 21954
+Страница 1969:
+entropy sum: 23421
+Страница 1970:
+entropy sum: 19307
+Страница 1971:
+entropy sum: 19981
+Страница 1972:
+entropy sum: 19748
+Страница 1973:
+entropy sum: 19853
+Страница 1974:
+entropy sum: 23495
+Страница 1975:
+entropy sum: 22232
+Страница 1976:
+entropy sum: 20733
+Страница 1977:
+entropy sum: 22556
+Страница 1978:
+entropy sum: 22455
+Страница 1979:
+entropy sum: 19457
+Страница 1980:
+entropy sum: 17687
+Страница 1981:
+entropy sum: 15208
+Страница 1982:
+entropy sum: 15755
+Страница 1983:
+entropy sum: 19043
+Страница 1984:
+entropy sum: 17507
+Страница 1985:
+entropy sum: 22207
+Страница 1986:
+entropy sum: 21185
+Страница 1987:
+entropy sum: 21151
+Страница 1988:
+entropy sum: 21005
+Страница 1989:
+entropy sum: 20702
+Страница 1990:
+entropy sum: 21769
+Страница 1991:
+entropy sum: 19934
+Страница 1992:
+entropy sum: 20416
+Страница 1993:
+entropy sum: 19587
+Страница 1994:
+entropy sum: 22653
+Страница 1995:
+entropy sum: 23073
+Страница 1996:
+entropy sum: 22927
+Страница 1997:
+entropy sum: 22996
+Страница 1998:
+entropy sum: 22388
+Страница 1999:
+entropy sum: 23093
+Страница 2000:
+entropy sum: 24143
+Страница 2001:
+entropy sum: 23729
+Страница 2002:
+entropy sum: 23445
+Страница 2003:
+entropy sum: 20715
+Страница 2004:
+entropy sum: 24476
+Страница 2005:
+entropy sum: 23257
+Страница 2006:
+entropy sum: 21116
+Страница 2007:
+entropy sum: 22287
+Страница 2008:
+entropy sum: 23578
+Страница 2009:
+entropy sum: 23057
+Страница 2010:
+entropy sum: 24438
+Страница 2011:
+entropy sum: 24888
+Страница 2012:
+entropy sum: 24370
+Страница 2013:
+entropy sum: 23516
+Страница 2014:
+entropy sum: 20224
+Страница 2015:
+entropy sum: 22888
+Страница 2016:
+entropy sum: 20949
+Страница 2017:
+entropy sum: 23666
+Страница 2018:
+entropy sum: 22354
+Страница 2019:
+entropy sum: 21521
+Страница 2020:
+entropy sum: 20102
+Страница 2021:
+entropy sum: 23696
+Страница 2022:
+entropy sum: 24006
+Страница 2023:
+entropy sum: 23648
+Страница 2024:
+entropy sum: 24223
+Страница 2025:
+entropy sum: 22285
+Страница 2026:
+entropy sum: 22659
+Страница 2027:
+entropy sum: 24912
+Страница 2028:
+entropy sum: 24336
+Страница 2029:
+entropy sum: 24458
+Страница 2030:
+entropy sum: 22710
+Страница 2031:
+entropy sum: 19845
+Страница 2032:
+entropy sum: 21539
+Страница 2033:
+entropy sum: 19784
+Страница 2034:
+entropy sum: 21977
+Страница 2035:
+entropy sum: 21834
+Страница 2036:
+entropy sum: 18873
+Страница 2037:
+entropy sum: 23168
+Страница 2038:
+entropy sum: 22672
+Страница 2039:
+entropy sum: 22705
+Страница 2040:
+entropy sum: 22380
+Страница 2041:
+entropy sum: 22385
+Страница 2042:
+entropy sum: 22103
+Страница 2043:
+entropy sum: 21258
+Страница 2044:
+entropy sum: 22397
+Страница 2045:
+entropy sum: 21033
+Страница 2046:
+entropy sum: 21207
+Страница 2047:
+entropy sum: 22374
+Страница 2048:
+entropy sum: 20289
+Страница 2049:
+entropy sum: 23806
+Страница 2050:
+entropy sum: 22790
+Страница 2051:
+entropy sum: 21772
+Страница 2052:
+entropy sum: 21714
+Страница 2053:
+entropy sum: 22423
+Страница 2054:
+entropy sum: 20444
+Страница 2055:
+entropy sum: 23535
+Страница 2056:
+entropy sum: 22257
+Страница 2057:
+entropy sum: 23375
+Страница 2058:
+entropy sum: 18279
+Страница 2059:
+entropy sum: 22408
+Страница 2060:
+entropy sum: 22109
+Страница 2061:
+entropy sum: 22505
+Страница 2062:
+entropy sum: 22706
+Страница 2063:
+entropy sum: 23943
+Страница 2064:
+entropy sum: 22871
+Страница 2065:
+entropy sum: 24837
+Страница 2066:
+entropy sum: 23403
+Страница 2067:
+entropy sum: 23260
+Страница 2068:
+entropy sum: 21510
+Страница 2069:
+entropy sum: 21608
+Страница 2070:
+entropy sum: 21279
+Страница 2071:
+entropy sum: 22805
+Страница 2072:
+entropy sum: 20497
+Страница 2073:
+entropy sum: 22522
+Страница 2074:
+entropy sum: 21464
+Страница 2075:
+entropy sum: 21508
+Страница 2076:
+entropy sum: 19666
+Страница 2077:
+entropy sum: 18624
+Страница 2078:
+entropy sum: 14920
+Страница 2079:
+entropy sum: 22480
+Страница 2080:
+entropy sum: 23003
+Страница 2081:
+entropy sum: 23224
+Страница 2082:
+entropy sum: 22737
+Страница 2083:
+entropy sum: 21287
+Страница 2084:
+entropy sum: 23059
+Страница 2085:
+entropy sum: 21503
+Страница 2086:
+entropy sum: 22396
+Страница 2087:
+entropy sum: 23650
+Страница 2088:
+entropy sum: 22753
+Страница 2089:
+entropy sum: 23583
+Страница 2090:
+entropy sum: 16153
+Страница 2091:
+entropy sum: 23976
+Страница 2092:
+entropy sum: 23349
+Страница 2093:
+entropy sum: 20746
+Страница 2094:
+entropy sum: 20711
+Страница 2095:
+entropy sum: 22321
+Страница 2096:
+entropy sum: 21753
+Страница 2097:
+entropy sum: 22245
+Страница 2098:
+entropy sum: 21798
+Страница 2099:
+entropy sum: 21227
+Страница 2100:
+entropy sum: 21255
+Страница 2101:
+entropy sum: 22049
+Страница 2102:
+entropy sum: 19269
+Страница 2103:
+entropy sum: 19096
+Страница 2104:
+entropy sum: 18810
+Страница 2105:
+entropy sum: 18754
+Страница 2106:
+entropy sum: 19631
+Страница 2107:
+entropy sum: 19476
+Страница 2108:
+entropy sum: 19421
+Страница 2109:
+entropy sum: 21499
+Страница 2110:
+entropy sum: 22263
+Страница 2111:
+entropy sum: 20422
+Страница 2112:
+entropy sum: 20468
+Страница 2113:
+entropy sum: 19648
+Страница 2114:
+entropy sum: 18496
+Страница 2115:
+entropy sum: 22359
+Страница 2116:
+entropy sum: 22162
+Страница 2117:
+entropy sum: 22987
+Страница 2118:
+entropy sum: 21159
+Страница 2119:
+entropy sum: 22250
+Страница 2120:
+entropy sum: 21787
+Страница 2121:
+entropy sum: 20658
+Страница 2122:
+entropy sum: 21725
+Страница 2123:
+entropy sum: 20051
+Страница 2124:
+entropy sum: 23560
+Страница 2125:
+entropy sum: 22375
+Страница 2126:
+entropy sum: 19741
+Страница 2127:
+entropy sum: 23212
+Страница 2128:
+entropy sum: 24931
+Страница 2129:
+entropy sum: 23533
+Страница 2130:
+entropy sum: 23931
+Страница 2131:
+entropy sum: 23284
+Страница 2132:
+entropy sum: 24054
+Страница 2133:
+entropy sum: 22352
+Страница 2134:
+entropy sum: 20747
+Страница 2135:
+entropy sum: 22306
+Страница 2136:
+entropy sum: 21553
+Страница 2137:
+entropy sum: 23470
+Страница 2138:
+entropy sum: 19754
+Страница 2139:
+entropy sum: 22041
+Страница 2140:
+entropy sum: 22736
+Страница 2141:
+entropy sum: 23170
+Страница 2142:
+entropy sum: 23213
+Страница 2143:
+entropy sum: 23112
+Страница 2144:
+entropy sum: 20996
+Страница 2145:
+entropy sum: 22218
+Страница 2146:
+entropy sum: 23242
+Страница 2147:
+entropy sum: 22964
+Страница 2148:
+entropy sum: 21935
+Страница 2149:
+entropy sum: 21657
+Страница 2150:
+entropy sum: 15609
+Страница 2151:
+entropy sum: 21446
+Страница 2152:
+entropy sum: 22166
+Страница 2153:
+entropy sum: 22389
+Страница 2154:
+entropy sum: 21845
+Страница 2155:
+entropy sum: 22513
+Страница 2156:
+entropy sum: 24170
+Страница 2157:
+entropy sum: 21803
+Страница 2158:
+entropy sum: 21315
+Страница 2159:
+entropy sum: 20139
+Страница 2160:
+entropy sum: 21844
+Страница 2161:
+entropy sum: 22854
+Страница 2162:
+entropy sum: 22585
+Страница 2163:
+entropy sum: 23205
+Страница 2164:
+entropy sum: 21897
+Страница 2165:
+entropy sum: 22748
+Страница 2166:
+entropy sum: 22573
+Страница 2167:
+entropy sum: 23946
+Страница 2168:
+entropy sum: 20476
+Страница 2169:
+entropy sum: 21948
+Страница 2170:
+entropy sum: 22707
+Страница 2171:
+entropy sum: 21957
+Страница 2172:
+entropy sum: 20666
+Страница 2173:
+entropy sum: 22752
+Страница 2174:
+entropy sum: 24486
+Страница 2175:
+entropy sum: 22499
+Страница 2176:
+entropy sum: 21275
+Страница 2177:
+entropy sum: 23219
+Страница 2178:
+entropy sum: 24117
+Страница 2179:
+entropy sum: 23900
+Страница 2180:
+entropy sum: 23078
+Страница 2181:
+entropy sum: 23759
+Страница 2182:
+entropy sum: 22105
+Страница 2183:
+entropy sum: 22358
+Страница 2184:
+entropy sum: 22215
+Страница 2185:
+entropy sum: 23662
+Страница 2186:
+entropy sum: 23223
+Страница 2187:
+entropy sum: 23951
+Страница 2188:
+entropy sum: 22444
+Страница 2189:
+entropy sum: 23858
+Страница 2190:
+entropy sum: 23468
+Страница 2191:
+entropy sum: 23187
+Страница 2192:
+entropy sum: 23500
+Страница 2193:
+entropy sum: 23004
+Страница 2194:
+entropy sum: 23122
+Страница 2195:
+entropy sum: 23829
+Страница 2196:
+entropy sum: 24545
+Страница 2197:
+entropy sum: 20010
+Страница 2198:
+entropy sum: 22802
+Страница 2199:
+entropy sum: 23335
+Страница 2200:
+entropy sum: 23755
+Страница 2201:
+entropy sum: 22259
+Страница 2202:
+entropy sum: 23147
+Страница 2203:
+entropy sum: 20521
+Страница 2204:
+entropy sum: 22099
+Страница 2205:
+entropy sum: 23113
+Страница 2206:
+entropy sum: 23463
+Страница 2207:
+entropy sum: 23008
+Страница 2208:
+entropy sum: 21122
+Страница 2209:
+entropy sum: 21198
+Страница 2210:
+entropy sum: 23231
+Страница 2211:
+entropy sum: 23778
+Страница 2212:
+entropy sum: 24215
+Страница 2213:
+entropy sum: 22334
+Страница 2214:
+entropy sum: 20721
+Страница 2215:
+entropy sum: 20848
+Страница 2216:
+entropy sum: 21384
+Страница 2217:
+entropy sum: 22714
+Страница 2218:
+entropy sum: 21357
+Страница 2219:
+entropy sum: 22373
+Страница 2220:
+entropy sum: 20080
+Страница 2221:
+entropy sum: 22991
+Страница 2222:
+entropy sum: 22207
+Страница 2223:
+entropy sum: 21731
+Страница 2224:
+entropy sum: 21239
+Страница 2225:
+entropy sum: 21037
+Страница 2226:
+entropy sum: 21381
+Страница 2227:
+entropy sum: 20946
+Страница 2228:
+entropy sum: 21071
+Страница 2229:
+entropy sum: 22835
+Страница 2230:
+entropy sum: 21371
+Страница 2231:
+entropy sum: 20927
+Страница 2232:
+entropy sum: 21883
+Страница 2233:
+entropy sum: 22004
+Страница 2234:
+entropy sum: 22248
+Страница 2235:
+entropy sum: 23715
+Страница 2236:
+entropy sum: 23390
+Страница 2237:
+entropy sum: 23016
+Страница 2238:
+entropy sum: 21869
+Страница 2239:
+entropy sum: 22221
+Страница 2240:
+entropy sum: 21845
+Страница 2241:
+entropy sum: 21528
+Страница 2242:
+entropy sum: 21399
+Страница 2243:
+entropy sum: 20797
+Страница 2244:
+entropy sum: 22802
+Страница 2245:
+entropy sum: 21720
+Страница 2246:
+entropy sum: 21608
+Страница 2247:
+entropy sum: 21928
+Страница 2248:
+entropy sum: 22645
+Страница 2249:
+entropy sum: 22885
+Страница 2250:
+entropy sum: 21351
+Страница 2251:
+entropy sum: 21096
+Страница 2252:
+entropy sum: 20661
+Страница 2253:
+entropy sum: 21492
+Страница 2254:
+entropy sum: 20865
+Страница 2255:
+entropy sum: 21312
+Страница 2256:
+entropy sum: 21991
+Страница 2257:
+entropy sum: 22599
+Страница 2258:
+entropy sum: 22573
+Страница 2259:
+entropy sum: 21494
+Страница 2260:
+entropy sum: 23442
+Страница 2261:
+entropy sum: 22562
+Страница 2262:
+entropy sum: 22207
+Страница 2263:
+entropy sum: 23794
+Страница 2264:
+entropy sum: 22261
+Страница 2265:
+entropy sum: 20878
+Страница 2266:
+entropy sum: 24154
+Страница 2267:
+entropy sum: 22380
+Страница 2268:
+entropy sum: 23390
+Страница 2269:
+entropy sum: 23531
+Страница 2270:
+entropy sum: 22498
+Страница 2271:
+entropy sum: 22445
+Страница 2272:
+entropy sum: 18603
+Страница 2273:
+entropy sum: 20536
+Страница 2274:
+entropy sum: 22506
+Страница 2275:
+entropy sum: 21520
+Страница 2276:
+entropy sum: 23220
+Страница 2277:
+entropy sum: 23462
+Страница 2278:
+entropy sum: 22614
+Страница 2279:
+entropy sum: 18208
+Страница 2280:
+entropy sum: 19866
+Страница 2281:
+entropy sum: 21595
+Страница 2282:
+entropy sum: 23745
+Страница 2283:
+entropy sum: 24199
+Страница 2284:
+entropy sum: 23940
+Страница 2285:
+entropy sum: 22835
+Страница 2286:
+entropy sum: 23147
+Страница 2287:
+entropy sum: 23809
+Страница 2288:
+entropy sum: 23212
+Страница 2289:
+entropy sum: 23076
+Страница 2290:
+entropy sum: 23351
+Страница 2291:
+entropy sum: 23315
+Страница 2292:
+entropy sum: 22657
+Страница 2293:
+entropy sum: 21826
+Страница 2294:
+entropy sum: 19375
+Страница 2295:
+entropy sum: 20767
+Страница 2296:
+entropy sum: 22365
+Страница 2297:
+entropy sum: 20914
+Страница 2298:
+entropy sum: 20142
+Страница 2299:
+entropy sum: 21070
+Страница 2300:
+entropy sum: 21436
+Страница 2301:
+entropy sum: 21481
+Страница 2302:
+entropy sum: 20615
+Страница 2303:
+entropy sum: 19412
+Страница 2304:
+entropy sum: 20531
+Страница 2305:
+entropy sum: 21319
+Страница 2306:
+entropy sum: 22698
+Страница 2307:
+entropy sum: 22113
+Страница 2308:
+entropy sum: 19229
+Страница 2309:
+entropy sum: 22918
+Страница 2310:
+entropy sum: 22564
+Страница 2311:
+entropy sum: 21456
+Страница 2312:
+entropy sum: 23262
+Страница 2313:
+entropy sum: 22887
+Страница 2314:
+entropy sum: 22174
+Страница 2315:
+entropy sum: 21567
+Страница 2316:
+entropy sum: 22267
+Страница 2317:
+entropy sum: 23561
+Страница 2318:
+entropy sum: 22587
+Страница 2319:
+entropy sum: 22257
+Страница 2320:
+entropy sum: 24153
+Страница 2321:
+entropy sum: 23917
+Страница 2322:
+entropy sum: 21642
+Страница 2323:
+entropy sum: 21499
+Страница 2324:
+entropy sum: 23066
+Страница 2325:
+entropy sum: 22562
+Страница 2326:
+entropy sum: 22264
+Страница 2327:
+entropy sum: 22018
+Страница 2328:
+entropy sum: 20387
+Страница 2329:
+entropy sum: 22462
+Страница 2330:
+entropy sum: 22062
+Страница 2331:
+entropy sum: 23116
+Страница 2332:
+entropy sum: 22691
+Страница 2333:
+entropy sum: 19067
+Страница 2334:
+entropy sum: 19336
+Страница 2335:
+entropy sum: 22161
+Страница 2336:
+entropy sum: 22061
+Страница 2337:
+entropy sum: 19369
+Страница 2338:
+entropy sum: 22346
+Страница 2339:
+entropy sum: 21125
+Страница 2340:
+entropy sum: 22596
+Страница 2341:
+entropy sum: 21594
+Страница 2342:
+entropy sum: 21054
+Страница 2343:
+entropy sum: 21794
+Страница 2344:
+entropy sum: 19617
+Страница 2345:
+entropy sum: 20882
+Страница 2346:
+entropy sum: 20867
+Страница 2347:
+entropy sum: 21257
+Страница 2348:
+entropy sum: 21809
+Страница 2349:
+entropy sum: 21605
+Страница 2350:
+entropy sum: 22683
+Страница 2351:
+entropy sum: 21329
+Страница 2352:
+entropy sum: 21342
+Страница 2353:
+entropy sum: 22178
+Страница 2354:
+entropy sum: 21817
+Страница 2355:
+entropy sum: 22419
+Страница 2356:
+entropy sum: 21217
+Страница 2357:
+entropy sum: 22339
+Страница 2358:
+entropy sum: 22168
+Страница 2359:
+entropy sum: 20586
+Страница 2360:
+entropy sum: 24033
+Страница 2361:
+entropy sum: 21893
+Страница 2362:
+entropy sum: 22606
+Страница 2363:
+entropy sum: 21556
+Страница 2364:
+entropy sum: 22520
+Страница 2365:
+entropy sum: 21705
+Страница 2366:
+entropy sum: 22365
+Страница 2367:
+entropy sum: 21691
+Страница 2368:
+entropy sum: 21213
+Страница 2369:
+entropy sum: 21151
+Страница 2370:
+entropy sum: 21537
+Страница 2371:
+entropy sum: 22551
+Страница 2372:
+entropy sum: 21040
+Страница 2373:
+entropy sum: 21501
+Страница 2374:
+entropy sum: 22924
+Страница 2375:
+entropy sum: 22930
+Страница 2376:
+entropy sum: 23110
+Страница 2377:
+entropy sum: 24152
+Страница 2378:
+entropy sum: 23653
+Страница 2379:
+entropy sum: 24266
+Страница 2380:
+entropy sum: 23261
+Страница 2381:
+entropy sum: 22948
+Страница 2382:
+entropy sum: 22423
+Страница 2383:
+entropy sum: 19693
+Страница 2384:
+entropy sum: 21626
+Страница 2385:
+entropy sum: 22913
+Страница 2386:
+entropy sum: 22403
+Страница 2387:
+entropy sum: 18473
+Страница 2388:
+entropy sum: 19403
+Страница 2389:
+entropy sum: 21737
+Страница 2390:
+entropy sum: 21343
+Страница 2391:
+entropy sum: 23100
+Страница 2392:
+entropy sum: 22304
+Страница 2393:
+entropy sum: 20206
+Страница 2394:
+entropy sum: 22083
+Страница 2395:
+entropy sum: 22713
+Страница 2396:
+entropy sum: 21898
+Страница 2397:
+entropy sum: 20683
+Страница 2398:
+entropy sum: 23212
+Страница 2399:
+entropy sum: 21179
+Страница 2400:
+entropy sum: 22887
+Страница 2401:
+entropy sum: 22130
+Страница 2402:
+entropy sum: 22336
+Страница 2403:
+entropy sum: 22158
+Страница 2404:
+entropy sum: 21572
+Страница 2405:
+entropy sum: 21102
+Страница 2406:
+entropy sum: 21544
+Страница 2407:
+entropy sum: 21570
+Страница 2408:
+entropy sum: 22107
+Страница 2409:
+entropy sum: 22582
+Страница 2410:
+entropy sum: 23424
+Страница 2411:
+entropy sum: 23214
+Страница 2412:
+entropy sum: 21889
+Страница 2413:
+entropy sum: 22853
+Страница 2414:
+entropy sum: 22552
+Страница 2415:
+entropy sum: 22641
+Страница 2416:
+entropy sum: 23297
+Страница 2417:
+entropy sum: 22229
+Страница 2418:
+entropy sum: 21229
+Страница 2419:
+entropy sum: 23974
+Страница 2420:
+entropy sum: 21584
+Страница 2421:
+entropy sum: 20975
+Страница 2422:
+entropy sum: 21268
+Страница 2423:
+entropy sum: 22121
+Страница 2424:
+entropy sum: 21258
+Страница 2425:
+entropy sum: 21268
+Страница 2426:
+entropy sum: 23796
+Страница 2427:
+entropy sum: 22389
+Страница 2428:
+entropy sum: 23255
+Страница 2429:
+entropy sum: 22235
+Страница 2430:
+entropy sum: 22159
+Страница 2431:
+entropy sum: 21902
+Страница 2432:
+entropy sum: 21891
+Страница 2433:
+entropy sum: 21535
+Страница 2434:
+entropy sum: 21540
+Страница 2435:
+entropy sum: 21754
+Страница 2436:
+entropy sum: 21119
+Страница 2437:
+entropy sum: 22918
+Страница 2438:
+entropy sum: 22825
+Страница 2439:
+entropy sum: 18645
+Страница 2440:
+entropy sum: 22284
+Страница 2441:
+entropy sum: 23737
+Страница 2442:
+entropy sum: 24464
+Страница 2443:
+entropy sum: 23875
+Страница 2444:
+entropy sum: 21923
+Страница 2445:
+entropy sum: 22915
+Страница 2446:
+entropy sum: 22957
+Страница 2447:
+entropy sum: 22834
+Страница 2448:
+entropy sum: 22784
+Страница 2449:
+entropy sum: 22005
+Страница 2450:
+entropy sum: 23789
+Страница 2451:
+entropy sum: 23667
+Страница 2452:
+entropy sum: 22021
+Страница 2453:
+entropy sum: 22398
+Страница 2454:
+entropy sum: 23119
+Страница 2455:
+entropy sum: 20185
+Страница 2456:
+entropy sum: 21188
+Страница 2457:
+entropy sum: 22157
+Страница 2458:
+entropy sum: 22128
+Страница 2459:
+entropy sum: 22463
+Страница 2460:
+entropy sum: 20763
+Страница 2461:
+entropy sum: 22576
+Страница 2462:
+entropy sum: 23252
+Страница 2463:
+entropy sum: 20900
+Страница 2464:
+entropy sum: 18333
+Страница 2465:
+entropy sum: 20833
+Страница 2466:
+entropy sum: 23699
+Страница 2467:
+entropy sum: 24265
+Страница 2468:
+entropy sum: 23517
+Страница 2469:
+entropy sum: 23159
+Страница 2470:
+entropy sum: 21983
+Страница 2471:
+entropy sum: 21434
+Страница 2472:
+entropy sum: 22449
+Страница 2473:
+entropy sum: 22230
+Страница 2474:
+entropy sum: 24037
+Страница 2475:
+entropy sum: 22958
+Страница 2476:
+entropy sum: 23404
+Страница 2477:
+entropy sum: 21951
+Страница 2478:
+entropy sum: 22348
+Страница 2479:
+entropy sum: 22978
+Страница 2480:
+entropy sum: 23406
+Страница 2481:
+entropy sum: 22040
+Страница 2482:
+entropy sum: 23852
+Страница 2483:
+entropy sum: 22948
+Страница 2484:
+entropy sum: 21414
+Страница 2485:
+entropy sum: 20278
+Страница 2486:
+entropy sum: 23117
+Страница 2487:
+entropy sum: 22930
+Страница 2488:
+entropy sum: 22090
+Страница 2489:
+entropy sum: 22818
+Страница 2490:
+entropy sum: 23030
+Страница 2491:
+entropy sum: 22891
+Страница 2492:
+entropy sum: 22199
+Страница 2493:
+entropy sum: 23429
+Страница 2494:
+entropy sum: 23422
+Страница 2495:
+entropy sum: 23896
+Страница 2496:
+entropy sum: 21814
+Страница 2497:
+entropy sum: 23060
+Страница 2498:
+entropy sum: 22056
+Страница 2499:
+entropy sum: 21626
+Страница 2500:
+entropy sum: 22744
+Страница 2501:
+entropy sum: 21237
+Страница 2502:
+entropy sum: 24685
+Страница 2503:
+entropy sum: 21884
+Страница 2504:
+entropy sum: 22886
+Страница 2505:
+entropy sum: 24842
+Страница 2506:
+entropy sum: 23641
+Страница 2507:
+entropy sum: 21117
+Страница 2508:
+entropy sum: 22982
+Страница 2509:
+entropy sum: 24133
+Страница 2510:
+entropy sum: 21174
+Страница 2511:
+entropy sum: 23505
+Страница 2512:
+entropy sum: 22296
+Страница 2513:
+entropy sum: 23888
+Страница 2514:
+entropy sum: 23194
+Страница 2515:
+entropy sum: 24243
+Страница 2516:
+entropy sum: 22074
+Страница 2517:
+entropy sum: 23186
+Страница 2518:
+entropy sum: 22326
+Страница 2519:
+entropy sum: 24179
+Страница 2520:
+entropy sum: 23471
+Страница 2521:
+entropy sum: 24226
+Страница 2522:
+entropy sum: 24136
+Страница 2523:
+entropy sum: 24556
+Страница 2524:
+entropy sum: 22611
+Страница 2525:
+entropy sum: 23476
+Страница 2526:
+entropy sum: 23431
+Страница 2527:
+entropy sum: 24164
+Страница 2528:
+entropy sum: 23675
+Страница 2529:
+entropy sum: 23679
+Страница 2530:
+entropy sum: 24024
+Страница 2531:
+entropy sum: 21846
+Страница 2532:
+entropy sum: 22537
+Страница 2533:
+entropy sum: 23856
+Страница 2534:
+entropy sum: 22191
+Страница 2535:
+entropy sum: 24266
+Страница 2536:
+entropy sum: 23863
+Страница 2537:
+entropy sum: 22087
+Страница 2538:
+entropy sum: 23405
+Страница 2539:
+entropy sum: 22549
+Страница 2540:
+entropy sum: 21156
+Страница 2541:
+entropy sum: 23810
+Страница 2542:
+entropy sum: 22445
+Страница 2543:
+entropy sum: 23976
+Страница 2544:
+entropy sum: 22553
+Страница 2545:
+entropy sum: 23929
+Страница 2546:
+entropy sum: 24515
+Страница 2547:
+entropy sum: 23752
+Страница 2548:
+entropy sum: 23384
+Страница 2549:
+entropy sum: 23555
+Страница 2550:
+entropy sum: 22916
+Страница 2551:
+entropy sum: 22831
+Страница 2552:
+entropy sum: 21111
+Страница 2553:
+entropy sum: 23651
+Страница 2554:
+entropy sum: 24309
+Страница 2555:
+entropy sum: 24183
+Страница 2556:
+entropy sum: 20718
+Страница 2557:
+entropy sum: 23385
+Страница 2558:
+entropy sum: 22165
+Страница 2559:
+entropy sum: 21532
+Страница 2560:
+entropy sum: 22081
+Страница 2561:
+entropy sum: 22023
+Страница 2562:
+entropy sum: 22668
+Страница 2563:
+entropy sum: 22800
+Страница 2564:
+entropy sum: 22108
+Страница 2565:
+entropy sum: 21990
+Страница 2566:
+entropy sum: 22077
+Страница 2567:
+entropy sum: 22833
+Страница 2568:
+entropy sum: 22515
+Страница 2569:
+entropy sum: 22075
+Страница 2570:
+entropy sum: 23961
+Страница 2571:
+entropy sum: 24200
+Страница 2572:
+entropy sum: 24794
+Страница 2573:
+entropy sum: 23395
+Страница 2574:
+entropy sum: 23644
+Страница 2575:
+entropy sum: 22327
+Страница 2576:
+entropy sum: 21672
+Страница 2577:
+entropy sum: 21149
+Страница 2578:
+entropy sum: 21977
+Страница 2579:
+entropy sum: 22603
+Страница 2580:
+entropy sum: 20029
+Страница 2581:
+entropy sum: 22416
+Страница 2582:
+entropy sum: 21795
+Страница 2583:
+entropy sum: 20669
+Страница 2584:
+entropy sum: 20606
+Страница 2585:
+entropy sum: 21242
+Страница 2586:
+entropy sum: 20993
+Страница 2587:
+entropy sum: 21704
+Страница 2588:
+entropy sum: 21457
+Страница 2589:
+entropy sum: 21702
+Страница 2590:
+entropy sum: 21361
+Страница 2591:
+entropy sum: 21868
+Страница 2592:
+entropy sum: 21855
+Страница 2593:
+entropy sum: 22044
+Страница 2594:
+entropy sum: 20796
+Страница 2595:
+entropy sum: 22241
+Страница 2596:
+entropy sum: 22141
+Страница 2597:
+entropy sum: 21742
+Страница 2598:
+entropy sum: 20688
+Страница 2599:
+entropy sum: 24054
+Страница 2600:
+entropy sum: 23022
+Страница 2601:
+entropy sum: 22993
+Страница 2602:
+entropy sum: 23463
+Страница 2603:
+entropy sum: 23104
+Страница 2604:
+entropy sum: 23629
+Страница 2605:
+entropy sum: 23922
+Страница 2606:
+entropy sum: 22785
+Страница 2607:
+entropy sum: 22558
+Страница 2608:
+entropy sum: 22408
+Страница 2609:
+entropy sum: 18173
+Страница 2610:
+entropy sum: 22706
+Страница 2611:
+entropy sum: 19541
+Страница 2612:
+entropy sum: 20033
+Страница 2613:
+entropy sum: 22616
+Страница 2614:
+entropy sum: 22127
+Страница 2615:
+entropy sum: 22268
+Страница 2616:
+entropy sum: 22063
+Страница 2617:
+entropy sum: 23444
+Страница 2618:
+entropy sum: 22889
+Страница 2619:
+entropy sum: 22234
+Страница 2620:
+entropy sum: 23780
+Страница 2621:
+entropy sum: 15520
+Страница 2622:
+entropy sum: 22518
+Страница 2623:
+entropy sum: 18473
+Страница 2624:
+entropy sum: 22580
+Страница 2625:
+entropy sum: 18678
+Страница 2626:
+entropy sum: 22299
+Страница 2627:
+entropy sum: 20409
+Страница 2628:
+entropy sum: 23113
+Страница 2629:
+entropy sum: 20171
+Страница 2630:
+entropy sum: 22696
+Страница 2631:
+entropy sum: 20865
+Страница 2632:
+entropy sum: 20991
+Страница 2633:
+entropy sum: 21159
+Страница 2634:
+entropy sum: 21412
+Страница 2635:
+entropy sum: 21726
+Страница 2636:
+entropy sum: 22228
+Страница 2637:
+entropy sum: 22974
+Страница 2638:
+entropy sum: 22094
+Страница 2639:
+entropy sum: 22200
+Страница 2640:
+entropy sum: 20945
+Страница 2641:
+entropy sum: 21467
+Страница 2642:
+entropy sum: 23420
+Страница 2643:
+entropy sum: 23079
+Страница 2644:
+entropy sum: 22146
+Страница 2645:
+entropy sum: 22951
+Страница 2646:
+entropy sum: 20505
+Страница 2647:
+entropy sum: 20627
+Страница 2648:
+entropy sum: 22162
+Страница 2649:
+entropy sum: 23005
+Страница 2650:
+entropy sum: 23550
+Страница 2651:
+entropy sum: 21238
+Страница 2652:
+entropy sum: 21063
+Страница 2653:
+entropy sum: 21489
+Страница 2654:
+entropy sum: 20931
+Страница 2655:
+entropy sum: 20285
+Страница 2656:
+entropy sum: 21601
+Страница 2657:
+entropy sum: 21305
+Страница 2658:
+entropy sum: 20516
+Страница 2659:
+entropy sum: 21798
+Страница 2660:
+entropy sum: 22026
+Страница 2661:
+entropy sum: 22265
+Страница 2662:
+entropy sum: 20669
+Страница 2663:
+entropy sum: 22003
+Страница 2664:
+entropy sum: 22411
+Страница 2665:
+entropy sum: 20149
+Страница 2666:
+entropy sum: 22610
+Страница 2667:
+entropy sum: 20550
+Страница 2668:
+entropy sum: 22040
+Страница 2669:
+entropy sum: 22246
+Страница 2670:
+entropy sum: 21630
+Страница 2671:
+entropy sum: 21235
+Страница 2672:
+entropy sum: 21917
+Страница 2673:
+entropy sum: 22382
+Страница 2674:
+entropy sum: 23664
+Страница 2675:
+entropy sum: 22844
+Страница 2676:
+entropy sum: 23216
+Страница 2677:
+entropy sum: 23115
+Страница 2678:
+entropy sum: 22441
+Страница 2679:
+entropy sum: 21365
+Страница 2680:
+entropy sum: 20285
+Страница 2681:
+entropy sum: 22219
+Страница 2682:
+entropy sum: 22750
+Страница 2683:
+entropy sum: 23366
+Страница 2684:
+entropy sum: 24007
+Страница 2685:
+entropy sum: 24243
+Страница 2686:
+entropy sum: 22807
+Страница 2687:
+entropy sum: 22734
+Страница 2688:
+entropy sum: 22954
+Страница 2689:
+entropy sum: 21714
+Страница 2690:
+entropy sum: 19315
+Страница 2691:
+entropy sum: 23527
+Страница 2692:
+entropy sum: 23075
+Страница 2693:
+entropy sum: 24316
+Страница 2694:
+entropy sum: 24116
+Страница 2695:
+entropy sum: 22576
+Страница 2696:
+entropy sum: 22268
+Страница 2697:
+entropy sum: 22646
+Страница 2698:
+entropy sum: 21411
+Страница 2699:
+entropy sum: 22584
+Страница 2700:
+entropy sum: 22720
+Страница 2701:
+entropy sum: 21094
+Страница 2702:
+entropy sum: 22244
+Страница 2703:
+entropy sum: 23610
+Страница 2704:
+entropy sum: 24239
+Страница 2705:
+entropy sum: 24643
+Страница 2706:
+entropy sum: 21162
+Страница 2707:
+entropy sum: 23391
+Страница 2708:
+entropy sum: 22638
+Страница 2709:
+entropy sum: 22458
+Страница 2710:
+entropy sum: 22992
+Страница 2711:
+entropy sum: 18316
+Страница 2712:
+entropy sum: 15657
+Страница 2713:
+entropy sum: 22263
+Страница 2714:
+entropy sum: 22285
+Страница 2715:
+entropy sum: 22491
+Страница 2716:
+entropy sum: 21986
+Страница 2717:
+entropy sum: 20581
+Страница 2718:
+entropy sum: 22857
+Страница 2719:
+entropy sum: 21304
+Страница 2720:
+entropy sum: 22741
+Страница 2721:
+entropy sum: 21991
+Страница 2722:
+entropy sum: 21614
+Страница 2723:
+entropy sum: 20518
+Страница 2724:
+entropy sum: 24286
+Страница 2725:
+entropy sum: 24084
+Страница 2726:
+entropy sum: 22894
+Страница 2727:
+entropy sum: 22662
+Страница 2728:
+entropy sum: 22625
+Страница 2729:
+entropy sum: 23287
+Страница 2730:
+entropy sum: 22902
+Страница 2731:
+entropy sum: 22268
+Страница 2732:
+entropy sum: 23023
+Страница 2733:
+entropy sum: 21064
+Страница 2734:
+entropy sum: 21356
+Страница 2735:
+entropy sum: 20490
+Страница 2736:
+entropy sum: 21017
+Страница 2737:
+entropy sum: 22220
+Страница 2738:
+entropy sum: 22739
+Страница 2739:
+entropy sum: 22394
+Страница 2740:
+entropy sum: 21520
+Страница 2741:
+entropy sum: 23175
+Страница 2742:
+entropy sum: 23609
+Страница 2743:
+entropy sum: 21893
+Страница 2744:
+entropy sum: 23093
+Страница 2745:
+entropy sum: 22952
+Страница 2746:
+entropy sum: 21729
+Страница 2747:
+entropy sum: 22515
+Страница 2748:
+entropy sum: 21544
+Страница 2749:
+entropy sum: 20527
+Страница 2750:
+entropy sum: 22265
+Страница 2751:
+entropy sum: 22999
+Страница 2752:
+entropy sum: 21731
+Страница 2753:
+entropy sum: 24023
+Страница 2754:
+entropy sum: 24226
+Страница 2755:
+entropy sum: 21687
+Страница 2756:
+entropy sum: 21950
+Страница 2757:
+entropy sum: 22925
+Страница 2758:
+entropy sum: 24350
+Страница 2759:
+entropy sum: 23964
+Страница 2760:
+entropy sum: 22260
+Страница 2761:
+entropy sum: 19843
+Страница 2762:
+entropy sum: 21937
+Страница 2763:
+entropy sum: 24004
+Страница 2764:
+entropy sum: 23052
+Страница 2765:
+entropy sum: 22829
+Страница 2766:
+entropy sum: 22469
+Страница 2767:
+entropy sum: 22618
+Страница 2768:
+entropy sum: 23972
+Страница 2769:
+entropy sum: 23435
+Страница 2770:
+entropy sum: 24046
+Страница 2771:
+entropy sum: 23573
+Страница 2772:
+entropy sum: 23730
+Страница 2773:
+entropy sum: 21844
+Страница 2774:
+entropy sum: 19658
+Страница 2775:
+entropy sum: 22332
+Страница 2776:
+entropy sum: 21585
+Страница 2777:
+entropy sum: 22666
+Страница 2778:
+entropy sum: 22348
+Страница 2779:
+entropy sum: 22503
+Страница 2780:
+entropy sum: 22678
+Страница 2781:
+entropy sum: 22651
+Страница 2782:
+entropy sum: 22969
+Страница 2783:
+entropy sum: 21440
+Страница 2784:
+entropy sum: 22385
+Страница 2785:
+entropy sum: 21786
+Страница 2786:
+entropy sum: 22170
+Страница 2787:
+entropy sum: 23997
+Страница 2788:
+entropy sum: 21806
+Страница 2789:
+entropy sum: 22504
+Страница 2790:
+entropy sum: 21392
+Страница 2791:
+entropy sum: 22587
+Страница 2792:
+entropy sum: 22123
+Страница 2793:
+entropy sum: 21811
+Страница 2794:
+entropy sum: 22166
+Страница 2795:
+entropy sum: 23402
+Страница 2796:
+entropy sum: 23781
+Страница 2797:
+entropy sum: 23683
+Страница 2798:
+entropy sum: 21534
+Страница 2799:
+entropy sum: 18628
+Страница 2800:
+entropy sum: 21800
+Страница 2801:
+entropy sum: 23499
+Страница 2802:
+entropy sum: 23278
+Страница 2803:
+entropy sum: 21665
+Страница 2804:
+entropy sum: 21332
+Страница 2805:
+entropy sum: 24483
+Страница 2806:
+entropy sum: 22639
+Страница 2807:
+entropy sum: 21559
+Страница 2808:
+entropy sum: 20593
+Страница 2809:
+entropy sum: 21692
+Страница 2810:
+entropy sum: 22236
+Страница 2811:
+entropy sum: 20798
+Страница 2812:
+entropy sum: 23991
+Страница 2813:
+entropy sum: 21795
+Страница 2814:
+entropy sum: 21629
+Страница 2815:
+entropy sum: 23202
+Страница 2816:
+entropy sum: 21779
+Страница 2817:
+entropy sum: 21805
+Страница 2818:
+entropy sum: 21761
+Страница 2819:
+entropy sum: 23472
+Страница 2820:
+entropy sum: 21438
+Страница 2821:
+entropy sum: 23094
+Страница 2822:
+entropy sum: 23123
+Страница 2823:
+entropy sum: 21887
+Страница 2824:
+entropy sum: 19861
+Страница 2825:
+entropy sum: 22490
+Страница 2826:
+entropy sum: 22720
+Страница 2827:
+entropy sum: 20540
+Страница 2828:
+entropy sum: 22194
+Страница 2829:
+entropy sum: 20219
+Страница 2830:
+entropy sum: 21508
+Страница 2831:
+entropy sum: 19987
+Страница 2832:
+entropy sum: 20248
+Страница 2833:
+entropy sum: 19722
+Страница 2834:
+entropy sum: 19962
+Страница 2835:
+entropy sum: 20187
+Страница 2836:
+entropy sum: 20807
+Страница 2837:
+entropy sum: 21234
+Страница 2838:
+entropy sum: 24237
+Страница 2839:
+entropy sum: 21144
+Страница 2840:
+entropy sum: 20296
+Страница 2841:
+entropy sum: 21891
+Страница 2842:
+entropy sum: 21888
+Страница 2843:
+entropy sum: 23089
+Страница 2844:
+entropy sum: 21377
+Страница 2845:
+entropy sum: 21153
+Страница 2846:
+entropy sum: 21308
+Страница 2847:
+entropy sum: 21331
+Страница 2848:
+entropy sum: 21048
+Страница 2849:
+entropy sum: 21082
+Страница 2850:
+entropy sum: 20418
+Страница 2851:
+entropy sum: 19434
+Страница 2852:
+entropy sum: 23247
+Страница 2853:
+entropy sum: 22310
+Страница 2854:
+entropy sum: 21820
+Страница 2855:
+entropy sum: 20118
+Страница 2856:
+entropy sum: 22252
+Страница 2857:
+entropy sum: 18765
+Страница 2858:
+entropy sum: 22989
+Страница 2859:
+entropy sum: 21479
+Страница 2860:
+entropy sum: 21450
+Страница 2861:
+entropy sum: 20862
+Страница 2862:
+entropy sum: 21293
+Страница 2863:
+entropy sum: 22071
+Страница 2864:
+entropy sum: 22243
+Страница 2865:
+entropy sum: 20547
+Страница 2866:
+entropy sum: 22226
+Страница 2867:
+entropy sum: 21415
+Страница 2868:
+entropy sum: 21583
+Страница 2869:
+entropy sum: 21582
+Страница 2870:
+entropy sum: 22396
+Страница 2871:
+entropy sum: 21834
+Страница 2872:
+entropy sum: 22856
+Страница 2873:
+entropy sum: 15434
+Страница 2874:
+entropy sum: 24641
+Страница 2875:
+entropy sum: 22709
+Страница 2876:
+entropy sum: 21557
+Страница 2877:
+entropy sum: 18205
+Страница 2878:
+entropy sum: 22806
+Страница 2879:
+entropy sum: 23746
+Страница 2880:
+entropy sum: 24266
+Страница 2881:
+entropy sum: 24320
+Страница 2882:
+entropy sum: 23394
+Страница 2883:
+entropy sum: 23687
+Страница 2884:
+entropy sum: 23841
+Страница 2885:
+entropy sum: 24131
+Страница 2886:
+entropy sum: 24115
+Страница 2887:
+entropy sum: 24409
+Страница 2888:
+entropy sum: 23625
+Страница 2889:
+entropy sum: 24339
+Страница 2890:
+entropy sum: 24632
+Страница 2891:
+entropy sum: 23279
+Страница 2892:
+entropy sum: 23841
+Страница 2893:
+entropy sum: 23460
+Страница 2894:
+entropy sum: 19277
+Страница 2895:
+entropy sum: 21044
+Страница 2896:
+entropy sum: 21873
+Страница 2897:
+entropy sum: 21291
+Страница 2898:
+entropy sum: 22358
+Страница 2899:
+entropy sum: 23881
+Страница 2900:
+entropy sum: 22324
+Страница 2901:
+entropy sum: 21755
+Страница 2902:
+entropy sum: 22344
+Страница 2903:
+entropy sum: 22646
+Страница 2904:
+entropy sum: 23220
+Страница 2905:
+entropy sum: 21128
+Страница 2906:
+entropy sum: 21102
+Страница 2907:
+entropy sum: 18502
+Страница 2908:
+entropy sum: 23729
+Страница 2909:
+entropy sum: 20518
+Страница 2910:
+entropy sum: 12808
+Страница 2911:
+entropy sum: 20707
+Страница 2912:
+entropy sum: 19744
+Страница 2913:
+entropy sum: 13580
+Страница 2914:
+entropy sum: 15885
+Страница 2915:
+entropy sum: 22755
+Страница 2916:
+entropy sum: 21908
+Страница 2917:
+entropy sum: 21323
+Страница 2918:
+entropy sum: 20749
+Страница 2919:
+entropy sum: 21123
+Страница 2920:
+entropy sum: 22309
+Страница 2921:
+entropy sum: 20990
+Страница 2922:
+entropy sum: 21722
+Страница 2923:
+entropy sum: 20463
+Страница 2924:
+entropy sum: 21458
+Страница 2925:
+entropy sum: 22012
+Страница 2926:
+entropy sum: 20609
+Страница 2927:
+entropy sum: 21433
+Страница 2928:
+entropy sum: 22170
+Страница 2929:
+entropy sum: 15751
+Страница 2930:
+entropy sum: 20530
+Страница 2931:
+entropy sum: 23336
+Страница 2932:
+entropy sum: 20622
+Страница 2933:
+entropy sum: 21038
+Страница 2934:
+entropy sum: 19640
+Страница 2935:
+entropy sum: 18758
+Страница 2936:
+entropy sum: 21242
+Страница 2937:
+entropy sum: 19786
+Страница 2938:
+entropy sum: 21272
+Страница 2939:
+entropy sum: 22866
+Страница 2940:
+entropy sum: 23989
+Страница 2941:
+entropy sum: 21900
+Страница 2942:
+entropy sum: 21647
+Страница 2943:
+entropy sum: 21531
+Страница 2944:
+entropy sum: 20924
+Страница 2945:
+entropy sum: 20652
+Страница 2946:
+entropy sum: 18541
+Страница 2947:
+entropy sum: 21772
+Страница 2948:
+entropy sum: 18631
+Страница 2949:
+entropy sum: 18249
+Страница 2950:
+entropy sum: 22298
+Страница 2951:
+entropy sum: 20133
+Страница 2952:
+entropy sum: 20024
+Страница 2953:
+entropy sum: 19908
+Страница 2954:
+entropy sum: 19883
+Страница 2955:
+entropy sum: 20112
+Страница 2956:
+entropy sum: 21055
+Страница 2957:
+entropy sum: 21353
+Страница 2958:
+entropy sum: 21365
+Страница 2959:
+entropy sum: 20792
+Страница 2960:
+entropy sum: 20648
+Страница 2961:
+entropy sum: 20531
+Страница 2962:
+entropy sum: 20600
+Страница 2963:
+entropy sum: 21417
+Страница 2964:
+entropy sum: 21608
+Страница 2965:
+entropy sum: 22015
+Страница 2966:
+entropy sum: 20594
+Страница 2967:
+entropy sum: 20700
+Страница 2968:
+entropy sum: 21059
+Страница 2969:
+entropy sum: 21242
+Страница 2970:
+entropy sum: 20808
+Страница 2971:
+entropy sum: 21647
+Страница 2972:
+entropy sum: 21157
+Страница 2973:
+entropy sum: 20874
+Страница 2974:
+entropy sum: 20930
+Страница 2975:
+entropy sum: 21218
+Страница 2976:
+entropy sum: 21919
+Страница 2977:
+entropy sum: 21695
+Страница 2978:
+entropy sum: 20311
+Страница 2979:
+entropy sum: 21455
+Страница 2980:
+entropy sum: 20899
+Страница 2981:
+entropy sum: 20514
+Страница 2982:
+entropy sum: 21928
+Страница 2983:
+entropy sum: 23830
+Страница 2984:
+entropy sum: 22647
+Страница 2985:
+entropy sum: 22637
+Страница 2986:
+entropy sum: 21985
+Страница 2987:
+entropy sum: 22184
+Страница 2988:
+entropy sum: 22133
+Страница 2989:
+entropy sum: 22267
+Страница 2990:
+entropy sum: 23514
+Страница 2991:
+entropy sum: 23397
+Страница 2992:
+entropy sum: 20199
+Страница 2993:
+entropy sum: 22614
+Страница 2994:
+entropy sum: 22526
+Страница 2995:
+entropy sum: 21891
+Страница 2996:
+entropy sum: 22017
+Страница 2997:
+entropy sum: 21347
+Страница 2998:
+entropy sum: 21377
+Страница 2999:
+entropy sum: 21604
+Страница 3000:
+entropy sum: 22746
+Страница 3001:
+entropy sum: 21498
+Страница 3002:
+entropy sum: 22080
+Страница 3003:
+entropy sum: 21487
+Страница 3004:
+entropy sum: 19919
+Страница 3005:
+entropy sum: 23205
+Страница 3006:
+entropy sum: 21156
+Страница 3007:
+entropy sum: 20928
+Страница 3008:
+entropy sum: 23444
+Страница 3009:
+entropy sum: 22359
+Страница 3010:
+entropy sum: 21054
+Страница 3011:
+entropy sum: 22358
+Страница 3012:
+entropy sum: 22074
+Страница 3013:
+entropy sum: 22056
+Страница 3014:
+entropy sum: 22077
+Страница 3015:
+entropy sum: 21658
+Страница 3016:
+entropy sum: 24092
+Страница 3017:
+entropy sum: 22769
+Страница 3018:
+entropy sum: 23955
+Страница 3019:
+entropy sum: 21755
+Страница 3020:
+entropy sum: 23141
+Страница 3021:
+entropy sum: 23468
+Страница 3022:
+entropy sum: 22200
+Страница 3023:
+entropy sum: 21733
+Страница 3024:
+entropy sum: 21900
+Страница 3025:
+entropy sum: 22404
+Страница 3026:
+entropy sum: 22474
+Страница 3027:
+entropy sum: 21235
+Страница 3028:
+entropy sum: 21966
+Страница 3029:
+entropy sum: 21328
+Страница 3030:
+entropy sum: 22348
+Страница 3031:
+entropy sum: 22252
+Страница 3032:
+entropy sum: 21460
+Страница 3033:
+entropy sum: 21953
+Страница 3034:
+entropy sum: 22470
+Страница 3035:
+entropy sum: 21881
+Страница 3036:
+entropy sum: 21199
+Страница 3037:
+entropy sum: 21571
+Страница 3038:
+entropy sum: 22327
+Страница 3039:
+entropy sum: 22634
+Страница 3040:
+entropy sum: 21243
+Страница 3041:
+entropy sum: 22293
+Страница 3042:
+entropy sum: 22506
+Страница 3043:
+entropy sum: 22721
+Страница 3044:
+entropy sum: 23349
+Страница 3045:
+entropy sum: 22808
+Страница 3046:
+entropy sum: 23143
+Страница 3047:
+entropy sum: 22240
+Страница 3048:
+entropy sum: 21343
+Страница 3049:
+entropy sum: 23274
+Страница 3050:
+entropy sum: 24741
+Страница 3051:
+entropy sum: 24271
+Страница 3052:
+entropy sum: 24134
+Страница 3053:
+entropy sum: 23046
+Страница 3054:
+entropy sum: 21500
+Страница 3055:
+entropy sum: 22551
+Страница 3056:
+entropy sum: 22601
+Страница 3057:
+entropy sum: 22157
+Страница 3058:
+entropy sum: 20296
+Страница 3059:
+entropy sum: 18715
+Страница 3060:
+entropy sum: 24056
+Страница 3061:
+entropy sum: 18534
+Страница 3062:
+entropy sum: 19873
+Страница 3063:
+entropy sum: 22882
+Страница 3064:
+entropy sum: 23223
+Страница 3065:
+entropy sum: 22498
+Страница 3066:
+entropy sum: 22125
+Страница 3067:
+entropy sum: 20746
+Страница 3068:
+entropy sum: 22044
+Страница 3069:
+entropy sum: 20756
+Страница 3070:
+entropy sum: 20765
+Страница 3071:
+entropy sum: 20697
+Страница 3072:
+entropy sum: 21063
+Страница 3073:
+entropy sum: 21102
+Страница 3074:
+entropy sum: 22125
+Страница 3075:
+entropy sum: 21873
+Страница 3076:
+entropy sum: 22248
+Страница 3077:
+entropy sum: 23494
+Страница 3078:
+entropy sum: 22444
+Страница 3079:
+entropy sum: 21656
+Страница 3080:
+entropy sum: 19617
+Страница 3081:
+entropy sum: 22258
+Страница 3082:
+entropy sum: 21606
+Страница 3083:
+entropy sum: 22257
+Страница 3084:
+entropy sum: 21919
+Страница 3085:
+entropy sum: 22057
+Страница 3086:
+entropy sum: 23074
+Страница 3087:
+entropy sum: 19891
+Страница 3088:
+entropy sum: 22068
+Страница 3089:
+entropy sum: 22675
+Страница 3090:
+entropy sum: 20060
+Страница 3091:
+entropy sum: 22453
+Страница 3092:
+entropy sum: 22507
+Страница 3093:
+entropy sum: 24022
+Страница 3094:
+entropy sum: 23981
+Страница 3095:
+entropy sum: 23549
+Страница 3096:
+entropy sum: 23869
+Страница 3097:
+entropy sum: 22947
+Страница 3098:
+entropy sum: 22506
+Страница 3099:
+entropy sum: 23216
+Страница 3100:
+entropy sum: 22427
+Страница 3101:
+entropy sum: 23361
+Страница 3102:
+entropy sum: 21379
+Страница 3103:
+entropy sum: 21964
+Страница 3104:
+entropy sum: 21499
+Страница 3105:
+entropy sum: 22152
+Страница 3106:
+entropy sum: 22213
+Страница 3107:
+entropy sum: 19945
+Страница 3108:
+entropy sum: 21546
+Страница 3109:
+entropy sum: 23092
+Страница 3110:
+entropy sum: 22472
+Страница 3111:
+entropy sum: 23243
+Страница 3112:
+entropy sum: 22211
+Страница 3113:
+entropy sum: 22283
+Страница 3114:
+entropy sum: 23250
+Страница 3115:
+entropy sum: 22333
+Страница 3116:
+entropy sum: 20138
+Страница 3117:
+entropy sum: 23217
+Страница 3118:
+entropy sum: 22591
+Страница 3119:
+entropy sum: 22213
+Страница 3120:
+entropy sum: 20883
+Страница 3121:
+entropy sum: 22337
+Страница 3122:
+entropy sum: 22628
+Страница 3123:
+entropy sum: 22506
+Страница 3124:
+entropy sum: 22754
+Страница 3125:
+entropy sum: 22754
+Страница 3126:
+entropy sum: 20772
+Страница 3127:
+entropy sum: 22708
+Страница 3128:
+entropy sum: 20113
+Страница 3129:
+entropy sum: 21627
+Страница 3130:
+entropy sum: 21480
+Страница 3131:
+entropy sum: 20207
+Страница 3132:
+entropy sum: 22177
+Страница 3133:
+entropy sum: 22426
+Страница 3134:
+entropy sum: 21971
+Страница 3135:
+entropy sum: 22399
+Страница 3136:
+entropy sum: 22673
+Страница 3137:
+entropy sum: 21135
+Страница 3138:
+entropy sum: 22937
+Страница 3139:
+entropy sum: 20366
+Страница 3140:
+entropy sum: 21302
+Страница 3141:
+entropy sum: 21165
+Страница 3142:
+entropy sum: 20611
+Страница 3143:
+entropy sum: 19776
+Страница 3144:
+entropy sum: 20567
+Страница 3145:
+entropy sum: 20877
+Страница 3146:
+entropy sum: 20852
+Страница 3147:
+entropy sum: 20459
+Страница 3148:
+entropy sum: 20365
+Страница 3149:
+entropy sum: 20221
+Страница 3150:
+entropy sum: 20288
+Страница 3151:
+entropy sum: 20714
+Страница 3152:
+entropy sum: 20970
+Страница 3153:
+entropy sum: 20704
+Страница 3154:
+entropy sum: 20294
+Страница 3155:
+entropy sum: 20949
+Страница 3156:
+entropy sum: 20821
+Страница 3157:
+entropy sum: 22983
+Страница 3158:
+entropy sum: 22094
+Страница 3159:
+entropy sum: 20447
+Страница 3160:
+entropy sum: 22303
+Страница 3161:
+entropy sum: 22907
+Страница 3162:
+entropy sum: 20017
+Страница 3163:
+entropy sum: 23862
+Страница 3164:
+entropy sum: 22181
+Страница 3165:
+entropy sum: 19120
+Страница 3166:
+entropy sum: 22080
+Страница 3167:
+entropy sum: 21623
+Страница 3168:
+entropy sum: 22758
+Страница 3169:
+entropy sum: 21333
+Страница 3170:
+entropy sum: 20693
+Страница 3171:
+entropy sum: 22168
+Страница 3172:
+entropy sum: 22141
+Страница 3173:
+entropy sum: 20716
+Страница 3174:
+entropy sum: 21236
+Страница 3175:
+entropy sum: 21258
+Страница 3176:
+entropy sum: 20692
+Страница 3177:
+entropy sum: 22025
+Страница 3178:
+entropy sum: 21844
+Страница 3179:
+entropy sum: 20878
+Страница 3180:
+entropy sum: 15760
+Страница 3181:
+entropy sum: 20414
+Страница 3182:
+entropy sum: 23453
+Страница 3183:
+entropy sum: 23220
+Страница 3184:
+entropy sum: 22694
+Страница 3185:
+entropy sum: 21967
+Страница 3186:
+entropy sum: 20052
+Страница 3187:
+entropy sum: 21758
+Страница 3188:
+entropy sum: 22115
+Страница 3189:
+entropy sum: 21074
+Страница 3190:
+entropy sum: 22435
+Страница 3191:
+entropy sum: 22041
+Страница 3192:
+entropy sum: 22897
+Страница 3193:
+entropy sum: 23120
+Страница 3194:
+entropy sum: 19282
+Страница 3195:
+entropy sum: 20853
+Страница 3196:
+entropy sum: 22217
+Страница 3197:
+entropy sum: 21687
+Страница 3198:
+entropy sum: 21018
+Страница 3199:
+entropy sum: 21809
+Страница 3200:
+entropy sum: 22190
+Страница 3201:
+entropy sum: 22415
+Страница 3202:
+entropy sum: 19649
+Страница 3203:
+entropy sum: 22160
+Страница 3204:
+entropy sum: 22893
+Страница 3205:
+entropy sum: 21796
+Страница 3206:
+entropy sum: 22346
+Страница 3207:
+entropy sum: 21570
+Страница 3208:
+entropy sum: 19243
+Страница 3209:
+entropy sum: 22167
+Страница 3210:
+entropy sum: 21090
+Страница 3211:
+entropy sum: 23051
+Страница 3212:
+entropy sum: 21747
+Страница 3213:
+entropy sum: 22013
+Страница 3214:
+entropy sum: 21897
+Страница 3215:
+entropy sum: 21681
+Страница 3216:
+entropy sum: 23579
+Страница 3217:
+entropy sum: 23257
+Страница 3218:
+entropy sum: 22189
+Страница 3219:
+entropy sum: 20780
+Страница 3220:
+entropy sum: 24439
+Страница 3221:
+entropy sum: 20413
+Страница 3222:
+entropy sum: 21916
+Страница 3223:
+entropy sum: 20577
+Страница 3224:
+entropy sum: 22975
+Страница 3225:
+entropy sum: 21639
+Страница 3226:
+entropy sum: 22939
+Страница 3227:
+entropy sum: 24557
+Страница 3228:
+entropy sum: 23917
+Страница 3229:
+entropy sum: 24313
+Страница 3230:
+entropy sum: 23204
+Страница 3231:
+entropy sum: 22943
+Страница 3232:
+entropy sum: 22718
+Страница 3233:
+entropy sum: 23257
+Страница 3234:
+entropy sum: 23418
+Страница 3235:
+entropy sum: 23011
+Страница 3236:
+entropy sum: 23928
+Страница 3237:
+entropy sum: 24289
+Страница 3238:
+entropy sum: 23899
+Страница 3239:
+entropy sum: 24021
+Страница 3240:
+entropy sum: 24647
+Страница 3241:
+entropy sum: 22712
+Страница 3242:
+entropy sum: 23471
+Страница 3243:
+entropy sum: 23789
+Страница 3244:
+entropy sum: 24094
+Страница 3245:
+entropy sum: 23172
+Страница 3246:
+entropy sum: 23541
+Страница 3247:
+entropy sum: 23153
+Страница 3248:
+entropy sum: 24177
+Страница 3249:
+entropy sum: 22420
+Страница 3250:
+entropy sum: 23753
+Страница 3251:
+entropy sum: 22053
+Страница 3252:
+entropy sum: 22049
+Страница 3253:
+entropy sum: 22302
+Страница 3254:
+entropy sum: 23160
+Страница 3255:
+entropy sum: 23085
+Страница 3256:
+entropy sum: 22677
+Страница 3257:
+entropy sum: 22395
+Страница 3258:
+entropy sum: 20528
+Страница 3259:
+entropy sum: 22334
+Страница 3260:
+entropy sum: 21571
+Страница 3261:
+entropy sum: 21422
+Страница 3262:
+entropy sum: 20197
+Страница 3263:
+entropy sum: 22500
+Страница 3264:
+entropy sum: 19992
+Страница 3265:
+entropy sum: 22618
+Страница 3266:
+entropy sum: 22946
+Страница 3267:
+entropy sum: 22712
+Страница 3268:
+entropy sum: 21391
+Страница 3269:
+entropy sum: 21615
+Страница 3270:
+entropy sum: 21101
+Страница 3271:
+entropy sum: 20134
+Страница 3272:
+entropy sum: 21605
+Страница 3273:
+entropy sum: 21736
+Страница 3274:
+entropy sum: 20498
+Страница 3275:
+entropy sum: 20925
+Страница 3276:
+entropy sum: 20650
+Страница 3277:
+entropy sum: 22227
+Страница 3278:
+entropy sum: 21812
+Страница 3279:
+entropy sum: 20926
+Страница 3280:
+entropy sum: 21804
+Страница 3281:
+entropy sum: 20910
+Страница 3282:
+entropy sum: 21850
+Страница 3283:
+entropy sum: 23037
+Страница 3284:
+entropy sum: 23146
+Страница 3285:
+entropy sum: 22275
+Страница 3286:
+entropy sum: 21013
+Страница 3287:
+entropy sum: 22696
+Страница 3288:
+entropy sum: 20408
+Страница 3289:
+entropy sum: 21488
+Страница 3290:
+entropy sum: 24008
+Страница 3291:
+entropy sum: 20675
+Страница 3292:
+entropy sum: 20644
+Страница 3293:
+entropy sum: 21109
+Страница 3294:
+entropy sum: 20764
+Страница 3295:
+entropy sum: 18008
+Страница 3296:
+entropy sum: 19976
+Страница 3297:
+entropy sum: 20014
+Страница 3298:
+entropy sum: 23271
+Страница 3299:
+entropy sum: 23786
+Страница 3300:
+entropy sum: 23458
+Страница 3301:
+entropy sum: 23762
+Страница 3302:
+entropy sum: 23726
+Страница 3303:
+entropy sum: 24566
+Страница 3304:
+entropy sum: 19529
+Страница 3305:
+entropy sum: 20473
+Страница 3306:
+entropy sum: 18923
+Страница 3307:
+entropy sum: 20531
+Страница 3308:
+entropy sum: 21216
+Страница 3309:
+entropy sum: 22600
+Страница 3310:
+entropy sum: 23554
+Страница 3311:
+entropy sum: 22523
+Страница 3312:
+entropy sum: 21664
+Страница 3313:
+entropy sum: 22251
+Страница 3314:
+entropy sum: 20757
+Страница 3315:
+entropy sum: 21987
+Страница 3316:
+entropy sum: 21549
+Страница 3317:
+entropy sum: 21408
+Страница 3318:
+entropy sum: 22021
+Страница 3319:
+entropy sum: 21792
+Страница 3320:
+entropy sum: 24360
+Страница 3321:
+entropy sum: 24163
+Страница 3322:
+entropy sum: 21893
+Страница 3323:
+entropy sum: 19822
+Страница 3324:
+entropy sum: 22810
+Страница 3325:
+entropy sum: 21561
+Страница 3326:
+entropy sum: 21834
+Страница 3327:
+entropy sum: 23227
+Страница 3328:
+entropy sum: 22212
+Страница 3329:
+entropy sum: 22080
+Страница 3330:
+entropy sum: 22149
+Страница 3331:
+entropy sum: 21643
+Страница 3332:
+entropy sum: 20255
+Страница 3333:
+entropy sum: 23463
+Страница 3334:
+entropy sum: 22557
+Страница 3335:
+entropy sum: 22923
+Страница 3336:
+entropy sum: 22524
+Страница 3337:
+entropy sum: 20913
+Страница 3338:
+entropy sum: 21354
+Страница 3339:
+entropy sum: 20742
+Страница 3340:
+entropy sum: 20856
+Страница 3341:
+entropy sum: 20053
+Страница 3342:
+entropy sum: 20643
+Страница 3343:
+entropy sum: 21344
+Страница 3344:
+entropy sum: 22283
+Страница 3345:
+entropy sum: 22034
+Страница 3346:
+entropy sum: 19508
+Страница 3347:
+entropy sum: 22369
+Страница 3348:
+entropy sum: 21539
+Страница 3349:
+entropy sum: 22607
+Страница 3350:
+entropy sum: 22073
+Страница 3351:
+entropy sum: 21388
+Страница 3352:
+entropy sum: 21585
+Страница 3353:
+entropy sum: 21006
+Страница 3354:
+entropy sum: 22203
+Страница 3355:
+entropy sum: 24161
+Страница 3356:
+entropy sum: 23832
+Страница 3357:
+entropy sum: 23729
+Страница 3358:
+entropy sum: 22624
+Страница 3359:
+entropy sum: 22687
+Страница 3360:
+entropy sum: 21960
+Страница 3361:
+entropy sum: 21992
+Страница 3362:
+entropy sum: 21958
+Страница 3363:
+entropy sum: 22921
+Страница 3364:
+entropy sum: 21986
+Страница 3365:
+entropy sum: 20279
+Страница 3366:
+entropy sum: 23684
+Страница 3367:
+entropy sum: 22420
+Страница 3368:
+entropy sum: 18952
+Страница 3369:
+entropy sum: 22588
+Страница 3370:
+entropy sum: 22836
+Страница 3371:
+entropy sum: 22038
+Страница 3372:
+entropy sum: 21238
+Страница 3373:
+entropy sum: 21581
+Страница 3374:
+entropy sum: 21320
+Страница 3375:
+entropy sum: 21189
+Страница 3376:
+entropy sum: 21663
+Страница 3377:
+entropy sum: 21776
+Страница 3378:
+entropy sum: 21248
+Страница 3379:
+entropy sum: 21528
+Страница 3380:
+entropy sum: 22272
+Страница 3381:
+entropy sum: 22330
+Страница 3382:
+entropy sum: 21086
+Страница 3383:
+entropy sum: 20932
+Страница 3384:
+entropy sum: 20725
+Страница 3385:
+entropy sum: 22824
+Страница 3386:
+entropy sum: 23941
+Страница 3387:
+entropy sum: 23047
+Страница 3388:
+entropy sum: 21383
+Страница 3389:
+entropy sum: 21792
+Страница 3390:
+entropy sum: 19084
+Страница 3391:
+entropy sum: 24567
+Страница 3392:
+entropy sum: 21849
+Страница 3393:
+entropy sum: 22731
+Страница 3394:
+entropy sum: 21950
+Страница 3395:
+entropy sum: 22231
+Страница 3396:
+entropy sum: 19586
+Страница 3397:
+entropy sum: 21852
+Страница 3398:
+entropy sum: 22909
+Страница 3399:
+entropy sum: 21803
+Страница 3400:
+entropy sum: 21999
+Страница 3401:
+entropy sum: 21795
+Страница 3402:
+entropy sum: 22043
+Страница 3403:
+entropy sum: 20586
+Страница 3404:
+entropy sum: 21087
+Страница 3405:
+entropy sum: 22116
+Страница 3406:
+entropy sum: 23267
+Страница 3407:
+entropy sum: 23617
+Страница 3408:
+entropy sum: 22236
+Страница 3409:
+entropy sum: 22370
+Страница 3410:
+entropy sum: 21303
+Страница 3411:
+entropy sum: 22411
+Страница 3412:
+entropy sum: 22100
+Страница 3413:
+entropy sum: 22015
+Страница 3414:
+entropy sum: 22017
+Страница 3415:
+entropy sum: 21605
+Страница 3416:
+entropy sum: 23614
+Страница 3417:
+entropy sum: 22939
+Страница 3418:
+entropy sum: 22389
+Страница 3419:
+entropy sum: 23841
+Страница 3420:
+entropy sum: 23557
+Страница 3421:
+entropy sum: 22674
+Страница 3422:
+entropy sum: 22902
+Страница 3423:
+entropy sum: 22059
+Страница 3424:
+entropy sum: 21847
+Страница 3425:
+entropy sum: 22664
+Страница 3426:
+entropy sum: 22279
+Страница 3427:
+entropy sum: 22671
+Страница 3428:
+entropy sum: 21985
+Страница 3429:
+entropy sum: 22408
+Страница 3430:
+entropy sum: 19139
+Страница 3431:
+entropy sum: 21535
+Страница 3432:
+entropy sum: 21492
+Страница 3433:
+entropy sum: 22120
+Страница 3434:
+entropy sum: 19724
+Страница 3435:
+entropy sum: 19691
+Страница 3436:
+entropy sum: 21762
+Страница 3437:
+entropy sum: 19924
+Страница 3438:
+entropy sum: 23186
+Страница 3439:
+entropy sum: 22903
+Страница 3440:
+entropy sum: 21680
+Страница 3441:
+entropy sum: 15593
+Страница 3442:
+entropy sum: 22184
+Страница 3443:
+entropy sum: 22292
+Страница 3444:
+entropy sum: 23768
+Страница 3445:
+entropy sum: 22374
+Страница 3446:
+entropy sum: 21656
+Страница 3447:
+entropy sum: 22022
+Страница 3448:
+entropy sum: 21661
+Страница 3449:
+entropy sum: 22246
+Страница 3450:
+entropy sum: 22979
+Страница 3451:
+entropy sum: 22231
+Страница 3452:
+entropy sum: 22117
+Страница 3453:
+entropy sum: 21983
+Страница 3454:
+entropy sum: 22591
+Страница 3455:
+entropy sum: 21980
+Страница 3456:
+entropy sum: 19785
+Страница 3457:
+entropy sum: 24210
+Страница 3458:
+entropy sum: 22378
+Страница 3459:
+entropy sum: 22041
+Страница 3460:
+entropy sum: 20368
+Страница 3461:
+entropy sum: 24630
+Страница 3462:
+entropy sum: 22738
+Страница 3463:
+entropy sum: 24195
+Страница 3464:
+entropy sum: 23414
+Страница 3465:
+entropy sum: 23359
+Страница 3466:
+entropy sum: 22691
+Страница 3467:
+entropy sum: 22669
+Страница 3468:
+entropy sum: 23291
+Страница 3469:
+entropy sum: 23348
+Страница 3470:
+entropy sum: 22795
+Страница 3471:
+entropy sum: 22882
+Страница 3472:
+entropy sum: 22620
+Страница 3473:
+entropy sum: 24007
+Страница 3474:
+entropy sum: 22974
+Страница 3475:
+entropy sum: 21650
+Страница 3476:
+entropy sum: 22174
+Страница 3477:
+entropy sum: 21347
+Страница 3478:
+entropy sum: 22385
+Страница 3479:
+entropy sum: 22610
+Страница 3480:
+entropy sum: 24287
+Страница 3481:
+entropy sum: 23985
+Страница 3482:
+entropy sum: 23842
+Страница 3483:
+entropy sum: 20651
+Страница 3484:
+entropy sum: 23457
+Страница 3485:
+entropy sum: 23068
+Страница 3486:
+entropy sum: 23082
+Страница 3487:
+entropy sum: 23955
+Страница 3488:
+entropy sum: 22818
+Страница 3489:
+entropy sum: 23183
+Страница 3490:
+entropy sum: 22520
+Страница 3491:
+entropy sum: 22836
+Страница 3492:
+entropy sum: 24269
+Страница 3493:
+entropy sum: 23588
+Страница 3494:
+entropy sum: 22165
+Страница 3495:
+entropy sum: 21544
+Страница 3496:
+entropy sum: 21707
+Страница 3497:
+entropy sum: 20884
+Страница 3498:
+entropy sum: 21855
+Страница 3499:
+entropy sum: 19583
+Страница 3500:
+entropy sum: 23877
+Страница 3501:
+entropy sum: 22769
+Страница 3502:
+entropy sum: 22308
+Страница 3503:
+entropy sum: 22273
+Страница 3504:
+entropy sum: 22139
+Страница 3505:
+entropy sum: 19703
+Страница 3506:
+entropy sum: 21551
+Страница 3507:
+entropy sum: 20562
+Страница 3508:
+entropy sum: 19581
+Страница 3509:
+entropy sum: 23679
+Страница 3510:
+entropy sum: 21456
+Страница 3511:
+entropy sum: 22350
+Страница 3512:
+entropy sum: 23808
+Страница 3513:
+entropy sum: 23543
+Страница 3514:
+entropy sum: 15556
+Страница 3515:
+entropy sum: 19144
+Страница 3516:
+entropy sum: 23824
+Страница 3517:
+entropy sum: 21503
+Страница 3518:
+entropy sum: 22373
+Страница 3519:
+entropy sum: 21665
+Страница 3520:
+entropy sum: 23335
+Страница 3521:
+entropy sum: 23895
+Страница 3522:
+entropy sum: 23350
+Страница 3523:
+entropy sum: 23331
+Страница 3524:
+entropy sum: 22568
+Страница 3525:
+entropy sum: 22832
+Страница 3526:
+entropy sum: 18991
+Страница 3527:
+entropy sum: 22035
+Страница 3528:
+entropy sum: 21873
+Страница 3529:
+entropy sum: 23073
+Страница 3530:
+entropy sum: 20534
+Страница 3531:
+entropy sum: 21305
+Страница 3532:
+entropy sum: 21280
+Страница 3533:
+entropy sum: 22574
+Страница 3534:
+entropy sum: 23603
+Страница 3535:
+entropy sum: 22315
+Страница 3536:
+entropy sum: 22660
+Страница 3537:
+entropy sum: 22221
+Страница 3538:
+entropy sum: 16216
+Страница 3539:
+entropy sum: 19932
+Страница 3540:
+entropy sum: 22430
+Страница 3541:
+entropy sum: 21298
+Страница 3542:
+entropy sum: 21336
+Страница 3543:
+entropy sum: 22911
+Страница 3544:
+entropy sum: 23597
+Страница 3545:
+entropy sum: 19154
+Страница 3546:
+entropy sum: 22758
+Страница 3547:
+entropy sum: 23400
+Страница 3548:
+entropy sum: 24831
+Страница 3549:
+entropy sum: 24026
+Страница 3550:
+entropy sum: 23856
+Страница 3551:
+entropy sum: 24676
+Страница 3552:
+entropy sum: 24147
+Страница 3553:
+entropy sum: 23649
+Страница 3554:
+entropy sum: 23769
+Страница 3555:
+entropy sum: 20464
+Страница 3556:
+entropy sum: 23226
+Страница 3557:
+entropy sum: 15346
+Страница 3558:
+entropy sum: 20630
+Страница 3559:
+entropy sum: 22988
+Страница 3560:
+entropy sum: 19445
+Страница 3561:
+entropy sum: 20510
+Страница 3562:
+entropy sum: 18866
+Страница 3563:
+entropy sum: 24084
+Страница 3564:
+entropy sum: 19441
+Страница 3565:
+entropy sum: 22303
+Страница 3566:
+entropy sum: 23300
+Страница 3567:
+entropy sum: 22186
+Страница 3568:
+entropy sum: 23654
+Страница 3569:
+entropy sum: 22428
+Страница 3570:
+entropy sum: 20605
+Страница 3571:
+entropy sum: 20860
+Страница 3572:
+entropy sum: 20081
+Страница 3573:
+entropy sum: 22672
+Страница 3574:
+entropy sum: 21902
+Страница 3575:
+entropy sum: 22082
+Страница 3576:
+entropy sum: 20641
+Страница 3577:
+entropy sum: 22785
+Страница 3578:
+entropy sum: 22095
+Страница 3579:
+entropy sum: 21105
+Страница 3580:
+entropy sum: 20937
+Страница 3581:
+entropy sum: 13722
+Страница 3582:
+entropy sum: 21856
+Страница 3583:
+entropy sum: 19383
+Страница 3584:
+entropy sum: 20450
+Страница 3585:
+entropy sum: 24714
+Страница 3586:
+entropy sum: 22003
+Страница 3587:
+entropy sum: 19269
+Страница 3588:
+entropy sum: 24735
+Страница 3589:
+entropy sum: 22850
+Страница 3590:
+entropy sum: 22576
+Страница 3591:
+entropy sum: 23661
+Страница 3592:
+entropy sum: 21854
+Страница 3593:
+entropy sum: 22344
+Страница 3594:
+entropy sum: 21790
+Страница 3595:
+entropy sum: 22176
+Страница 3596:
+entropy sum: 23537
+Страница 3597:
+entropy sum: 22712
+Страница 3598:
+entropy sum: 23816
+Страница 3599:
+entropy sum: 20626
+Страница 3600:
+entropy sum: 20223
+Страница 3601:
+entropy sum: 22753
+Страница 3602:
+entropy sum: 23563
+Страница 3603:
+entropy sum: 22450
+Страница 3604:
+entropy sum: 22040
+Страница 3605:
+entropy sum: 21693
+Страница 3606:
+entropy sum: 22156
+Страница 3607:
+entropy sum: 20383
+Страница 3608:
+entropy sum: 22795
+Страница 3609:
+entropy sum: 23332
+Страница 3610:
+entropy sum: 23635
+Страница 3611:
+entropy sum: 24076
+Страница 3612:
+entropy sum: 24368
+Страница 3613:
+entropy sum: 24558
+Страница 3614:
+entropy sum: 22573
+Страница 3615:
+entropy sum: 23372
+Страница 3616:
+entropy sum: 22648
+Страница 3617:
+entropy sum: 22759
+Страница 3618:
+entropy sum: 21100
+Страница 3619:
+entropy sum: 21751
+Страница 3620:
+entropy sum: 22096
+Страница 3621:
+entropy sum: 23316
+Страница 3622:
+entropy sum: 23095
+Страница 3623:
+entropy sum: 23706
+Страница 3624:
+entropy sum: 21878
+Страница 3625:
+entropy sum: 22831
+Страница 3626:
+entropy sum: 22094
+Страница 3627:
+entropy sum: 19882
+Страница 3628:
+entropy sum: 23725
+Страница 3629:
+entropy sum: 20593
+Страница 3630:
+entropy sum: 21357
+Страница 3631:
+entropy sum: 20975
+Страница 3632:
+entropy sum: 21901
+Страница 3633:
+entropy sum: 22113
+Страница 3634:
+entropy sum: 22247
+Страница 3635:
+entropy sum: 23116
+Страница 3636:
+entropy sum: 16151
+Страница 3637:
+entropy sum: 23590
+Страница 3638:
+entropy sum: 22302
+Страница 3639:
+entropy sum: 20992
+Страница 3640:
+entropy sum: 22502
+Страница 3641:
+entropy sum: 21851
+Страница 3642:
+entropy sum: 21602
+Страница 3643:
+entropy sum: 21819
+Страница 3644:
+entropy sum: 21612
+Страница 3645:
+entropy sum: 21472
+Страница 3646:
+entropy sum: 22562
+Страница 3647:
+entropy sum: 22167
+Страница 3648:
+entropy sum: 23564
+Страница 3649:
+entropy sum: 21617
+Страница 3650:
+entropy sum: 23158
+Страница 3651:
+entropy sum: 20443
+Страница 3652:
+entropy sum: 22771
+Страница 3653:
+entropy sum: 22254
+Страница 3654:
+entropy sum: 21697
+Страница 3655:
+entropy sum: 21497
+Страница 3656:
+entropy sum: 22755
+Страница 3657:
+entropy sum: 22095
+Страница 3658:
+entropy sum: 22335
+Страница 3659:
+entropy sum: 21588
+Страница 3660:
+entropy sum: 22309
+Страница 3661:
+entropy sum: 21651
+Страница 3662:
+entropy sum: 22720
+Страница 3663:
+entropy sum: 22814
+Страница 3664:
+entropy sum: 22154
+Страница 3665:
+entropy sum: 20168
+Страница 3666:
+entropy sum: 18509
+Страница 3667:
+entropy sum: 18438
+Страница 3668:
+entropy sum: 21681
+Страница 3669:
+entropy sum: 21396
+Страница 3670:
+entropy sum: 18636
+Страница 3671:
+entropy sum: 23391
+Страница 3672:
+entropy sum: 21808
+Страница 3673:
+entropy sum: 21965
+Страница 3674:
+entropy sum: 21961
+Страница 3675:
+entropy sum: 18729
+Страница 3676:
+entropy sum: 19548
+Страница 3677:
+entropy sum: 23704
+Страница 3678:
+entropy sum: 21218
+Страница 3679:
+entropy sum: 19416
+Страница 3680:
+entropy sum: 22591
+Страница 3681:
+entropy sum: 23006
+Страница 3682:
+entropy sum: 23597
+Страница 3683:
+entropy sum: 22287
+Страница 3684:
+entropy sum: 21924
+Страница 3685:
+entropy sum: 21945
+Страница 3686:
+entropy sum: 20989
+Страница 3687:
+entropy sum: 22585
+Страница 3688:
+entropy sum: 21000
+Страница 3689:
+entropy sum: 22872
+Страница 3690:
+entropy sum: 20510
+Страница 3691:
+entropy sum: 22962
+Страница 3692:
+entropy sum: 20285
+Страница 3693:
+entropy sum: 21196
+Страница 3694:
+entropy sum: 20003
+Страница 3695:
+entropy sum: 22841
+Страница 3696:
+entropy sum: 21431
+Страница 3697:
+entropy sum: 21523
+Страница 3698:
+entropy sum: 22788
+Страница 3699:
+entropy sum: 22740
+Страница 3700:
+entropy sum: 21979
+Страница 3701:
+entropy sum: 22616
+Страница 3702:
+entropy sum: 22255
+Страница 3703:
+entropy sum: 22317
+Страница 3704:
+entropy sum: 22797
+Страница 3705:
+entropy sum: 23113
+Страница 3706:
+entropy sum: 20750
+Страница 3707:
+entropy sum: 24354
+Страница 3708:
+entropy sum: 21995
+Страница 3709:
+entropy sum: 21239
+Страница 3710:
+entropy sum: 21484
+Страница 3711:
+entropy sum: 21067
+Страница 3712:
+entropy sum: 21131
+Страница 3713:
+entropy sum: 20218
+Страница 3714:
+entropy sum: 21143
+Страница 3715:
+entropy sum: 22303
+Страница 3716:
+entropy sum: 22918
+Страница 3717:
+entropy sum: 21358
+Страница 3718:
+entropy sum: 21409
+Страница 3719:
+entropy sum: 21967
+Страница 3720:
+entropy sum: 21398
+Страница 3721:
+entropy sum: 22244
+Страница 3722:
+entropy sum: 23690
+Страница 3723:
+entropy sum: 22761
+Страница 3724:
+entropy sum: 19468
+Страница 3725:
+entropy sum: 23937
+Страница 3726:
+entropy sum: 24188
+Страница 3727:
+entropy sum: 22773
+Страница 3728:
+entropy sum: 22326
+Страница 3729:
+entropy sum: 24434
+Страница 3730:
+entropy sum: 23704
+Страница 3731:
+entropy sum: 21133
+Страница 3732:
+entropy sum: 23974
+Страница 3733:
+entropy sum: 23625
+Страница 3734:
+entropy sum: 22635
+Страница 3735:
+entropy sum: 22815
+Страница 3736:
+entropy sum: 22788
+Страница 3737:
+entropy sum: 22168
+Страница 3738:
+entropy sum: 22985
+Страница 3739:
+entropy sum: 22926
+Страница 3740:
+entropy sum: 21211
+Страница 3741:
+entropy sum: 19892
+Страница 3742:
+entropy sum: 21705
+Страница 3743:
+entropy sum: 22926
+Страница 3744:
+entropy sum: 18739
+Страница 3745:
+entropy sum: 22785
+Страница 3746:
+entropy sum: 21615
+Страница 3747:
+entropy sum: 24492
+Страница 3748:
+entropy sum: 22838
+Страница 3749:
+entropy sum: 22176
+Страница 3750:
+entropy sum: 22316
+Страница 3751:
+entropy sum: 23501
+Страница 3752:
+entropy sum: 22474
+Страница 3753:
+entropy sum: 22637
+Страница 3754:
+entropy sum: 21623
+Страница 3755:
+entropy sum: 21910
+Страница 3756:
+entropy sum: 19947
+Страница 3757:
+entropy sum: 23646
+Страница 3758:
+entropy sum: 22265
+Страница 3759:
+entropy sum: 23449
+Страница 3760:
+entropy sum: 24716
+Страница 3761:
+entropy sum: 23994
+Страница 3762:
+entropy sum: 21911
+Страница 3763:
+entropy sum: 22175
+Страница 3764:
+entropy sum: 21541
+Страница 3765:
+entropy sum: 21966
+Страница 3766:
+entropy sum: 19832
+Страница 3767:
+entropy sum: 21068
+Страница 3768:
+entropy sum: 23267
+Страница 3769:
+entropy sum: 22433
+Страница 3770:
+entropy sum: 21592
+Страница 3771:
+entropy sum: 21714
+Страница 3772:
+entropy sum: 21530
+Страница 3773:
+entropy sum: 21268
+Страница 3774:
+entropy sum: 21792
+Страница 3775:
+entropy sum: 23457
+Страница 3776:
+entropy sum: 21447
+Страница 3777:
+entropy sum: 22056
+Страница 3778:
+entropy sum: 21596
+Страница 3779:
+entropy sum: 22006
+Страница 3780:
+entropy sum: 21601
+Страница 3781:
+entropy sum: 22566
+Страница 3782:
+entropy sum: 22539
+Страница 3783:
+entropy sum: 21875
+Страница 3784:
+entropy sum: 23181
+Страница 3785:
+entropy sum: 21829
+Страница 3786:
+entropy sum: 20150
+Страница 3787:
+entropy sum: 20815
+Страница 3788:
+entropy sum: 21177
+Страница 3789:
+entropy sum: 20678
+Страница 3790:
+entropy sum: 20885
+Страница 3791:
+entropy sum: 20850
+Страница 3792:
+entropy sum: 21476
+Страница 3793:
+entropy sum: 20741
+Страница 3794:
+entropy sum: 21898
+Страница 3795:
+entropy sum: 22128
+Страница 3796:
+entropy sum: 22176
+Страница 3797:
+entropy sum: 20326
+Страница 3798:
+entropy sum: 23649
+Страница 3799:
+entropy sum: 21885
+Страница 3800:
+entropy sum: 23618
+Страница 3801:
+entropy sum: 23488
+Страница 3802:
+entropy sum: 20253
+Страница 3803:
+entropy sum: 22771
+Страница 3804:
+entropy sum: 19654
+Страница 3805:
+entropy sum: 22138
+Страница 3806:
+entropy sum: 22306
+Страница 3807:
+entropy sum: 21355
+Страница 3808:
+entropy sum: 22805
+Страница 3809:
+entropy sum: 18612
+Страница 3810:
+entropy sum: 18652
+Страница 3811:
+entropy sum: 22551
+Страница 3812:
+entropy sum: 20948
+Страница 3813:
+entropy sum: 21586
+Страница 3814:
+entropy sum: 22110
+Страница 3815:
+entropy sum: 21038
+Страница 3816:
+entropy sum: 22621
+Страница 3817:
+entropy sum: 24040
+Страница 3818:
+entropy sum: 19620
+Страница 3819:
+entropy sum: 19520
+Страница 3820:
+entropy sum: 20636
+Страница 3821:
+entropy sum: 23374
+Страница 3822:
+entropy sum: 21425
+Страница 3823:
+entropy sum: 22784
+Страница 3824:
+entropy sum: 20890
+Страница 3825:
+entropy sum: 20544
+Страница 3826:
+entropy sum: 20820
+Страница 3827:
+entropy sum: 21816
+Страница 3828:
+entropy sum: 22670
+Страница 3829:
+entropy sum: 22672
+Страница 3830:
+entropy sum: 21869
+Страница 3831:
+entropy sum: 22459
+Страница 3832:
+entropy sum: 21680
+Страница 3833:
+entropy sum: 21277
+Страница 3834:
+entropy sum: 22265
+Страница 3835:
+entropy sum: 21867
+Страница 3836:
+entropy sum: 21670
+Страница 3837:
+entropy sum: 22463
+Страница 3838:
+entropy sum: 21461
+Страница 3839:
+entropy sum: 21070
+Страница 3840:
+entropy sum: 21007
+Страница 3841:
+entropy sum: 21436
+Страница 3842:
+entropy sum: 21954
+Страница 3843:
+entropy sum: 20647
+Страница 3844:
+entropy sum: 23301
+Страница 3845:
+entropy sum: 21153
+Страница 3846:
+entropy sum: 20861
+Страница 3847:
+entropy sum: 22028
+Страница 3848:
+entropy sum: 21668
+Страница 3849:
+entropy sum: 20904
+Страница 3850:
+entropy sum: 20613
+Страница 3851:
+entropy sum: 20692
+Страница 3852:
+entropy sum: 20662
+Страница 3853:
+entropy sum: 20632
+Страница 3854:
+entropy sum: 21548
+Страница 3855:
+entropy sum: 21850
+Страница 3856:
+entropy sum: 21144
+Страница 3857:
+entropy sum: 21081
+Страница 3858:
+entropy sum: 21046
+Страница 3859:
+entropy sum: 20793
+Страница 3860:
+entropy sum: 19653
+Страница 3861:
+entropy sum: 21603
+Страница 3862:
+entropy sum: 20715
+Страница 3863:
+entropy sum: 21129
+Страница 3864:
+entropy sum: 22418
+Страница 3865:
+entropy sum: 21836
+Страница 3866:
+entropy sum: 21293
+Страница 3867:
+entropy sum: 20027
+Страница 3868:
+entropy sum: 20907
+Страница 3869:
+entropy sum: 21286
+Страница 3870:
+entropy sum: 20771
+Страница 3871:
+entropy sum: 22526
+Страница 3872:
+entropy sum: 22780
+Страница 3873:
+entropy sum: 24337
+Страница 3874:
+entropy sum: 23247
+Страница 3875:
+entropy sum: 23150
+Страница 3876:
+entropy sum: 23628
+Страница 3877:
+entropy sum: 24278
+Страница 3878:
+entropy sum: 23163
+Страница 3879:
+entropy sum: 23982
+Страница 3880:
+entropy sum: 24729
+Страница 3881:
+entropy sum: 23441
+Страница 3882:
+entropy sum: 24510
+Страница 3883:
+entropy sum: 22650
+Страница 3884:
+entropy sum: 24692
+Страница 3885:
+entropy sum: 24111
+Страница 3886:
+entropy sum: 24034
+Страница 3887:
+entropy sum: 24800
+Страница 3888:
+entropy sum: 23444
+Страница 3889:
+entropy sum: 23077
+Страница 3890:
+entropy sum: 22828
+Страница 3891:
+entropy sum: 19828
+Страница 3892:
+entropy sum: 24348
+Страница 3893:
+entropy sum: 21845
+Страница 3894:
+entropy sum: 24596
+Страница 3895:
+entropy sum: 24081
+Страница 3896:
+entropy sum: 22251
+Страница 3897:
+entropy sum: 22722
+Страница 3898:
+entropy sum: 23609
+Страница 3899:
+entropy sum: 21783
+Страница 3900:
+entropy sum: 21476
+Страница 3901:
+entropy sum: 22368
+Страница 3902:
+entropy sum: 22916
+Страница 3903:
+entropy sum: 23936
+Страница 3904:
+entropy sum: 20968
+Страница 3905:
+entropy sum: 23420
+Страница 3906:
+entropy sum: 21509
+Страница 3907:
+entropy sum: 22643
+Страница 3908:
+entropy sum: 24104
+Страница 3909:
+entropy sum: 22742
+Страница 3910:
+entropy sum: 22811
+Страница 3911:
+entropy sum: 20682
+Страница 3912:
+entropy sum: 23827
+Страница 3913:
+entropy sum: 24314
+Страница 3914:
+entropy sum: 22588
+Страница 3915:
+entropy sum: 22962
+Страница 3916:
+entropy sum: 22613
+Страница 3917:
+entropy sum: 21600
+Страница 3918:
+entropy sum: 21225
+Страница 3919:
+entropy sum: 22482
+Страница 3920:
+entropy sum: 22888
+Страница 3921:
+entropy sum: 23749
+Страница 3922:
+entropy sum: 20973
+Страница 3923:
+entropy sum: 19627
+Страница 3924:
+entropy sum: 12852
+Страница 3925:
+entropy sum: 21932
+Страница 3926:
+entropy sum: 23888
+Страница 3927:
+entropy sum: 21438
+Страница 3928:
+entropy sum: 24003
+Страница 3929:
+entropy sum: 21558
+Страница 3930:
+entropy sum: 22061
+Страница 3931:
+entropy sum: 22716
+Страница 3932:
+entropy sum: 23018
+Страница 3933:
+entropy sum: 23252
+Страница 3934:
+entropy sum: 21693
+Страница 3935:
+entropy sum: 23828
+Страница 3936:
+entropy sum: 22471
+Страница 3937:
+entropy sum: 22191
+Страница 3938:
+entropy sum: 18987
+Страница 3939:
+entropy sum: 21155
+Страница 3940:
+entropy sum: 21712
+Страница 3941:
+entropy sum: 21564
+Страница 3942:
+entropy sum: 23713
+Страница 3943:
+entropy sum: 22106
+Страница 3944:
+entropy sum: 21699
+Страница 3945:
+entropy sum: 20251
+Страница 3946:
+entropy sum: 22034
+Страница 3947:
+entropy sum: 20957
+Страница 3948:
+entropy sum: 21805
+Страница 3949:
+entropy sum: 15310
+Страница 3950:
+entropy sum: 23901
+Страница 3951:
+entropy sum: 23158
+Страница 3952:
+entropy sum: 20972
+Страница 3953:
+entropy sum: 16262
+Страница 3954:
+entropy sum: 18885
+Страница 3955:
+entropy sum: 22313
+Страница 3956:
+entropy sum: 23118
+Страница 3957:
+entropy sum: 21304
+Страница 3958:
+entropy sum: 22031
+Страница 3959:
+entropy sum: 22076
+Страница 3960:
+entropy sum: 22155
+Страница 3961:
+entropy sum: 21560
+Страница 3962:
+entropy sum: 22287
+Страница 3963:
+entropy sum: 21014
+Страница 3964:
+entropy sum: 20971
+Страница 3965:
+entropy sum: 21733
+Страница 3966:
+entropy sum: 20701
+Страница 3967:
+entropy sum: 22160
+Страница 3968:
+entropy sum: 22790
+Страница 3969:
+entropy sum: 23523
+Страница 3970:
+entropy sum: 22986
+Страница 3971:
+entropy sum: 22529
+Страница 3972:
+entropy sum: 21772
+Страница 3973:
+entropy sum: 22839
+Страница 3974:
+entropy sum: 22750
+Страница 3975:
+entropy sum: 21966
+Страница 3976:
+entropy sum: 21361
+Страница 3977:
+entropy sum: 21715
+Страница 3978:
+entropy sum: 22218
+Страница 3979:
+entropy sum: 20625
+Страница 3980:
+entropy sum: 21610
+Страница 3981:
+entropy sum: 18511
+Страница 3982:
+entropy sum: 23076
+Страница 3983:
+entropy sum: 21162
+Страница 3984:
+entropy sum: 22544
+Страница 3985:
+entropy sum: 22813
+Страница 3986:
+entropy sum: 22872
+Страница 3987:
+entropy sum: 23257
+Страница 3988:
+entropy sum: 22693
+Страница 3989:
+entropy sum: 22568
+Страница 3990:
+entropy sum: 21478
+Страница 3991:
+entropy sum: 21637
+Страница 3992:
+entropy sum: 23176
+Страница 3993:
+entropy sum: 18611
+Страница 3994:
+entropy sum: 22683
+Страница 3995:
+entropy sum: 19256
+Страница 3996:
+entropy sum: 19799
+Страница 3997:
+entropy sum: 22582
+Страница 3998:
+entropy sum: 23325
+Страница 3999:
+entropy sum: 22196
+Страница 4000:
+entropy sum: 22630
+Страница 4001:
+entropy sum: 22576
+Страница 4002:
+entropy sum: 22077
+Страница 4003:
+entropy sum: 20454
+Страница 4004:
+entropy sum: 23996
+Страница 4005:
+entropy sum: 24225
+Страница 4006:
+entropy sum: 22222
+Страница 4007:
+entropy sum: 21845
+Страница 4008:
+entropy sum: 20781
+Страница 4009:
+entropy sum: 19653
+Страница 4010:
+entropy sum: 23609
+Страница 4011:
+entropy sum: 22002
+Страница 4012:
+entropy sum: 23475
+Страница 4013:
+entropy sum: 24166
+Страница 4014:
+entropy sum: 22665
+Страница 4015:
+entropy sum: 20487
+Страница 4016:
+entropy sum: 24221
+Страница 4017:
+entropy sum: 24650
+Страница 4018:
+entropy sum: 22180
+Страница 4019:
+entropy sum: 21994
+Страница 4020:
+entropy sum: 22412
+Страница 4021:
+entropy sum: 22120
+Страница 4022:
+entropy sum: 22385
+Страница 4023:
+entropy sum: 23717
+Страница 4024:
+entropy sum: 24023
+Страница 4025:
+entropy sum: 22186
+Страница 4026:
+entropy sum: 21874
+Страница 4027:
+entropy sum: 19798
+Страница 4028:
+entropy sum: 22503
+Страница 4029:
+entropy sum: 20479
+Страница 4030:
+entropy sum: 22229
+Страница 4031:
+entropy sum: 24051
+Страница 4032:
+entropy sum: 22511
+Страница 4033:
+entropy sum: 21138
+Страница 4034:
+entropy sum: 21646
+Страница 4035:
+entropy sum: 22576
+Страница 4036:
+entropy sum: 23128
+Страница 4037:
+entropy sum: 23507
+Страница 4038:
+entropy sum: 19866
+Страница 4039:
+entropy sum: 23287
+Страница 4040:
+entropy sum: 24185
+Страница 4041:
+entropy sum: 22397
+Страница 4042:
+entropy sum: 22210
+Страница 4043:
+entropy sum: 20740
+Страница 4044:
+entropy sum: 22519
+Страница 4045:
+entropy sum: 21769
+Страница 4046:
+entropy sum: 22800
+Страница 4047:
+entropy sum: 22455
+Страница 4048:
+entropy sum: 22771
+Страница 4049:
+entropy sum: 22119
+Страница 4050:
+entropy sum: 19360
+Страница 4051:
+entropy sum: 14859
+Страница 4052:
+entropy sum: 22162
+Страница 4053:
+entropy sum: 23462
+Страница 4054:
+entropy sum: 21704
+Страница 4055:
+entropy sum: 21625
+Страница 4056:
+entropy sum: 21654
+Страница 4057:
+entropy sum: 22534
+Страница 4058:
+entropy sum: 22026
+Страница 4059:
+entropy sum: 22219
+Страница 4060:
+entropy sum: 20525
+Страница 4061:
+entropy sum: 21454
+Страница 4062:
+entropy sum: 23063
+Страница 4063:
+entropy sum: 22540
+Страница 4064:
+entropy sum: 22746
+Страница 4065:
+entropy sum: 20374
+Страница 4066:
+entropy sum: 23544
+Страница 4067:
+entropy sum: 21395
+Страница 4068:
+entropy sum: 22073
+Страница 4069:
+entropy sum: 22221
+Страница 4070:
+entropy sum: 23313
+Страница 4071:
+entropy sum: 19062
+Страница 4072:
+entropy sum: 22842
+Страница 4073:
+entropy sum: 19271
+Страница 4074:
+entropy sum: 24044
+Страница 4075:
+entropy sum: 23745
+Страница 4076:
+entropy sum: 24024
+Страница 4077:
+entropy sum: 20425
+Страница 4078:
+entropy sum: 20243
+Страница 4079:
+entropy sum: 23186
+Страница 4080:
+entropy sum: 22600
+Страница 4081:
+entropy sum: 22923
+Страница 4082:
+entropy sum: 23079
+Страница 4083:
+entropy sum: 20489
+Страница 4084:
+entropy sum: 15369
+Страница 4085:
+entropy sum: 22851
+Страница 4086:
+entropy sum: 21862
+Страница 4087:
+entropy sum: 21982
+Страница 4088:
+entropy sum: 22040
+Страница 4089:
+entropy sum: 23263
+Страница 4090:
+entropy sum: 22555
+Страница 4091:
+entropy sum: 21968
+Страница 4092:
+entropy sum: 23474
+Страница 4093:
+entropy sum: 23395
+Страница 4094:
+entropy sum: 22950
+Страница 4095:
+entropy sum: 21691
+Страница 4096:
+entropy sum: 21919
+Страница 4097:
+entropy sum: 22610
+Страница 4098:
+entropy sum: 21526
+Страница 4099:
+entropy sum: 19002
+Страница 4100:
+entropy sum: 22710
+Страница 4101:
+entropy sum: 21454
+Страница 4102:
+entropy sum: 21929
+Страница 4103:
+entropy sum: 22509
+Страница 4104:
+entropy sum: 21939
+Страница 4105:
+entropy sum: 21880
+Страница 4106:
+entropy sum: 22210
+Страница 4107:
+entropy sum: 22726
+Страница 4108:
+entropy sum: 23306
+Страница 4109:
+entropy sum: 21404
+Страница 4110:
+entropy sum: 22639
+Страница 4111:
+entropy sum: 22028
+Страница 4112:
+entropy sum: 22068
+Страница 4113:
+entropy sum: 20323
+Страница 4114:
+entropy sum: 21296
+Страница 4115:
+entropy sum: 23563
+Страница 4116:
+entropy sum: 21932
+Страница 4117:
+entropy sum: 21256
+Страница 4118:
+entropy sum: 20927
+Страница 4119:
+entropy sum: 22345
+Страница 4120:
+entropy sum: 21953
+Страница 4121:
+entropy sum: 22416
+Страница 4122:
+entropy sum: 22036
+Страница 4123:
+entropy sum: 22962
+Страница 4124:
+entropy sum: 20683
+Страница 4125:
+entropy sum: 21342
+Страница 4126:
+entropy sum: 22128
+Страница 4127:
+entropy sum: 20659
+Страница 4128:
+entropy sum: 23237
+Страница 4129:
+entropy sum: 21653
+Страница 4130:
+entropy sum: 22680
+Страница 4131:
+entropy sum: 20962
+Страница 4132:
+entropy sum: 22367
+Страница 4133:
+entropy sum: 20954
+Страница 4134:
+entropy sum: 21276
+Страница 4135:
+entropy sum: 21666
+Страница 4136:
+entropy sum: 23588
+Страница 4137:
+entropy sum: 22686
+Страница 4138:
+entropy sum: 23930
+Страница 4139:
+entropy sum: 21716
+Страница 4140:
+entropy sum: 21739
+Страница 4141:
+entropy sum: 21878
+Страница 4142:
+entropy sum: 18739
+Страница 4143:
+entropy sum: 21874
+Страница 4144:
+entropy sum: 22802
+Страница 4145:
+entropy sum: 22667
+Страница 4146:
+entropy sum: 22884
+Страница 4147:
+entropy sum: 22620
+Страница 4148:
+entropy sum: 20769
+Страница 4149:
+entropy sum: 22470
+Страница 4150:
+entropy sum: 22009
+Страница 4151:
+entropy sum: 21139
+Страница 4152:
+entropy sum: 22233
+Страница 4153:
+entropy sum: 20584
+Страница 4154:
+entropy sum: 21742
+Страница 4155:
+entropy sum: 23347
+Страница 4156:
+entropy sum: 23323
+Страница 4157:
+entropy sum: 23171
+Страница 4158:
+entropy sum: 23744
+Страница 4159:
+entropy sum: 22907
+Страница 4160:
+entropy sum: 23157
+Страница 4161:
+entropy sum: 22522
+Страница 4162:
+entropy sum: 23505
+Страница 4163:
+entropy sum: 24172
+Страница 4164:
+entropy sum: 24280
+Страница 4165:
+entropy sum: 23499
+Страница 4166:
+entropy sum: 23693
+Страница 4167:
+entropy sum: 24236
+Страница 4168:
+entropy sum: 20702
+Страница 4169:
+entropy sum: 23740
+Страница 4170:
+entropy sum: 21185
+Страница 4171:
+entropy sum: 21234
+Страница 4172:
+entropy sum: 21028
+Страница 4173:
+entropy sum: 20868
+Страница 4174:
+entropy sum: 20841
+Страница 4175:
+entropy sum: 22501
+Страница 4176:
+entropy sum: 21304
+Страница 4177:
+entropy sum: 21416
+Страница 4178:
+entropy sum: 20940
+Страница 4179:
+entropy sum: 22114
+Страница 4180:
+entropy sum: 22045
+Страница 4181:
+entropy sum: 21148
+Страница 4182:
+entropy sum: 21236
+Страница 4183:
+entropy sum: 22073
+Страница 4184:
+entropy sum: 21048
+Страница 4185:
+entropy sum: 21671
+Страница 4186:
+entropy sum: 22563
+Страница 4187:
+entropy sum: 21519
+Страница 4188:
+entropy sum: 22886
+Страница 4189:
+entropy sum: 23058
+Страница 4190:
+entropy sum: 23344
+Страница 4191:
+entropy sum: 25462
+Страница 4192:
+entropy sum: 22378
+Страница 4193:
+entropy sum: 21772
+Страница 4194:
+entropy sum: 22377
+Страница 4195:
+entropy sum: 21987
+Страница 4196:
+entropy sum: 21916
+Страница 4197:
+entropy sum: 24432
+Страница 4198:
+entropy sum: 23406
+Страница 4199:
+entropy sum: 20931
+Страница 4200:
+entropy sum: 21344
+Страница 4201:
+entropy sum: 23533
+Страница 4202:
+entropy sum: 23422
+Страница 4203:
+entropy sum: 22504
+Страница 4204:
+entropy sum: 22309
+Страница 4205:
+entropy sum: 23253
+Страница 4206:
+entropy sum: 23067
+Страница 4207:
+entropy sum: 21821
+Страница 4208:
+entropy sum: 22145
+Страница 4209:
+entropy sum: 22408
+Страница 4210:
+entropy sum: 23226
+Страница 4211:
+entropy sum: 22253
+Страница 4212:
+entropy sum: 21366
+Страница 4213:
+entropy sum: 21673
+Страница 4214:
+entropy sum: 21351
+Страница 4215:
+entropy sum: 21294
+Страница 4216:
+entropy sum: 15380
+Страница 4217:
+entropy sum: 23830
+Страница 4218:
+entropy sum: 21067
+Страница 4219:
+entropy sum: 19937
+Страница 4220:
+entropy sum: 23096
+Страница 4221:
+entropy sum: 21827
+Страница 4222:
+entropy sum: 20774
+Страница 4223:
+entropy sum: 22719
+Страница 4224:
+entropy sum: 22383
+Страница 4225:
+entropy sum: 23201
+Страница 4226:
+entropy sum: 21284
+Страница 4227:
+entropy sum: 21509
+Страница 4228:
+entropy sum: 18832
+Страница 4229:
+entropy sum: 23830
+Страница 4230:
+entropy sum: 20229
+Страница 4231:
+entropy sum: 21524
+Страница 4232:
+entropy sum: 21704
+Страница 4233:
+entropy sum: 22374
+Страница 4234:
+entropy sum: 23916
+Страница 4235:
+entropy sum: 22216
+Страница 4236:
+entropy sum: 21753
+Страница 4237:
+entropy sum: 21015
+Страница 4238:
+entropy sum: 21374
+Страница 4239:
+entropy sum: 21787
+Страница 4240:
+entropy sum: 21156
+Страница 4241:
+entropy sum: 21353
+Страница 4242:
+entropy sum: 20872
+Страница 4243:
+entropy sum: 21008
+Страница 4244:
+entropy sum: 15778
+Страница 4245:
+entropy sum: 21483
+Страница 4246:
+entropy sum: 21590
+Страница 4247:
+entropy sum: 23379
+Страница 4248:
+entropy sum: 21415
+Страница 4249:
+entropy sum: 22083
+Страница 4250:
+entropy sum: 21997
+Страница 4251:
+entropy sum: 18856
+Страница 4252:
+entropy sum: 13215
+Страница 4253:
+entropy sum: 24393
+Страница 4254:
+entropy sum: 22525
+Страница 4255:
+entropy sum: 21088
+Страница 4256:
+entropy sum: 19362
+Страница 4257:
+entropy sum: 18886
+Страница 4258:
+entropy sum: 22874
+Страница 4259:
+entropy sum: 23545
+Страница 4260:
+entropy sum: 22827
+Страница 4261:
+entropy sum: 21485
+Страница 4262:
+entropy sum: 15228
+Страница 4263:
+entropy sum: 22948
+Страница 4264:
+entropy sum: 23195
+Страница 4265:
+entropy sum: 18074
+Страница 4266:
+entropy sum: 20870
+Страница 4267:
+entropy sum: 19686
+Страница 4268:
+entropy sum: 22901
+Страница 4269:
+entropy sum: 20247
+Страница 4270:
+entropy sum: 21517
+Страница 4271:
+entropy sum: 21643
+Страница 4272:
+entropy sum: 21452
+Страница 4273:
+entropy sum: 19845
+Страница 4274:
+entropy sum: 21279
+Страница 4275:
+entropy sum: 20940
+Страница 4276:
+entropy sum: 22161
+Страница 4277:
+entropy sum: 22926
+Страница 4278:
+entropy sum: 18561
+Страница 4279:
+entropy sum: 22863
+Страница 4280:
+entropy sum: 23170
+Страница 4281:
+entropy sum: 23220
+Страница 4282:
+entropy sum: 23647
+Страница 4283:
+entropy sum: 23011
+Страница 4284:
+entropy sum: 21574
+Страница 4285:
+entropy sum: 22370
+Страница 4286:
+entropy sum: 22227
+Страница 4287:
+entropy sum: 21557
+Страница 4288:
+entropy sum: 21773
+Страница 4289:
+entropy sum: 21963
+Страница 4290:
+entropy sum: 19608
+Страница 4291:
+entropy sum: 23184
+Страница 4292:
+entropy sum: 21290
+Страница 4293:
+entropy sum: 22415
+Страница 4294:
+entropy sum: 22328
+Страница 4295:
+entropy sum: 20795
+Страница 4296:
+entropy sum: 20156
+Страница 4297:
+entropy sum: 23143
+Страница 4298:
+entropy sum: 20404
+Страница 4299:
+entropy sum: 23625
+Страница 4300:
+entropy sum: 22450
+Страница 4301:
+entropy sum: 22381
+Страница 4302:
+entropy sum: 22743
+Страница 4303:
+entropy sum: 23682
+Страница 4304:
+entropy sum: 21493
+Страница 4305:
+entropy sum: 18101
+Страница 4306:
+entropy sum: 24000
+Страница 4307:
+entropy sum: 24037
+Страница 4308:
+entropy sum: 23545
+Страница 4309:
+entropy sum: 23789
+Страница 4310:
+entropy sum: 21574
+Страница 4311:
+entropy sum: 24287
+Страница 4312:
+entropy sum: 23889
+Страница 4313:
+entropy sum: 22986
+Страница 4314:
+entropy sum: 23373
+Страница 4315:
+entropy sum: 21634
+Страница 4316:
+entropy sum: 15699
+Страница 4317:
+entropy sum: 21960
+Страница 4318:
+entropy sum: 20791
+Страница 4319:
+entropy sum: 22608
+Страница 4320:
+entropy sum: 21119
+Страница 4321:
+entropy sum: 19874
+Страница 4322:
+entropy sum: 14119
+Страница 4323:
+entropy sum: 19343
+Страница 4324:
+entropy sum: 23568
+Страница 4325:
+entropy sum: 24389
+Страница 4326:
+entropy sum: 24325
+Страница 4327:
+entropy sum: 23171
+Страница 4328:
+entropy sum: 19915
+Страница 4329:
+entropy sum: 22138
+Страница 4330:
+entropy sum: 21230
+Страница 4331:
+entropy sum: 20237
+Страница 4332:
+entropy sum: 22051
+Страница 4333:
+entropy sum: 22954
+Страница 4334:
+entropy sum: 20606
+Страница 4335:
+entropy sum: 20584
+Страница 4336:
+entropy sum: 22517
+Страница 4337:
+entropy sum: 22544
+Страница 4338:
+entropy sum: 22469
+Страница 4339:
+entropy sum: 20658
+Страница 4340:
+entropy sum: 22112
+Страница 4341:
+entropy sum: 22436
+Страница 4342:
+entropy sum: 21440
+Страница 4343:
+entropy sum: 22080
+Страница 4344:
+entropy sum: 22106
+Страница 4345:
+entropy sum: 22676
+Страница 4346:
+entropy sum: 15184
+Страница 4347:
+entropy sum: 21968
+Страница 4348:
+entropy sum: 22357
+Страница 4349:
+entropy sum: 21614
+Страница 4350:
+entropy sum: 22012
+Страница 4351:
+entropy sum: 22038
+Страница 4352:
+entropy sum: 22976
+Страница 4353:
+entropy sum: 23317
+Страница 4354:
+entropy sum: 22090
+Страница 4355:
+entropy sum: 19290
+Страница 4356:
+entropy sum: 21586
+Страница 4357:
+entropy sum: 22096
+Страница 4358:
+entropy sum: 23712
+Страница 4359:
+entropy sum: 21783
+Страница 4360:
+entropy sum: 24451
+Страница 4361:
+entropy sum: 23012
+Страница 4362:
+entropy sum: 20953
+Страница 4363:
+entropy sum: 23671
+Страница 4364:
+entropy sum: 22164
+Страница 4365:
+entropy sum: 22038
+Страница 4366:
+entropy sum: 21380
+Страница 4367:
+entropy sum: 22452
+Страница 4368:
+entropy sum: 23554
+Страница 4369:
+entropy sum: 24037
+Страница 4370:
+entropy sum: 23082
+Страница 4371:
+entropy sum: 23993
+Страница 4372:
+entropy sum: 24127
+Страница 4373:
+entropy sum: 24386
+Страница 4374:
+entropy sum: 23752
+Страница 4375:
+entropy sum: 23171
+Страница 4376:
+entropy sum: 24462
+Страница 4377:
+entropy sum: 23069
+Страница 4378:
+entropy sum: 22426
+Страница 4379:
+entropy sum: 23163
+Страница 4380:
+entropy sum: 22871
+Страница 4381:
+entropy sum: 24124
+Страница 4382:
+entropy sum: 22538
+Страница 4383:
+entropy sum: 21264
+Страница 4384:
+entropy sum: 21856
+Страница 4385:
+entropy sum: 23010
+Страница 4386:
+entropy sum: 22955
+Страница 4387:
+entropy sum: 21109
+Страница 4388:
+entropy sum: 23110
+Страница 4389:
+entropy sum: 21124
+Страница 4390:
+entropy sum: 21740
+Страница 4391:
+entropy sum: 23295
+Страница 4392:
+entropy sum: 23496
+Страница 4393:
+entropy sum: 23785
+Страница 4394:
+entropy sum: 23519
+Страница 4395:
+entropy sum: 23136
+Страница 4396:
+entropy sum: 23774
+Страница 4397:
+entropy sum: 22231
+Страница 4398:
+entropy sum: 21891
+Страница 4399:
+entropy sum: 22709
+Страница 4400:
+entropy sum: 22753
+Страница 4401:
+entropy sum: 23035
+Страница 4402:
+entropy sum: 23468
+Страница 4403:
+entropy sum: 23373
+Страница 4404:
+entropy sum: 23698
+Страница 4405:
+entropy sum: 21443
+Страница 4406:
+entropy sum: 22838
+Страница 4407:
+entropy sum: 23159
+Страница 4408:
+entropy sum: 21515
+Страница 4409:
+entropy sum: 21544
+Страница 4410:
+entropy sum: 19444
+Страница 4411:
+entropy sum: 23665
+Страница 4412:
+entropy sum: 22850
+Страница 4413:
+entropy sum: 23014
+Страница 4414:
+entropy sum: 23825
+Страница 4415:
+entropy sum: 22933
+Страница 4416:
+entropy sum: 23335
+Страница 4417:
+entropy sum: 21039
+Страница 4418:
+entropy sum: 21707
+Страница 4419:
+entropy sum: 20970
+Страница 4420:
+entropy sum: 19774
+Страница 4421:
+entropy sum: 21369
+Страница 4422:
+entropy sum: 19253
+Страница 4423:
+entropy sum: 21741
+Страница 4424:
+entropy sum: 22979
+Страница 4425:
+entropy sum: 22806
+Страница 4426:
+entropy sum: 20361
+Страница 4427:
+entropy sum: 20183
+Страница 4428:
+entropy sum: 23491
+Страница 4429:
+entropy sum: 22935
+Страница 4430:
+entropy sum: 19725
+Страница 4431:
+entropy sum: 19668
+Страница 4432:
+entropy sum: 20556
+Страница 4433:
+entropy sum: 19499
+Страница 4434:
+entropy sum: 19621
+Страница 4435:
+entropy sum: 21601
+Страница 4436:
+entropy sum: 22505
+Страница 4437:
+entropy sum: 21819
+Страница 4438:
+entropy sum: 20969
+Страница 4439:
+entropy sum: 20966
+Страница 4440:
+entropy sum: 18907
+Страница 4441:
+entropy sum: 21101
+Страница 4442:
+entropy sum: 20020
+Страница 4443:
+entropy sum: 19652
+Страница 4444:
+entropy sum: 22845
+Страница 4445:
+entropy sum: 21010
+Страница 4446:
+entropy sum: 20267
+Страница 4447:
+entropy sum: 20453
+Страница 4448:
+entropy sum: 23804
+Страница 4449:
+entropy sum: 20622
+Страница 4450:
+entropy sum: 21133
+Страница 4451:
+entropy sum: 20924
+Страница 4452:
+entropy sum: 20855
+Страница 4453:
+entropy sum: 21048
+Страница 4454:
+entropy sum: 21041
+Страница 4455:
+entropy sum: 22252
+Страница 4456:
+entropy sum: 23501
+Страница 4457:
+entropy sum: 22852
+Страница 4458:
+entropy sum: 21161
+Страница 4459:
+entropy sum: 20152
+Страница 4460:
+entropy sum: 22903
+Страница 4461:
+entropy sum: 22989
+Страница 4462:
+entropy sum: 19107
+Страница 4463:
+entropy sum: 22379
+Страница 4464:
+entropy sum: 20887
+Страница 4465:
+entropy sum: 22331
+Страница 4466:
+entropy sum: 22653
+Страница 4467:
+entropy sum: 22219
+Страница 4468:
+entropy sum: 23284
+Страница 4469:
+entropy sum: 22197
+Страница 4470:
+entropy sum: 22430
+Страница 4471:
+entropy sum: 22472
+Страница 4472:
+entropy sum: 22107
+Страница 4473:
+entropy sum: 18397
+Страница 4474:
+entropy sum: 22667
+Страница 4475:
+entropy sum: 23096
+Страница 4476:
+entropy sum: 24486
+Страница 4477:
+entropy sum: 24012
+Страница 4478:
+entropy sum: 22176
+Страница 4479:
+entropy sum: 22838
+Страница 4480:
+entropy sum: 21612
+Страница 4481:
+entropy sum: 22298
+Страница 4482:
+entropy sum: 22440
+Страница 4483:
+entropy sum: 21162
+Страница 4484:
+entropy sum: 22073
+Страница 4485:
+entropy sum: 18351
+Страница 4486:
+entropy sum: 21104
+Страница 4487:
+entropy sum: 20447
+Страница 4488:
+entropy sum: 23104
+Страница 4489:
+entropy sum: 22283
+Страница 4490:
+entropy sum: 23263
+Страница 4491:
+entropy sum: 23341
+Страница 4492:
+entropy sum: 21532
+Страница 4493:
+entropy sum: 22128
+Страница 4494:
+entropy sum: 20863
+Страница 4495:
+entropy sum: 22426
+Страница 4496:
+entropy sum: 23304
+Страница 4497:
+entropy sum: 21724
+Страница 4498:
+entropy sum: 21297
+Страница 4499:
+entropy sum: 20627
+Страница 4500:
+entropy sum: 23512
+Страница 4501:
+entropy sum: 23141
+Страница 4502:
+entropy sum: 22650
+Страница 4503:
+entropy sum: 22369
+Страница 4504:
+entropy sum: 22624
+Страница 4505:
+entropy sum: 21259
+Страница 4506:
+entropy sum: 21220
+Страница 4507:
+entropy sum: 21716
+Страница 4508:
+entropy sum: 21761
+Страница 4509:
+entropy sum: 21929
+Страница 4510:
+entropy sum: 22498
+Страница 4511:
+entropy sum: 22808
+Страница 4512:
+entropy sum: 22894
+Страница 4513:
+entropy sum: 15705
+Страница 4514:
+entropy sum: 23923
+Страница 4515:
+entropy sum: 20189
+Страница 4516:
+entropy sum: 22221
+Страница 4517:
+entropy sum: 24416
+Страница 4518:
+entropy sum: 23893
+Страница 4519:
+entropy sum: 23801
+Страница 4520:
+entropy sum: 23899
+Страница 4521:
+entropy sum: 22257
+Страница 4522:
+entropy sum: 23949
+Страница 4523:
+entropy sum: 23091
+Страница 4524:
+entropy sum: 22129
+Страница 4525:
+entropy sum: 22776
+Страница 4526:
+entropy sum: 22385
+Страница 4527:
+entropy sum: 23347
+Страница 4528:
+entropy sum: 22469
+Страница 4529:
+entropy sum: 23046
+Страница 4530:
+entropy sum: 21554
+Страница 4531:
+entropy sum: 20993
+Страница 4532:
+entropy sum: 22153
+Страница 4533:
+entropy sum: 21931
+Страница 4534:
+entropy sum: 22648
+Страница 4535:
+entropy sum: 24247
+Страница 4536:
+entropy sum: 21624
+Страница 4537:
+entropy sum: 20414
+Страница 4538:
+entropy sum: 22255
+Страница 4539:
+entropy sum: 23159
+Страница 4540:
+entropy sum: 23316
+Страница 4541:
+entropy sum: 22616
+Страница 4542:
+entropy sum: 21666
+Страница 4543:
+entropy sum: 21733
+Страница 4544:
+entropy sum: 21866
+Страница 4545:
+entropy sum: 21326
+Страница 4546:
+entropy sum: 21398
+Страница 4547:
+entropy sum: 22321
+Страница 4548:
+entropy sum: 19697
+Страница 4549:
+entropy sum: 20767
+Страница 4550:
+entropy sum: 19820
+Страница 4551:
+entropy sum: 22086
+Страница 4552:
+entropy sum: 22011
+Страница 4553:
+entropy sum: 22516
+Страница 4554:
+entropy sum: 23614
+Страница 4555:
+entropy sum: 23049
+Страница 4556:
+entropy sum: 23662
+Страница 4557:
+entropy sum: 23131
+Страница 4558:
+entropy sum: 22511
+Страница 4559:
+entropy sum: 22599
+Страница 4560:
+entropy sum: 19613
+Страница 4561:
+entropy sum: 20568
+Страница 4562:
+entropy sum: 22421
+Страница 4563:
+entropy sum: 22263
+Страница 4564:
+entropy sum: 24203
+Страница 4565:
+entropy sum: 22695
+Страница 4566:
+entropy sum: 23213
+Страница 4567:
+entropy sum: 23524
+Страница 4568:
+entropy sum: 23730
+Страница 4569:
+entropy sum: 18921
+Страница 4570:
+entropy sum: 21689
+Страница 4571:
+entropy sum: 22270
+Страница 4572:
+entropy sum: 22792
+Страница 4573:
+entropy sum: 19187
+Страница 4574:
+entropy sum: 22698
+Страница 4575:
+entropy sum: 23344
+Страница 4576:
+entropy sum: 21643
+Страница 4577:
+entropy sum: 21192
+Страница 4578:
+entropy sum: 22088
+Страница 4579:
+entropy sum: 23565
+Страница 4580:
+entropy sum: 20854
+Страница 4581:
+entropy sum: 21502
+Страница 4582:
+entropy sum: 21914
+Страница 4583:
+entropy sum: 23120
+Страница 4584:
+entropy sum: 20118
+Страница 4585:
+entropy sum: 23482
+Страница 4586:
+entropy sum: 23870
+Страница 4587:
+entropy sum: 23770
+Страница 4588:
+entropy sum: 24335
+Страница 4589:
+entropy sum: 22922
+Страница 4590:
+entropy sum: 22700
+Страница 4591:
+entropy sum: 21797
+Страница 4592:
+entropy sum: 22727
+Страница 4593:
+entropy sum: 21594
+Страница 4594:
+entropy sum: 19744
+Страница 4595:
+entropy sum: 0
+Страница 4596:
+entropy sum: 0
+Страница 4597:
+entropy sum: 0
+Страница 4598:
+entropy sum: 0
