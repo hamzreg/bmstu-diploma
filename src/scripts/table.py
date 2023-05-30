@@ -49,6 +49,7 @@ def parse_lines(optimization, lines):
         data.append([i + 1])
 
         for value in values:
+            value = value[:-1] if value[-1] == ',' else value
             data[i].append(value)
 
         data[i].insert(columns_num, PAGE_SIZE)
