@@ -4,7 +4,7 @@
 #include "../inc/my_file.h"
 
 #define ARG_NUM 4
-
+#include <math.h>
 
 int main(int argc, char **argv)
 {

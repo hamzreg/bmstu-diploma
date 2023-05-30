@@ -27,8 +27,6 @@ ssh user@$VM1 "cat $STAT_PATH" > $VM1_STAT/mm_stat.txt
 ssh root@$VM1 "echo 1 > $RESET_PATH"
 ssh root@$VM1 "dmesg -s 32768 | grep zram" > $VM1_STAT/logfile.txt
 
-python3 table.py n $VM1_STAT/logfile.txt csv
-
 
 ssh user@$VM2 "rm -rf data && mkdir data"
 
@@ -41,5 +39,3 @@ ssh root@$VM2 "dd if=$DST/$DATA of=/dev/zram0"
 ssh user@$VM2 "cat $STAT_PATH" > $VM2_STAT/mm_stat.txt
 ssh root@$VM2 "echo 1 > $RESET_PATH"
 ssh root@$VM2 "dmesg | grep zram:" > $VM2_STAT/logfile.txt
-
-python3 table.py y $VM2_STAT/logfile.txt csv

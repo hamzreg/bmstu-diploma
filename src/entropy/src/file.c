@@ -68,10 +68,15 @@ int analyze_file(const char *const file_name, const int entropy_method,
             int entropy_sum = get_sw_entropy(data + page_size * (i + 1), type_log);
             printf("суммарная энтропия: %d\n", entropy_sum);
         }
-        else
+        else if (entropy_method == BINOMAL_ENTROPY)
         {
             long long entropy_sum = get_binomial_entropy(data + page_size * (i + 1), type_log);
             printf("суммарная энтропия: %lld\n", entropy_sum);
+        }
+        else if (entropy_method == KHAMZINA_ENTROPY)
+        {
+            int entropy_sum = get_khamzina_entropy(data + page_size * (i + 1), type_log);
+            printf("суммарная энтропия: %d\n", entropy_sum);
         }
     }
 

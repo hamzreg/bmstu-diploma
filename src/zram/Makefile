@@ -23,5 +23,39 @@ clean:
 	@rm -fR .tmp*
 	@rm -rf .tmp_versions
 
-disclean: clean
-	@rm -f *.ko *.symvers *.mod# SPDX-License-Identifier: GPL-2.0-only
+distclean:
+	@rm -f *.ko *.symvers *.mod
+
+load:
+	sudo insmod $(TARGET).ko
+
+info:
+	sudo lsmod | grep $(TARGET)
+
+log:
+	sudo dmesg | grep $(TARGET)
+
+unload:
+	sudo rmmod $(TARGET).ko
+
+
+add-disk:
+	cat /sys/class/zram-control/hot_add
+
+get-comp-algorithm:
+	cat /sys/block/zram$(id)/comp_algorithm
+
+set-comp-algorithm:
+	echo $(algorithm) > /sys/block/zram$(id)/comp_algorithm
+
+set-disksize:
+	echo $(disksize) > /sys/block/zram$(id)/disksize
+
+memory-stat:
+	cat  /sys/block/zram$(id)/mm_stat
+
+reset-disk:
+	echo 1 > /sys/block/zram$(id)/reset
+
+remove-disk:
+	echo $(id) > /sys/class/zram-control/hot_remove

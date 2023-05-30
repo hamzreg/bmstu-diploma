@@ -13,7 +13,8 @@ class Format:
 
 OUTPUT_PATH = '/home/regina/bmstu/bmstu-diploma/src/scripts/stat/'
 
-COLUMNS_NUM = 5
+EXTENDED_COLUMNS = 14
+BASE_COLUMNS = 3
 PAGE_SIZE = 4096
 
 SEPARATOR = ': '
@@ -35,7 +36,7 @@ def create_pretty_table(fields):
 
 
 def parse_lines(optimization, lines):
-    columns_num = COLUMNS_NUM if optimization else COLUMNS_NUM - 2
+    columns_num = EXTENDED_COLUMNS if optimization else BASE_COLUMNS
     data = []
 
     for i, line in enumerate(lines):
@@ -48,8 +49,6 @@ def parse_lines(optimization, lines):
         data.append([i + 1])
 
         for value in values:
-            value = value[:-1] if value[-1] == ',' else value
-
             data[i].append(value)
 
         data[i].insert(columns_num, PAGE_SIZE)
@@ -79,19 +78,23 @@ def get_data(optimization, logfile):
     return data
 
 
-# | ID | ENTROPY | ENTROPY_TIME | COMPRESSION_TIME | HANDLING_TIME | SIZE | COMPRESSED_SIZE | COMPRESSION_RATIO | COMPRESSION_FACTOR | SPACE_SAVINGS | COMPRESSION_GAIN |
-# | -- | ------- | ------------ | ---------------- | ------------- | ---- | --------------- | ----------------- | ------------------ | ------------- | ---------------- |
-
 def get_table(optimization, logfile, format):
-    fields = ['ID', 
-              'COMPRESSION_TIME', 'HANDLING_TIME', 
-              'SIZE', 'COMPRESSED_SIZE',
-              'COMPRESSION_RATIO', 'COMPRESSION_FACTOR',
-              'SPACE_SAVINGS', 'COMPRESSION_GAIN']
+    fields = ['ID']
 
     if optimization:
-        fields.insert(1, 'ENTROPY')
-        fields.insert(2, 'ENTROPY_TIME')
+        fields.extend(['SW_ENTROPY', 'SW_TIME',
+                       'SW4_ENTROPY', 'SW4_TIME',
+                       'SW5_ENTROPY', 'SW5_TIME',
+                       'B2_ENTROPY', 'B2_TIME',
+                       'B4_ENTROPY', 'B4_TIME',
+                       'KH_ENTROPY', 'KH_TIME'])
+        
+    fields.extend(['COMPRESSION_TIME', 'SIZE', 'COMPRESSED_SIZE',
+                   'COMPRESSION_RATIO', 'COMPRESSION_FACTOR',
+                   'SPACE_SAVINGS', 'COMPRESSION_GAIN'])
+    
+    if not optimization:
+        fields.insert(2, 'HANDLING_TIME')
 
     data = get_data(optimization, logfile)
 

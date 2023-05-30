@@ -49,16 +49,13 @@ long long get_binomial_entropy(const unsigned char *const src,
     int max_bits_num = page_size * BITS_NUM;
     units_number = units_number * 100 / max_bits_num;
     int zero_number = 100 - units_number;
-    printf("p = %d, 1 - p = %d\n", units_number, zero_number);
 
     //int binomial_factors[MSG_LEN + 1] = {1, 8, 28, 56, 70, 56, 28, 8, 1};
     int binomial_factors[MSG_LEN + 1] = {1, 4, 6, 4, 1};
     //int binomial_factors[MSG_LEN + 1] = {1, 2, 1};
 
     unsigned long long size = pow(100, MSG_LEN);
-    printf("size = %llu\n", size);
     unsigned long long a = log2_w(size, type_log);
-    printf("a = %llu\n", a);
     long long entropy_sum = 0;
 
     if (units_number == 0 || zero_number == 0)
@@ -69,21 +66,43 @@ long long get_binomial_entropy(const unsigned char *const src,
         unsigned long long p = 1;
 
         for  (int j = 0; j < i; ++j)
-        {
             p *= units_number;
-            //printf("p = %llu\n", p);
-        }
 
         for  (int j = 0; j < MSG_LEN - i; ++j)
-        {
             p *= zero_number;
-            //printf("p = %llu\n", p);
-        }
-
-        //printf("%lld\n", log2_w(p, type_log));
 
         entropy_sum += binomial_factors[i] * p * (a - log2_w(p, type_log));
-        //printf("entropy = %lld\n", entropy_sum);
+    }
+
+    return entropy_sum;
+}
+
+int get_khamzina_entropy(const unsigned char *const src,
+                         const int type_log)
+{
+    long page_size = sysconf(_SC_PAGESIZE);
+    int logs[PAGE_SIZE_POW + 1] = {1, 3, 7, 15, 31, 63, 127, 255, 511, 1023, 2047, 4095, 4096};
+
+    int bytes_frequency[BYTES_NUM] = { 0 };
+
+    for (int i = 0; i < page_size; ++i)
+        bytes_frequency[src[i]]++;
+
+    int entropy_sum = 0;
+
+    for (int i = 0; i < BYTES_NUM; ++i) 
+    {
+        double p = bytes_frequency[i];
+
+        if (p > 0)
+        {
+            int j = 0;
+
+            while (p > logs[j])
+                j++;
+
+            entropy_sum += p * (PAGE_SIZE_POW - j);
+        }
     }
 
     return entropy_sum;
