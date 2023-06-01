@@ -13,7 +13,7 @@ class Format:
 
 OUTPUT_PATH = '/home/regina/bmstu/bmstu-diploma/src/scripts/stat/'
 
-EXTENDED_COLUMNS = 14
+EXTENDED_COLUMNS = 13
 BASE_COLUMNS = 3
 PAGE_SIZE = 4096
 
@@ -24,6 +24,7 @@ def create_parser():
     parser.add_argument('optimization', choices=['y', 'n'], help='тип сжатия')
     parser.add_argument('logfile', help='системный файл')
     parser.add_argument('format', choices=[Format.pretty, Format.csv], help='формат вывода')
+    parser.add_argument('statfile', help='имя файла статистики')
 
     return parser
 
@@ -79,23 +80,20 @@ def get_data(optimization, logfile):
     return data
 
 
-def get_table(optimization, logfile, format):
+def get_table(optimization, logfile, format, statfile):
     fields = ['ID']
 
     if optimization:
         fields.extend(['SW_ENTROPY', 'SW_TIME',
                        'SW4_ENTROPY', 'SW4_TIME',
-                       'SW5_ENTROPY', 'SW5_TIME',
                        'B2_ENTROPY', 'B2_TIME',
                        'B4_ENTROPY', 'B4_TIME',
                        'KH_ENTROPY', 'KH_TIME'])
         
-    fields.extend(['COMPRESSION_TIME', 'SIZE', 'COMPRESSED_SIZE',
+    fields.extend(['COMPRESSION_TIME', 'HANDLING_TIME', 
+                   'SIZE', 'COMPRESSED_SIZE',
                    'COMPRESSION_RATIO', 'COMPRESSION_FACTOR',
                    'SPACE_SAVINGS', 'COMPRESSION_GAIN'])
-    
-    if not optimization:
-        fields.insert(2, 'HANDLING_TIME')
 
     data = get_data(optimization, logfile)
 
@@ -106,7 +104,7 @@ def get_table(optimization, logfile, format):
     else:
         df = pd.DataFrame(data, columns=fields)
         vm = 'vm2/' if optimization else 'vm1/'
-        df.to_csv(OUTPUT_PATH + vm + 'stat.csv')
+        df.to_csv(OUTPUT_PATH + vm + statfile + '.csv')
 
 
 if __name__ == '__main__':
@@ -118,4 +116,4 @@ if __name__ == '__main__':
     else:
         optimization = False
 
-    get_table(optimization, args.logfile, args.format)
+    get_table(optimization, args.logfile, args.format, args.statfile)
