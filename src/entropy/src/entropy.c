@@ -89,6 +89,7 @@ int get_khamzina_entropy(const unsigned char *const src,
         bytes_frequency[src[i]]++;
 
     int entropy_sum = 0;
+    int j = 0;
 
     for (int i = 0; i < BYTES_NUM; ++i) 
     {
@@ -96,10 +97,8 @@ int get_khamzina_entropy(const unsigned char *const src,
 
         if (p > 0)
         {
-            int j = 0;
-
-            while (p > logs[j])
-                j++;
+            for (j = 0; p > logs[j]; j++) {
+            }
 
             entropy_sum += p * (PAGE_SIZE_POW - j);
         }

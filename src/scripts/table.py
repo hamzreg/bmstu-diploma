@@ -13,7 +13,7 @@ class Format:
 
 OUTPUT_PATH = '/home/regina/bmstu/bmstu-diploma/src/scripts/stat/'
 
-EXTENDED_COLUMNS = 13
+EXTENDED_COLUMNS = 15
 BASE_COLUMNS = 3
 PAGE_SIZE = 4096
 
@@ -58,7 +58,11 @@ def parse_lines(optimization, lines):
         compression_ratio = float(PAGE_SIZE) / float(data[i][-1])
         compression_factor = 1 / compression_ratio
         space_savings = 1 - compression_factor
-        compression_gain = 100 * log(e, compression_ratio)
+
+        if compression_ratio == 1:
+            compression_gain = 0
+        else:
+            compression_gain = 100 * log(e, compression_ratio)
 
         data[i].append(compression_ratio)
         data[i].append(compression_factor)
@@ -88,7 +92,8 @@ def get_table(optimization, logfile, format, statfile):
                        'SW4_ENTROPY', 'SW4_TIME',
                        'B2_ENTROPY', 'B2_TIME',
                        'B4_ENTROPY', 'B4_TIME',
-                       'KH_ENTROPY', 'KH_TIME'])
+                       'KH_ENTROPY', 'KH_TIME',
+                       'KH4_ENTROPY', 'KH4_TIME'])
         
     fields.extend(['COMPRESSION_TIME', 'HANDLING_TIME', 
                    'SIZE', 'COMPRESSED_SIZE',
