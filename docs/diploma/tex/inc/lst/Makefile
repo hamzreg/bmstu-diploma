@@ -42,7 +42,7 @@ get-comp-algorithm:
 	cat /sys/block/zram$(id)/comp_algorithm
 
 set-comp-algorithm:
-	echo $(comp-algoritm) > /sys/block/zram$(id)/comp_algorithm
+	echo $(algorithm) > /sys/block/zram$(id)/comp_algorithm
 
 set-disksize:
 	echo $(disksize) > /sys/block/zram$(id)/disksize
