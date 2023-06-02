@@ -97,6 +97,11 @@ int get_khamzina_entropy(const unsigned char *const src,
 
         if (p > 0)
         {
+            // j = 0;
+
+            // while (p > logs[j])
+            //     j++;
+
             for (j = 0; p > logs[j]; j++) {
             }
 

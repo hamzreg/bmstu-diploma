@@ -93,7 +93,7 @@ def get_table(optimization, logfile, format, statfile):
                        'B2_ENTROPY', 'B2_TIME',
                        'B4_ENTROPY', 'B4_TIME',
                        'KH_ENTROPY', 'KH_TIME',
-                       'KH4_ENTROPY', 'KH4_TIME'])
+                       'KH2_ENTROPY', 'KH2_TIME'])
         
     fields.extend(['COMPRESSION_TIME', 'HANDLING_TIME', 
                    'SIZE', 'COMPRESSED_SIZE',
