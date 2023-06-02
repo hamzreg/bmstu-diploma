@@ -62,7 +62,7 @@ def parse_lines(optimization, lines):
         if compression_ratio == 1:
             compression_gain = 0
         else:
-            compression_gain = 100 * log(e, compression_ratio)
+            compression_gain = 100 * log(compression_ratio)
 
         data[i].append(compression_ratio)
         data[i].append(compression_factor)
