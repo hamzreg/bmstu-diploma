@@ -12,7 +12,7 @@ compress_again:
     zstrm = zcomp_stream_get(zram->comp);
     src = kmap_atomic(page);
 
-    if (get_sw_entropy((const u8 *)src) < ENTROPY_THRESHOLD)
+    if (get_entropy((const u8 *)src) < ENTROPY_THRESHOLD)
         ret = zcomp_compress(zstrm, src, &comp_len);
     else
         comp_len = PAGE_SIZE;
