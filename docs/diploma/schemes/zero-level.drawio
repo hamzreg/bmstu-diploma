@@ -1,62 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2023-05-20T10:22:32.848Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Mj6zX04fsOiNibO1OnV6" version="21.3.2" type="device">
+<mxfile host="app.diagrams.net" modified="2023-06-07T10:52:43.759Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="GURTN8cPTgvay2NUvqiD" version="21.3.7" type="device">
   <diagram name="Страница 1" id="pgUWzlrUVevQ2D5Vvk6Q">
-    <mxGraphModel dx="978" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="500" pageHeight="400" math="0" shadow="0">
+    <mxGraphModel dx="978" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="450" pageHeight="350" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="QktWzPdK9CgGakuP4GfK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="QktWzPdK9CgGakuP4GfK-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="38" y="200" as="targetPoint" />
+            <mxPoint x="19" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QktWzPdK9CgGakuP4GfK-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="QktWzPdK9CgGakuP4GfK-1" edge="1">
+        <mxCell id="p9PxyBr14WY96Y3L_3pp-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;startArrow=classicThin;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="QktWzPdK9CgGakuP4GfK-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="438" y="170" as="targetPoint" />
+            <mxPoint x="268" y="20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QktWzPdK9CgGakuP4GfK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="QktWzPdK9CgGakuP4GfK-1" edge="1">
+        <mxCell id="p9PxyBr14WY96Y3L_3pp-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="QktWzPdK9CgGakuP4GfK-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="438" y="230" as="targetPoint" />
+            <mxPoint x="182" y="20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QktWzPdK9CgGakuP4GfK-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="QktWzPdK9CgGakuP4GfK-1" edge="1">
+        <mxCell id="p9PxyBr14WY96Y3L_3pp-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QktWzPdK9CgGakuP4GfK-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="238" y="380" as="targetPoint" />
+            <mxPoint x="431" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QktWzPdK9CgGakuP4GfK-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="QktWzPdK9CgGakuP4GfK-1" edge="1">
+        <mxCell id="p9PxyBr14WY96Y3L_3pp-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="QktWzPdK9CgGakuP4GfK-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="278" y="20" as="targetPoint" />
+            <mxPoint x="225" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QktWzPdK9CgGakuP4GfK-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="QktWzPdK9CgGakuP4GfK-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="198" y="20" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QktWzPdK9CgGakuP4GfK-1" value="Оптимизация метода сжатия страниц памяти" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="158" y="140" width="160" height="120" as="geometry" />
+        <mxCell id="QktWzPdK9CgGakuP4GfK-1" value="Метод сжатия страниц памяти с использованием подсчета информационной энтропии" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="139" y="110" width="172" height="140" as="geometry" />
         </mxCell>
         <mxCell id="QktWzPdK9CgGakuP4GfK-2" value="A0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="268" y="230" width="60" height="30" as="geometry" />
+          <mxGeometry x="259" y="220" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QktWzPdK9CgGakuP4GfK-5" value="Страница памяти" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="38" y="160" width="110" height="30" as="geometry" />
+          <mxGeometry x="19" y="140" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QktWzPdK9CgGakuP4GfK-15" value="Операционная система" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="238" y="310" width="110" height="30" as="geometry" />
+          <mxGeometry x="231" y="280" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QktWzPdK9CgGakuP4GfK-18" value="Пороговое значение" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="278" y="60" width="90" height="30" as="geometry" />
+          <mxGeometry x="271" y="40" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QktWzPdK9CgGakuP4GfK-19" value="Метод подсчета информационной энтропии" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="88" y="60" width="90" height="30" as="geometry" />
+          <mxGeometry x="69" y="40" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ty4EMyjX9OsFzOMzOXdq-1" value="Страница с исходными данными" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="335" y="120" width="115" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Ty4EMyjX9OsFzOMzOXdq-2" value="Страница со сжатыми данными" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="337.5" y="185" width="110" height="30" as="geometry" />
+        <mxCell id="Ty4EMyjX9OsFzOMzOXdq-2" value="Страница со сжатыми данными" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="319" y="130" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

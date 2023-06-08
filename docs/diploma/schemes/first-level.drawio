@@ -1,97 +1,100 @@
-<mxfile host="app.diagrams.net" modified="2023-05-20T10:23:03.593Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="NkYiFl9P6zYr0yYXGZe1" version="21.3.2" type="device">
+<mxfile host="app.diagrams.net" modified="2023-06-07T11:09:32.500Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Ee2hpJyGOh17CC7soy6I" version="21.3.7" type="device">
   <diagram name="Страница 1" id="f4fDOJT5Sc-W-VsrJ05n">
-    <mxGraphModel dx="978" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="600" math="0" shadow="0">
+    <mxGraphModel dx="978" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NWmxPVxamy_frk0ITRtD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="NWmxPVxamy_frk0ITRtD-7" edge="1">
+        <mxCell id="NWmxPVxamy_frk0ITRtD-9" value="Страница памяти" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="4" y="160" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NWmxPVxamy_frk0ITRtD-10" value="Страница со сжатыми данными" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="784" y="410" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NWmxPVxamy_frk0ITRtD-12" value="Операционная система" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="404" y="640" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NWmxPVxamy_frk0ITRtD-13" value="Пороговое значение" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="460" y="70" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NWmxPVxamy_frk0ITRtD-14" value="Метод подсчета информационной энтропии" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="234" y="70" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NWmxPVxamy_frk0ITRtD-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="tiKWdERQgx0pd0HD9evK-4" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="59" y="195" as="targetPoint" />
+            <mxPoint x="894" y="480" as="targetPoint" />
+            <mxPoint x="829" y="407.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NWmxPVxamy_frk0ITRtD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="NWmxPVxamy_frk0ITRtD-7" edge="1">
+        <mxCell id="NWmxPVxamy_frk0ITRtD-20" value="Значение информационной энтропии" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="314" y="160" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tiKWdERQgx0pd0HD9evK-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="tiKWdERQgx0pd0HD9evK-4" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="259" y="15" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NWmxPVxamy_frk0ITRtD-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NWmxPVxamy_frk0ITRtD-7" target="NWmxPVxamy_frk0ITRtD-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NWmxPVxamy_frk0ITRtD-7" value="Посчитать информационную энтропию" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="179" y="135" width="160" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="NWmxPVxamy_frk0ITRtD-8" value="A1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="289" y="225" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NWmxPVxamy_frk0ITRtD-9" value="Страница памяти" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="59" y="155" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NWmxPVxamy_frk0ITRtD-10" value="Страница со сжатыми данными" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="840" y="390" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NWmxPVxamy_frk0ITRtD-11" value="Страница с исходными данными" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="835" y="240" width="115" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NWmxPVxamy_frk0ITRtD-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="NWmxPVxamy_frk0ITRtD-12" target="NWmxPVxamy_frk0ITRtD-16" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NWmxPVxamy_frk0ITRtD-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="NWmxPVxamy_frk0ITRtD-12" target="NWmxPVxamy_frk0ITRtD-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NWmxPVxamy_frk0ITRtD-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="NWmxPVxamy_frk0ITRtD-12" target="NWmxPVxamy_frk0ITRtD-7" edge="1">
-          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="444" y="590" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="501" y="525" />
-              <mxPoint x="259" y="525" />
+              <mxPoint x="699" y="590" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NWmxPVxamy_frk0ITRtD-12" value="Операционная система" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="446" y="555" width="110" height="30" as="geometry" />
+        <mxCell id="tiKWdERQgx0pd0HD9evK-4" value="Сжать данные страницы памяти" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="614" y="410" width="170" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="NWmxPVxamy_frk0ITRtD-13" value="Пороговое значение" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="501" y="65" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NWmxPVxamy_frk0ITRtD-14" value="Метод подсчета информационной энтропии" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="281" y="65" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NWmxPVxamy_frk0ITRtD-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="NWmxPVxamy_frk0ITRtD-15" edge="1">
+        <mxCell id="tiKWdERQgx0pd0HD9evK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="tiKWdERQgx0pd0HD9evK-6" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="501" y="15" as="targetPoint" />
+            <mxPoint x="14" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NWmxPVxamy_frk0ITRtD-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NWmxPVxamy_frk0ITRtD-15" target="NWmxPVxamy_frk0ITRtD-16" edge="1">
+        <mxCell id="tiKWdERQgx0pd0HD9evK-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="tiKWdERQgx0pd0HD9evK-6" edge="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="199" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tiKWdERQgx0pd0HD9evK-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="tiKWdERQgx0pd0HD9evK-6" target="tiKWdERQgx0pd0HD9evK-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tiKWdERQgx0pd0HD9evK-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="tiKWdERQgx0pd0HD9evK-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="454" y="590" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="621" y="345" />
-              <mxPoint x="621" y="435" />
+              <mxPoint x="199" y="590" />
+              <mxPoint x="445" y="590" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NWmxPVxamy_frk0ITRtD-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="NWmxPVxamy_frk0ITRtD-15" edge="1">
+        <mxCell id="tiKWdERQgx0pd0HD9evK-6" value="Посчитать значение информационной энтропии" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="114" y="130" width="170" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="tiKWdERQgx0pd0HD9evK-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="tiKWdERQgx0pd0HD9evK-9" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="941" y="285" as="targetPoint" />
+            <mxPoint x="449" y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NWmxPVxamy_frk0ITRtD-15" value="Сравнить значение информационной энтропии с пороговым значением" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="421" y="255" width="160" height="120" as="geometry" />
+        <mxCell id="tiKWdERQgx0pd0HD9evK-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.409;entryY=-0.333;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="tiKWdERQgx0pd0HD9evK-9" target="NWmxPVxamy_frk0ITRtD-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NWmxPVxamy_frk0ITRtD-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="NWmxPVxamy_frk0ITRtD-16" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="941" y="435" as="targetPoint" />
+        <mxCell id="859pZmR64V-zD9NIQ5OS-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tiKWdERQgx0pd0HD9evK-9" target="tiKWdERQgx0pd0HD9evK-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tiKWdERQgx0pd0HD9evK-9" value="Сравнить значение информационной энтропии с пороговым значением" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="364" y="270" width="170" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="tiKWdERQgx0pd0HD9evK-21" value="A1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="234" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tiKWdERQgx0pd0HD9evK-22" value="A2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="484" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tiKWdERQgx0pd0HD9evK-24" value="A3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="734" y="520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="859pZmR64V-zD9NIQ5OS-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="tiKWdERQgx0pd0HD9evK-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="200" as="sourcePoint" />
+            <mxPoint x="460" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="90" y="480" />
+            </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="NWmxPVxamy_frk0ITRtD-16" value="Сжать данные страницы памяти" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="661" y="375" width="160" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="NWmxPVxamy_frk0ITRtD-19" value="A2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="531" y="345" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NWmxPVxamy_frk0ITRtD-20" value="Значение информационной энтропии" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="361" y="165" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NWmxPVxamy_frk0ITRtD-21" value="A3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="771" y="465" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
