@@ -3,7 +3,8 @@
 
 static inline s32 get_entropy(const u8 *src)
 {
-    u16 logs[PAGE_SIZE_POW + 1] = {1, 3, 7, 15, 31, 63, 127, 255, 511, 1023, 2047, 4095, 4096};
+    u16 logs[PAGE_SIZE_POW + 1] = {1, 3, 7, 15, 31, 63, 
+        127, 255, 511, 1023, 2047, 4095, 4096};
     u16 bytes_frequency[BYTES_NUM] = { 0 };
     u32 i, j;
 
