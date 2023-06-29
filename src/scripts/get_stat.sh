@@ -25,7 +25,7 @@ ssh root@$VM1 "dd if=$DST/$DATA of=/dev/zram0"
 
 ssh user@$VM1 "cat $STAT_PATH" > $VM1_STAT/mm_stat.txt
 ssh root@$VM1 "echo 1 > $RESET_PATH"
-ssh root@$VM1 "dmesg -s 32768 | grep zram" > $VM1_STAT/logfile.txt
+ssh root@$VM1 "dmesg | grep zram" > $VM1_STAT/logfile.txt
 
 
 ssh user@$VM2 "rm -rf data && mkdir data"

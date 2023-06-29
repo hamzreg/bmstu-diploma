@@ -1321,40 +1321,39 @@ out:
 	return ret;
 }
 
-static inline u32 ilog2_w(u64 n)
-{
-	return ilog2(n * n * n * n);
-}
-
+#define PAGE_SIZE_POW 12
 #define BYTES_NUM 256
 
-static inline s32 get_sw_entropy(const u8 *src, s64 *delta)
+static inline s32 get_entropy(const u8 *src)
 {
-	u16 bytes_frequency[BYTES_NUM] = { 0 };
-	u32 i;
+    u16 logs[PAGE_SIZE_POW + 1] = {1, 3, 7, 15, 31, 63, 
+        127, 255, 511, 1023, 2047, 4095, 4096};
+    u16 bytes_frequency[BYTES_NUM] = { 0 };
+    u32 i, j;
 
-	ktime_t start = ktime_get();
+    for (i = 0; i < PAGE_SIZE; ++i) {
+        bytes_frequency[src[i]]++;
+    }
 
-	for (i = 0; i < PAGE_SIZE; ++i) {
-		bytes_frequency[src[i]]++;
-	}
+    s32 entropy = 0;
 
-	u32 a = ilog2_w(PAGE_SIZE);
-	s32 entropy = 0;
+    for (i = 0; i < BYTES_NUM; ++i) {
+        s32 k = bytes_frequency[i];
 
-	for (i = 0; i < BYTES_NUM; ++i) {
-		s32 probability = bytes_frequency[i];
+        if (k > 0) {
+            j = 0;
+            
+            while (k > logs[j])
+                j++;
 
-		if (probability > 0) {
-			entropy += probability * (a - ilog2_w((u64)probability));
-		}
-	}
+            entropy += k * (PAGE_SIZE_POW - logs[j]);
+        }
+    }
 
-	ktime_t start = ktime_get();
-	*delta = ktime_to_ns(ktime_sub(end, start));
-	
-	return entropy;
+    return entropy;
 }
+
+#define ENTROPY_LIMIT 34000
 
 static int __zram_bvec_write(struct zram *zram, struct bio_vec *bvec,
 				u32 index, struct bio *bio)
@@ -1368,17 +1367,6 @@ static int __zram_bvec_write(struct zram *zram, struct bio_vec *bvec,
 	struct page *page = bvec->bv_page;
 	unsigned long element = 0;
 	enum zram_pageflags flags = 0;
-	
-	ktime_t compression_start, start;
-	ktime_t compression_end, end;
-
-	s64 delta, entropy_delta = 0;
-	s64 compression_delta = 0;
-
-	s32 entropy = 0;
-	unsigned int my_comp_len = 0;
-
-	start = ktime_get();
 
 	mem = kmap_atomic(page);
 	if (page_same_filled(mem, &element)) {
@@ -1394,16 +1382,10 @@ compress_again:
 	zstrm = zcomp_stream_get(zram->comp);
 	src = kmap_atomic(page);
 
-	// получаем энтропию и ее время подсчета
-	entropy = get_sw_entropy((const u8 *)src, &entropy_delta);
-
-	// получаем время сжатия и размер сжатых данных
-	compression_start = ktime_get();
-	ret = zcomp_compress(zstrm, src, &comp_len);
-	compression_end = ktime_get();
-	compression_delta = ktime_to_ns(ktime_sub(compression_end, compression_start));
-
-	my_comp_len = comp_len;
+    if (get_entropy((const u8 *)src) < ENTROPY_LIMIT)
+        ret = zcomp_compress(zstrm, src, &comp_len);
+    else
+        comp_len = PAGE_SIZE;
 
 	kunmap_atomic(src);
 
@@ -1489,14 +1471,6 @@ out:
 		zram_set_obj_size(zram, index, comp_len);
 	}
 	zram_slot_unlock(zram, index);
-	
-	// получаем время обработки страницы
-	end = ktime_get();
-	delta = ktime_to_ns(ktime_sub(end, start));
-
-	printk(KERN_INFO "zram: %d, %lld, %lld, %lld, %u", entropy, entropy_delta,
-	                                                   compression_delta, delta,
-	                                                   my_comp_len);
 
 	/* Update stats */
 	atomic64_inc(&zram->stats.pages_stored);
